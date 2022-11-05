@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <style>
+    .sidenav {
+      position: fixed; width: 20em; top:10em ; right: 0;
+    }
+
+    .recent-post-list-heading {
+        font-size: medium;
+    }
+
+    .recent-post-list {
+        font-size: small;
+        margin-left: 0;
+        list-style: none;
+    }
+  </style>
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <aside class="sidenav">
+
+      {%- if site.posts.size > 0 -%}
+      <h2 class="recent-post-list-heading"> Posts </h2>
+      <ul class="recent-post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </li>
+        {%- endfor -%}
+      </ul>
+
+      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    {%- endif -%}
+
+    </aside>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
