@@ -34,6 +34,8 @@ plugins:
 
 permalink: pretty
 
+google_analytics: UA-18404460-1 #TODO converts to new variant G-VDG123TH9Z
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
