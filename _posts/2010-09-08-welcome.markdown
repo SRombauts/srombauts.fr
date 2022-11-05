@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome"
+date:   2010-09-08 21:36:00 +0200
+---
+Welcome to this blog, where I would like to share, as a developer, some of my experiences in Android development. [^1] [^2].
+
+See you,  
+SRombauts
+
+edit: [^3] [objectives for this Blog][objectives]
+
+[^1]: Android is just a mere excuses to share about any development-related subjects!
+[^2]: I'll probably switch to english since it's the language for software development. I actually switched to english while updating to  WordPress 3.3.1 (on the 2011/04/07)
+[^3]: Look at my [objectives for this Blog][objectives] to understand what you could expect of me.
+
+[objectives]: /2011/05/05/objectives-of-this-blog/
