@@ -18,14 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SRombauts's dev blog
+title: SRombauts's dev blog (WIP retrievial from archive)
+author: Sébastien Rombauts
 email: sebastien.rombauts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Comments from a C++/Android/VR/Game/Tools programmer ;)
+  Comments from a C++/Android/Game/Tools dev ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://srombauts.fr" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SRombauts
-github_username:  SRombauts
+github_username: SRombauts
+linkedin_username: SRombauts
 
 # Build settings
 theme: minima
