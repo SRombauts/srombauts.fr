@@ -39,6 +39,7 @@ show_excerpts: true
 header_pages:
   - about.markdown
   - list-posts.markdown
+  - portfolio.markdown
 
 permalink: pretty
 
