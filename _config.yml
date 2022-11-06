@@ -34,6 +34,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+show_excerpts: true
+
+header_pages:
+  - about.markdown
+  - list-posts.markdown
+
 permalink: pretty
 
 google_analytics: UA-18404460-1 #TODO converts to new variant G-VDG123TH9Z
