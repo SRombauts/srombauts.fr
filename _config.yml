@@ -19,20 +19,27 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SRombauts's dev blog (WIP retrievial from archive)
-author: Sébastien Rombauts
-email: sebastien.rombauts@gmail.com
+author:
+  name: Sébastien Rombauts
+  email: sebastien.rombauts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Comments from a C++/Android/Game/Tools dev ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://srombauts.fr" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SRombauts
-github_username: SRombauts
-linkedin_username: SRombauts
 
 # Build settings
-theme: minima
+# NOTE: use remote theme in order to fetch a much more recent version, including dark mode and new Google Analytics 4
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+
+minima:
+  skin: dark
+  social_links:
+    twitter: SRombauts
+    github: SRombauts
+    linkedin: SRombauts
 
 show_excerpts: true
 
@@ -43,7 +50,7 @@ header_pages:
 
 permalink: pretty
 
-google_analytics: UA-18404460-1 #TODO converts to new variant G-VDG123TH9Z
+google_analytics: G-VDG123TH9Z
 
 # Exclude from processing.
 # The following items will not be processed, by default.
