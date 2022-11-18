@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  "Objectives of this blog"
 date:   2011-05-05 23:48:00 +0200
 ---
-My goals for this blog has never been really clear for me. I bought the domain name when I registered as a Google Android Developer only because a Web site address was required for application publishing, and I though it would be fun to share some experience. I started to write it in French
+My goals for this blog has not been really clear for me. I bought the domain name when I registered as a Google Android Developer only because a Web site address was required for application publishing, and I though it would be fun to share some experience. I started to write it in French
 
 At the beginning, I did not use this blog frequently, and not the way I had expected. Lately I’ve became more active on it since I’ve discovered that what I was seeking was not sharing general though on Android, but only on some development related topic. What I like most to share are Howtos, Tutorials or easy to use Samples, and more specifically on subject that are not well documented or explored elsewhere (I like “terra incognita”)
 
@@ -21,4 +20,3 @@ SRombauts
 edit: [^1]
 
 [^1]: Android is just a mere occasion to start a blog and share about other development-related subjects!
-

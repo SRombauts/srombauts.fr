@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Unreal Engine 4.7 Released with my Git Source Control plugin!"
 date:   2015-02-25 12:27:00 +0200
 ---

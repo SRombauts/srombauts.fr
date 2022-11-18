@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Joining Unreal Engine 4 team for GDC 2016 in San Francisco!"
 date:   2016-03-02 22:33:00 +0200
 ---

@@ -18,39 +18,85 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SRombauts's dev blog (WIP retrievial from archive)
-author:
-  name: Sébastien Rombauts
-  email: sebastien.rombauts@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Comments from a C++/Android/Game/Tools dev ;)
+title: SRombauts' dev log
+name: Sébastien Rombauts
+email: sebastien.rombauts@gmail.com
+description: Comments from a Game/Tools dev ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://srombauts.fr" # the base hostname & protocol for your site, e.g. http://example.com
+repository: SRombauts/srombauts.fr
+
+author:
+  name: "Sébastien Rombauts"
+  avatar: "/assets/images/seb.jpeg"
+  bio: "Senior software engineer at Unity. Author of the Git & Plastic SCM source control plugins in UnrealEngine #gamedev" # Note: Markdown is allowed
+  location: "Paris, France"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SRombauts"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SRombauts"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/SRombauts"
+
+social:
+  links:
+    - "https://twitter.com/SRombauts"
+    - "https://github.com/SRombauts"
+    - "https://www.linkedin.com/in/SRombauts"
 
 # Build settings
 # NOTE: use remote theme in order to fetch a much more recent version, including dark mode and new Google Analytics 4
 # theme: minima
-remote_theme: jekyll/minima
+#remote_theme: jekyll/minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
-minima:
-  skin: dark
-  social_links:
-    twitter: SRombauts
-    github: SRombauts
-    linkedin: SRombauts
-
-show_excerpts: true
-
-header_pages:
-  - about.markdown
-  - list-posts.markdown
-  - portfolio.markdown
+locale: "en"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 permalink: pretty
 
-google_analytics: G-VDG123TH9Z
+# TODO twitter cards: You need to validate cards are working and have Twitter approve Player Cards before they will begin showing up.
+twitter:
+  username: "SRombauts"
+
+lunr:
+  search_within_pages: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-VDG123TH9Z"
+    anonymize_ip: false # default
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      comments: false
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true      
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
@@ -12,7 +12,7 @@ Includes some historical evidence of early gamedev enthusiasm!
 
 Have a look at [more details on my objectives for this programmers' blog][objectives]
 
-It is using [Jekyll][jekyll] static website generation and [Github Pages hosting][pages]. See its [source code repository on Github][repository].
+This website is using [Jekyll][jekyll] static website generation and [Github Pages hosting][pages]. See its [source code repository on Github][repository].
 
 [objectives]:   http://srombauts.fr/2011/05/05/objectives-of-this-blog/
 [jekyll]:       https://jekyllrb.com/

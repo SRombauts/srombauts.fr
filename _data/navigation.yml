@@ -1,0 +1,8 @@
+# TODO how to?
+#  - title: "Posts"
+#    url: /year-archive/
+main:
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/

@@ -1,0 +1,14 @@
+---
+title:  "Welcome"
+date:   2010-09-07 20:05:00 +0200
+---
+Welcome to this blog, where I would like to share, as a developer, some of my experiences in Android development.
+
+Though I'll focus at first on my current endeavour in C++ Android development, it's in fact just an excuse to share about all my development-related subjects over the years.
+
+See you,  
+SRombauts
+
+edit: Look at my [objectives for this Blog][objectives] to understand what you could expect of me.
+
+[objectives]: /2011/05/05/objectives-of-this-blog/

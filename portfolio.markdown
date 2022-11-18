@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Portfolio
 permalink: /portfolio/
 ---
@@ -23,6 +23,12 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 
 * [LoggerC++][LoggerCpp]: a simple, elegant and efficient C++ logger library.
 * [HtmlBuilder][HtmlBuilder]: a simple C++ HTML DOM generator (used in a couple embedded webservice). ![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png)
+
+TODO:
+
+* Add references to my experiments with Open GL, including my little [gltext](https://github.com/SRombauts/gltext)
+* Add references to my experiments with [Ogre 3D](https://www.ogre3d.org/)
+
 
 [UEGitPlugin]: https://github.com/SRombauts/UEGitPlugin
 [UEPlasticSCMPlugin]: https://github.com/SRombauts/UEPlasticPlugin

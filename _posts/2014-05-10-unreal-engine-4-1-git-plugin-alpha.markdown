@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Unreal Engine 4.1 Git Plugin alpha"
 date:   2014-05-10 12:40:00 +0200
 ---
@@ -24,11 +24,11 @@ Please let me know if you try it, an report any bug or missing feature.
 
 ![SourceControlLogin_Init](https://github.com/SRombauts/UEGitPlugin/raw/master/Screenshots/SourceControlLogin_Init.png)
 
-[UEGitPlugin]: https://github.com/SRombauts/UEGitPlugin
+[UEGitPlugin]:    https://github.com/SRombauts/UEGitPlugin
 [ForumSourceControl]: https://forums.unrealengine.com/unreal-engine/feedback-for-epic/615-additional-source-control-providers-support?p=167837#post167837
-[0.1-alpha]: https://github.com/SRombauts/UE4GitPlugin/releases/0.1-alpha
-[0.2-alpha]: https://github.com/SRombauts/UE4GitPlugin/releases/0.2-alpha
-[0.3-alpha]: https://github.com/SRombauts/UE4GitPlugin/releases/0.3-alpha
+[0.1-alpha]:      https://github.com/SRombauts/UE4GitPlugin/releases/0.1-alpha
+[0.2-alpha]:      https://github.com/SRombauts/UE4GitPlugin/releases/0.2-alpha
+[0.3-alpha]:      https://github.com/SRombauts/UE4GitPlugin/releases/0.3-alpha
 [ForumGitPlugin]: https://forums.unrealengine.com/showthread.php?6809-Git-Source-Control-Provider-Plugin
-[0.4-alpha]: https://github.com/SRombauts/UE4GitPlugin/releases/0.4-alpha
-[UE47GitPlugin]: /2015/02/25/unreal-engine-4-7-released-with-my-git-source-control-plugin/
+[0.4-alpha]:      https://github.com/SRombauts/UE4GitPlugin/releases/0.4-alpha
+[UE47GitPlugin]:  /2015/02/25/unreal-engine-4-7-released-with-my-git-source-control-plugin/
