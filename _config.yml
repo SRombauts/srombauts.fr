@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SRombauts' dev log
+title: SRombauts.fr
 name: Sébastien Rombauts
 email: sebastien.rombauts@gmail.com
 description: Comments from a Game/Tools dev ;)
