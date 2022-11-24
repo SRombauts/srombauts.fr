@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -18,14 +18,31 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SRombauts.fr
-name: Sébastien Rombauts
-email: sebastien.rombauts@gmail.com
-description: Comments from a Game/Tools dev ;)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://srombauts.fr" # the base hostname & protocol for your site, e.g. http://example.com
-repository: SRombauts/srombauts.fr
+locale                   : "en-US"
+title                    : "SRombauts.fr"
+title_separator          : "-"
+subtitle                 : "Comments from a developer"
+name                     : Sébastien Rombauts
+email                    : sebastien.rombauts@gmail.com
+description              : Comments from a Game/Tools dev ;)
+baseurl	                 : "" # the subpath of your site, e.g. /blog
+url                      : "http://srombauts.fr" # the base hostname & protocol for your site, e.g. http://example.com
+repository               : "SRombauts/srombauts.fr"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+words_per_minute         : 200
 
+
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia
+
+
+# Site Author
 author:
   name: "Sébastien Rombauts"
   avatar: "/assets/images/seb.jpeg"
@@ -42,40 +59,108 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/SRombauts"
 
+# Social Sharing
+twitter:
+  username               : &twitter "SRombauts"
+facebook:
+  username               : &facebook "SRombauts"
+  app_id                 :
+  publisher              :
+og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+
+# For specifying social profiles, used in _includes/seo.html
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
   links:
     - "https://twitter.com/SRombauts"
     - "https://github.com/SRombauts"
     - "https://www.linkedin.com/in/SRombauts"
 
+
 # Build settings
 # NOTE: use remote theme in order to fetch a much more recent version, including dark mode and new Google Analytics 4
-# theme: minima
-#remote_theme: jekyll/minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
 
-locale: "en"
-minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SRombauts"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/SRombauts"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/SRombauts"
 
-permalink: pretty
 
-# TODO twitter cards: You need to validate cards are working and have Twitter approve Player Cards before they will begin showing up.
-twitter:
-  username: "SRombauts"
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - "*.back"
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-lunr:
-  search_within_pages: true
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-VDG123TH9Z"
-    anonymize_ip: false # default
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -96,24 +181,59 @@ defaults:
     values:
       layout: single
       author_profile: true      
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+# permalink: /:categories/:title/
+permalink: pretty
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+timezone: Europe/Paris # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
