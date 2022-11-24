@@ -1,7 +1,8 @@
 ---
-layout: single
 title:  "Joining Unreal Engine 4 team for GDC 2016 in San Francisco!"
-date:   2016-03-02 22:33:00 +0200
+date:   2016-03-02 22:33:00 +0100
+tags:
+  - unreal-engine
 ---
 
 I am so excited to announce that I am joining the Unreal Engine 4 team to attend the [Game Developers Conference (GDC, Moscone Center in San Francisco, March 14-18 2016)][GDC2016] as a community member (with 9 other people of this great community)!

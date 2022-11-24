@@ -1,7 +1,9 @@
 ---
-layout: single
 title:  "Unreal Engine 4.1 Git Plugin alpha"
 date:   2014-05-10 12:40:00 +0200
+tags:
+  - unreal-engine
+  - vcs
 ---
 
 So at last I’ve started implementing an [open source C++ Git Source Control Plugin (Github)][UEGitPlugin] for Unreal Engine 4.1.

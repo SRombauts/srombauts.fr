@@ -2,8 +2,8 @@
 title:  "Unreal Engine 4: use Swarm to distribute Lighting build on Local Network"
 toc: true
 tags:
+  - unreal-engine
   - tutorial
-  - unreal
 ---
 
 This is a quick tutorial on how to install and configure Unreal Engine 4’s Swarm Agent and Coordinator to distribute Lighting build (that is, UE4’s Lightmass’s ray-tracing precomputations, running on the CPU) across a Local Network of 64 bits Windows 10 machines. There are already a few good ressources on the subject, but I had to read through a bunch of them to pick all the needed information.

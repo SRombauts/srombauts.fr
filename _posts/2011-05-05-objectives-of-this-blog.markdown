@@ -1,6 +1,8 @@
 ---
 title:  "Objectives of this blog"
 date:   2011-05-05 23:48:00 +0200
+tags:
+  - community
 ---
 My goals for this blog has not been really clear for me. I bought the domain name when I registered as a Google Android Developer only because a Web site address was required for application publishing, and I though it would be fun to share some experience. I started to write it in French
 

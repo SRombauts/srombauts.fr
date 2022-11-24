@@ -1,7 +1,9 @@
 ---
-layout: single
 title:  "Unreal Engine 4.7 Released with my Git Source Control plugin!"
-date:   2015-02-25 12:27:00 +0200
+date:   2015-02-25 12:27:00 +0100
+tags:
+  - unreal-engine
+  - vcs
 ---
 
 Great news, [Unreal Engine 4.7 has been released (UE blog)](https://www.unrealengine.com/en-US/blog/unreal-engine-47-released) with my [Git Source Control Provider plugin (Github)][UEGitPlugin]!

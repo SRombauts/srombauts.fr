@@ -1,8 +1,11 @@
 ---
-layout: single
 title:  "Unreal Engine 4.11 Plastic SCM Source Control Provider"
 date:   2016-04-25 22:00:00 +0200
+tags:
+  - unreal-engine
+  - vcs
 ---
+
 I have been working hard for the past month to develop a new [Unreal Engine 4 Source Control plugin (Github)][UEPlasticPlugin] for [Plastic SCM][plasticscm.com] (think modern Perforce with efficient and understandable GUI and very powerful branching management, with some Git interoperability).
 
 I’ve been using [my previous work (blog)][UE41GitPlugin] on the [Git Plugin for Unreal Engine 4 (Github)][UEGitPlugin]: ([now officially integrated in Engine (blog)][UE47GitPlugin]) to get the infrastructure work in a short time. Then I had to refactor a lot of it since the workflow of Plastic SCM is nothing like Git.
