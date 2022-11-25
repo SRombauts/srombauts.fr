@@ -4,6 +4,7 @@ date:   2015-02-25 12:27:00 +0100
 tags:
   - unreal-engine
   - vcs
+  - github
 ---
 
 Great news, [Unreal Engine 4.7 has been released (UE blog)](https://www.unrealengine.com/en-US/blog/unreal-engine-47-released) with my [Git Source Control Provider plugin (Github)][UEGitPlugin]!

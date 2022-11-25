@@ -4,6 +4,7 @@ date:   2016-04-25 22:00:00 +0200
 tags:
   - unreal-engine
   - vcs
+  - github
 ---
 
 I have been working hard for the past month to develop a new [Unreal Engine 4 Source Control plugin (Github)][UEPlasticPlugin] for [Plastic SCM][plasticscm.com] (think modern Perforce with efficient and understandable GUI and very powerful branching management, with some Git interoperability).

@@ -1,8 +1,8 @@
 ---
 title:  "Welcome"
+date:   2010-09-07 20:05:00 +0200
 tags:
   - community
-date:   2010-09-07 20:05:00 +0200
 ---
 Welcome to this blog, where I would like to share, as a developer, some of my experiences in Android development.
 
