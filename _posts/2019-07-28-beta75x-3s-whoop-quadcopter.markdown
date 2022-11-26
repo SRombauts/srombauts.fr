@@ -2,12 +2,10 @@
 title:  "Beta75X 3S Tiny Whoop Quadcopter"
 toc: true
 tags:
-  - drone
   - rc
-  - battery
 ---
 
-I have always been interested in Radio Controlled cars, airplanes, and later in this new trend with drones! Not these drones that follow you or use GPS to film or take pictures of the ground; what I enjoy is free flight, acrobatics even! But living near Paris, there really isn't a good option for these outdoor activities. Until... toothpick and tiny whoop mini drones are becoming a big thing!
+I have always been interested in Radio Controlled cars, planes, and later in this new trend with drones! Not these drones that follow you or use GPS to film or take pictures of the ground; what I enjoy is free flight, acrobatics even! But living near Paris, there really isn't a good option for these outdoor activities. Until... toothpick and tiny whoop mini drones are becoming a big thing!
 
 I have finally ordered a [Beta75X 3S Tiny Whoop quadcopter drone from BetaFPV][betafpv75x]. I won't use if with FPV mask or goggles for now, until I know what I would like to do with it. I feel that's the perfect format for me to start with; it's usable by a begginer completely indoor, and then it's also easy to try it outdoor even in very small areas. And finally, with it beeing so small, it's also something easy to transport for a weekend or vacations, and enjoy anywhere.
 
