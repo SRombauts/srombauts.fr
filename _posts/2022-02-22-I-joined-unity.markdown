@@ -7,9 +7,7 @@ tags:
   - community
 ---
 
-Hey, I have joined [Unity Technologies][Unity] as a Senior Software Engineer in the VCS Integrations team, part of DevOps!
-
-A significant part of my mission will be to integrate Plastic SCM into other application, starting with the [Plastic SCM plugin for Unreal Engine][UEPlasticPlugin] :)
+Hey, I have joined [Unity Technologies][Unity] as a Senior Software Engineer in the VCS Integrations team, part of DevOps! A significant part of my mission will be to integrate Plastic SCM into other application, starting with the [Plastic SCM plugin for Unreal Engine][UEPlasticPlugin] :)
 
 This thanks to [Unity Technologies acquiring Codice Software to bring Plastic SCM version control to real-time 3D workflows][UnityAcquiredCodice] back in August 17, 2020.
 
