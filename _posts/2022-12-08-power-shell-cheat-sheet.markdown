@@ -57,3 +57,9 @@ gives us a bigger application, but much faster to start:
     24.717
 
 [native-aot]: https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/
+
+## ConvertFrom-Json
+
+An equivalent to unix `| jq` Json reader/formatter in PowerShell
+
+    curl.exe http://localhost:18104/api/xxx -X GET -H "content-type: application/json" --header "Authorization: <token>" | ConvertFrom-Json
