@@ -13,6 +13,26 @@ The Youtube video that got me started (in French, but see similar videos in Engl
 
 {% include video id="qNyAMTq8BZ0" provider="youtube" %}
 
+## Cessna 172 characteristics
+
+### Real
+
+- 8.07m lenght from tip of the proppeler to the tail
+- 11.02m wingspan
+  - 2.54m to the break between wing flaps to ailerons
+- 3.45m tail width
+- 2.72m height to the tip of the tail
+- 2.18m width between the wheels
+
+### Model 1/7th
+
+- 101cm 1/8th length
+- 159cm 1/7th
+  - ?
+- 50cm 1/7th
+- ?38cm?
+- ?
+
 ## List of hardware
 
 ### Hardware
