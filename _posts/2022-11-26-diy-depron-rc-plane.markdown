@@ -67,6 +67,40 @@ Hardware I had for a few years, for [my tiny drone][Beta75x-drone]
 - Jumper T12 multi-protocol Tranceiver
 - LiPo 3S 300mAh batteries (I will ideally need to switch to +1000mAh for ~100g batteries for longer flights)
 
+## Weight issue
+
+Nearly 3 weeks in the slow process, I discoverd that the plane was weighting already close to 800g without the battery, compared to the supposed ready-to-fly 600g.
+
+1. I took a step back and weighted the equivalent of all the hot glue I had used so far; something like 5x20g is added to the plane :o ! That's bad. So people are using Cyanocrylate (brittle) or dedicated UHU POR like foam glue.
+2. Then I weighted the white adhesive tape I had used compared to a new one; some aditional 80g where added to the frame! That's super bad :(
+
+That's a hard lesson to learn so far in the project. Going from +600 to +800, ie adding 33% more weight is a big issue especially for a beginer trainer airplane.
+
+Now, this has muliple consequences;
+
+### Wheels
+
+Landing wheels where never robust enough, but now with all the extra weight, they are bending way to much, and I had to make them more streight, lossing some of the
+
+### Balance issue
+
+Now that's not all!
+With all this added weight, the plane is quite tail heavy, and this is also bad. Impossible to fly without adding more weight to the tip; I would need to buy bigger batteries and put them at the very front.
+
+### Solutions
+
+So now, I'll have to make sure to remove as much of the white adhesive tape, starting with the tail. And I'll make sure to weight all what I remove to take note of what I am saving their. After that, removing further to the fuselage can help even more with the weight, but won't play too much with the balance of the plane. Finaly, for the wings I think that I prefer to keep them like that for extra durability, but it will depend of my results with the above weight removal.
+
+In order to move more weight to the front, it could be good to cut and reglue the motor support a centimeter toward the tip, which would move something like 80g. A good win! Just quite destructive, especially since I already cut & reglue it once. In fact, there is probably too much glue to it.
+
+Another option to consider would be to dig into the fuselage to cut through some pieces and remove some of them, especially remove some part that are glued in order to remove the glue with it. But I fear that this would be much more invasive, destructive & maje the airplane more fragile.
+
+But at this stage, it might be better to just fly the plane until I crash it to hard, and build another one from scratch with all this experience aquired.
+
+### Results
+
+I was able to shave off ~28g from the tail and the rear of the fuselage. From a balance perspective it's a game changer.
+
 ## Other similar DIY videos
 
 {% include video id="LzZ4Oqk_J1Y" provider="youtube" %}
