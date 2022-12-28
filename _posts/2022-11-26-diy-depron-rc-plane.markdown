@@ -1,5 +1,6 @@
 ---
 title:  "DIY building an RC plane from Depron"
+toc: true
 tags:
   - diy
   - rc
@@ -112,4 +113,4 @@ I'll make sure to update this post with pictures of the work in progress.
 
 Cheers!
 
-[Beta75x-drone]: /2022-11-26-diy-depron-rc-plane
+[Beta75x-drone]: /2019/07/28/beta75x-3s-whoop-quadcopter/

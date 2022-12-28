@@ -81,7 +81,13 @@ It is possible that I will wait instead for HD digital solution to take over, as
 
 I might one day opt for a bigger drone, into the cinewhoop category for example.
 
+### RC Planes
+
+Edit December 2022: the future is there, and I have now built not one, but two RC planes!
+See [DIY Depron RC Plane][diy-depron].
+
 [betafpv75x]: https://betafpv.com/products/beta75x-whoop-quadcopter-3s
 [betafpv2sbattery]: https://betafpv.com/products/350mah-2s-lipo-battery-2pcs
 [betafpv3sbattery]: https://betafpv.com/products/300mah-3s-45c-lipo-battery-s-version-2pcs
 [jumpert12plus]: https://www.jumper-rc.com/products/transmitters/t12-plus/
+[diy-depron]: /2022/11/26/diy-depron-rc-plane/
