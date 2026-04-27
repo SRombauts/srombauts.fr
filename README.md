@@ -2,6 +2,6 @@
 
 [My programmer's blog objectives][objectives], using [Jekyll][jekyll] static website generation and [Github Pages hosting][pages].
 
-[objectives]:   http://srombauts.fr/2011/05/05/objectives-of-this-blog/
+[objectives]:   http://srombauts.eu/2011/05/05/objectives-of-this-blog/
 [jekyll]:       https://jekyllrb.com/
 [pages]:        https://pages.github.com/

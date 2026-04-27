@@ -14,7 +14,7 @@ Have a look at [more details on my objectives for this programmers' blog][object
 
 This website is using [Jekyll][jekyll] static website generation and [Github Pages hosting][pages]. See its [source code repository on Github][repository].
 
-[objectives]:   http://srombauts.fr/2011/05/05/objectives-of-this-blog/
+[objectives]:   http://srombauts.eu/2011/05/05/objectives-of-this-blog/
 [jekyll]:       https://jekyllrb.com/
 [pages]:        https://pages.github.com/
 [repository]:   https://github.com/SRombauts/srombauts.fr
