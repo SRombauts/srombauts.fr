@@ -16,7 +16,7 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 
 * [UE4 Architecture Vis Demo][UE4ArchVisDemo.io] ([repo][UE4ArchVisDemo]): run a live demo in the browser using HTML5. [![ArchVis Demo screenshot](https://raw.githubusercontent.com/SRombauts/UE4ArchVisDemo/master/Screenshots/UE4ArchVisDemo.png)](https://srombauts.github.io/UE4ArchVisDemo/)
 *Clic the image for the HTML5/WebAssembly live demo*
-* [UE4 Quick Start][UE4QuickStart]: a mix of various Unreal Engine 4 C++ Tutorials. ![Programming Quick Start](https://docs.unrealengine.com/5.0/Images/programming-and-scripting/programming-language-implementation/cpp-in-unreal-engine/unreal-engine-cpp-tutorials/cpp-programming-quick-start/ProgrammingQuickStartTopic.webp)
+* [UE4 Quick Start][UE4QuickStart]: a mix of various Unreal Engine 4 C++ Tutorials. ![Programming Quick Start](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-cpp-quick-start)
 
 ## C++
 
@@ -26,11 +26,13 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 * [shared_ptr][shared_ptr.io] ([repo][shared_ptr]): a minimal light and fast shared_ptr implementation designed to handle cases where boost/std::shared_ptr are not available. ![Shared Pointer UML](http://zhaoyan.website/xinzhi/cpp/html/pics/shared.png)
 
 * [LoggerC++][LoggerCpp.io] ([repo][LoggerCpp]): a simple, elegant and efficient C++ logger library.
-* [HtmlBuilder][HtmlBuilder]: a simple C++ HTML DOM generator (used in a couple embedded webservice). ![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png)
+* [HtmlBuilder][HtmlBuilder]: a simple C++ HTML DOM generator (used in a couple embedded webservice). ![HTML5 logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
 
 ## TODO
 
+* Add references to my experiments with AI Coding Agents (Custom Instructions & Claude Code Skills)
 * Add references to my experiments with [Entity Component Systems (ecs)][ecs]
+* Add references to my experiments with [SDL][sdl]
 * Add references to my experiments with Open GL, including my little [gltext][gltext]
 * Add references to my experiments with [Ogre 3D][Ogre3D]
 * Add references to my experiments with [ZeroMQ (eg ZMQCpp)][ZMQCpp]
@@ -56,6 +58,7 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 [HtmlBuilder]:  https://github.com/SRombauts/HtmlBuilder
 
 [ecs]: https://github.com/SRombauts/ecs
+[sdl]: https://www.libsdl.org/
 [gltext]: https://github.com/SRombauts/gltext
 [Ogre3D]: https://www.ogre3d.org/
 [ZMQCpp]: https://github.com/SRombauts/ZMQCpp
