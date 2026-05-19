@@ -8,6 +8,10 @@ Comments from a ~~C++~~ ~~Android~~ ~~VR~~ ~~Game~~ Tools programmer ;)
 
 Includes some historical evidence of early gamedev enthusiasm!
 
+I am a Senior Software Engineer focused on developer tools, C++, Unreal Engine and Unity, source control and build system integrations, and AI-assisted software engineering.
+
+I have built and maintained open-source C++ libraries and Unreal Engine source-control plugins used by developers over many years. More recently, I have been exploring how repository instructions, Claude Code skills, and coding agents can be used effectively on my codebases.
+
 ## Details
 
 Have a look at [more details on my objectives for this programmers' blog][objectives]
