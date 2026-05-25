@@ -8,6 +8,8 @@ tags:
 
 I figured that I should keep track of some useful command-line tools that I am learning, so I'll write down them as blog posts and keep updating them.
 
+*edit 2026-05-25: added a few commands around finding which executable is actually being used on Windows, and a couple of related `PATH` debugging tricks.*
+
 ## Benchmarking .NET 7
 
 I got started by this video {% include video id="sa3XsvSiMtk" provider="youtube" %}
@@ -63,3 +65,41 @@ gives us a bigger application, but much faster to start:
 An equivalent to unix `| jq` Json reader/formatter in PowerShell
 
     curl.exe http://localhost:18104/api/xxx -X GET -H "content-type: application/json" --header "Authorization: <token>" | ConvertFrom-Json
+
+## Find which executable is actually being used
+
+In PowerShell, list **all** matches across `PATH`, in the order they would be resolved:
+
+    Get-Command cmake.exe -All | Select-Object Source
+
+Or, the `cmd.exe` equivalent (also works from PowerShell since it is just an `.exe`):
+
+    where cmake
+
+## Resolve the single path that *will* be executed
+
+If you just want the one binary that would actually run:
+
+    (Get-Command cmake.exe).Path
+
+## Check the current PATH order
+
+Useful right after the previous command, to understand *why* the wrong copy wins, listing one entry per line in resolution order:
+
+    $env:Path -split ';'
+
+To filter only the likely culprits:
+
+    $env:Path -split ';' | Select-String -Pattern 'cmake'
+
+And to do the same for the user-scoped or machine-scoped `PATH` :
+
+    [Environment]::GetEnvironmentVariable('PATH', 'User')    -split ';'
+    [Environment]::GetEnvironmentVariable('PATH', 'Machine') -split ';'
+
+## List environment variables
+
+PowerShell exposes environment variables as a drive:
+
+    Get-ChildItem env:
+    Get-ChildItem env:Path
