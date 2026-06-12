@@ -301,6 +301,20 @@ text/edges, flat-color graphics, or images needing transparency. Otherwise
 prefer JPEG (photos, renders, noise/gradient fields) or WebP, which keep the
 page weight down with no visible loss.
 
+### Footnotes (the `edit:`/`note:` pattern)
+
+Retrospective `edit:` and `note:` lines link to a kramdown footnote (`note: [^1]`
+in the body, `[^1]: ...` defined near the bottom).
+
+**Keep each footnote definition on a single line.** In kramdown (the Markdown
+engine here), continuation lines of a footnote definition must be indented by four
+spaces/one tab; an unindented soft-wrapped second line is parsed as a *separate
+paragraph after the footnote*, so the wrapped text leaks into the page body instead
+of staying in the footnote. Either keep the whole `[^1]: ...` definition on one
+(long) line, or indent every continuation line by four spaces. The one-line form is
+simpler and the convention used across the posts. This is the documented kramdown
+rule, not a quirk: <https://kramdown.gettalong.org/syntax.html#footnotes>.
+
 ---
 
 ## 7. Build & deploy

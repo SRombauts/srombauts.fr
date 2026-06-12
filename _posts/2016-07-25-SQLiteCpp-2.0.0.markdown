@@ -1,0 +1,30 @@
+---
+title:  "SQLiteC++ 2.0.0"
+date:   2016-07-25 21:00:00 +0200
+tags:
+  - c++
+  - github
+---
+
+[SQLiteC++][SQLiteCpp] 2.0.0 is out, a bit over a year after [1.0.0][SQLiteCpp100]. The major version bump is there because a few APIs changed in incompatible ways, but the interesting part is what changed under the hood.
+
+Highlights:
+
+- `sqlite3.h` is no longer included from the public headers. The wrapper forward-declares what it needs, so your code can use SQLiteC++ without pulling the SQLite C header into your own include path.
+- New `Statement::bindNoCopy()` methods that pass `SQLITE_STATIC` to SQLite, avoiding an internal copy of the bound string or blob when you can guarantee the buffer outlives the statement.
+- Variadic-template `bind()` to bind several parameters in a single call.
+- `Database::VERSION` for the SQLiteC++ version known at compile time, plus `getLibVersion()` and `getLibVersionNumber()` for the SQLite version at runtime.
+- Clearer exception messages, a `uint32_t` bind with `Column::getUint()`, and the bundled SQLite updated to 3.13.
+
+Code, documentation and examples on GitHub: [github.com/SRombauts/SQLiteCpp][SQLiteCpp].
+
+Next milestone: [SQLiteC++ 3.0.0][SQLiteCpp300].
+
+note: [^1]
+
+[^1]: Written retrospectively in 2026 while documenting the SQLiteC++ milestones. The release and its date are real (see the project [CHANGELOG][changelog]).
+
+[SQLiteCpp]:    https://github.com/SRombauts/SQLiteCpp
+[SQLiteCpp100]: /2015/05/03/SQLiteCpp-1.0.0/
+[SQLiteCpp300]: /2020/01/31/SQLiteCpp-3.0.0/
+[changelog]:    https://github.com/SRombauts/SQLiteCpp/blob/master/CHANGELOG.md

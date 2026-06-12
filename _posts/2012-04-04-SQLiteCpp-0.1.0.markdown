@@ -16,4 +16,7 @@ The code, the documentation and a couple of examples are on GitHub: [github.com/
 
 It is under the MIT license, so use it as you like, and send me feedback or pull requests.
 
-[SQLiteCpp]: https://github.com/SRombauts/SQLiteCpp
+edit: this was only the start; the next milestone is [SQLiteC++ 1.0.0, the first stable release][SQLiteCpp100].
+
+[SQLiteCpp]:    https://github.com/SRombauts/SQLiteCpp
+[SQLiteCpp100]: /2015/05/03/SQLiteCpp-1.0.0/
