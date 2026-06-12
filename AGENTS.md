@@ -292,8 +292,14 @@ Place files in `assets/images/` and reference them with absolute root-relative
 paths so they work both locally and on the deployed site:
 
 ```markdown
-![alt text](/assets/images/Beta75X-3S-Whoop-Quadcopter.webp)
+![alt text](/assets/images/SimplexNoise-2D-7octaves.jpg)
 ```
+
+Favor a more compressed format than PNG for the web. PNG is large for
+photographic or smooth-gradient images; reserve it for screenshots with sharp
+text/edges, flat-color graphics, or images needing transparency. Otherwise
+prefer JPEG (photos, renders, noise/gradient fields) or WebP, which keep the
+page weight down with no visible loss.
 
 ---
 
