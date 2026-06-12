@@ -108,6 +108,8 @@ $ /data/tmp/hello-ndk
 
 You should get a "Hello from NDK" on the command line, and the same message on the logcat window of Eclipse (in green, info level).
 
+![Hello NDK Logcat](/assets/images/Hello-NDK-Logcat.png)
+
 For normal users that are not root (no "su" command), there is no way (oops, see edit bellow) of launching directly a native application under Android: you have to package it in a standard Android application .apk and use it from Java code. See [http://gimite.net/en/index.php?Run%20native%20executable%20in%20Android%20App](http://gimite.net/en/index.php?Run%20native%20executable%20in%20Android%20App).
 
 edit: look at the comment from pitypang, the path /data/local/tmp should work for an unrooted phone !

@@ -59,6 +59,6 @@ Copy the above "libs" directory to `~/android-cmake/samples/hello-android-cmake`
 
 Build the application, and launch it on an emulator or an actual device. You should see an activity showing the multi-line text starting by "JNI — pi = 3.14159..." coming from our shared library!
 
-![Hello Android CMake](http://www.srombauts.fr/wp-content/uploads/HelloAndroidCMake.png)
+![Hello Android CMake](/assets/images/HelloAndroidCMake.png)
 
 Here you are!
