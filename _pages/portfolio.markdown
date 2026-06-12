@@ -28,7 +28,7 @@ This very site is a small public example. Have a look at its [`AGENTS.md`][agent
 
 * [SQLiteC++][SQLiteCpp.io] ([repo][SQLiteCpp]): a smart an easy to use C++ wrapper to the SQLite3 library. ![SQLite logo](https://www.sqlite.org/images/sqlite370_banner.gif)
 * [SimplexNoise][SimplexNoise]: A Perlin’s Simplex Noise C++ Implementation (1D, 2D, 3D).
-![1 octave of 2D Simplex Noise](https://raw.githubusercontent.com/SRombauts/SimplexNoise/master/Screenshots/Simplex2D-7octaves.png) 2D image of fractal noise with 7 octaves of 2D Simplex Noise (from my [SimplexNoiseCImg example project](https://github.com/SRombauts/SimplexNoiseCImg))
+![2D Simplex fractal noise, 7 octaves](/assets/images/SimplexNoise-2D-7octaves.jpg) 2D image of fractal noise with 7 octaves of 2D Simplex Noise (from my [SimplexNoiseCImg example project](https://github.com/SRombauts/SimplexNoiseCImg))
 * [shared_ptr][shared_ptr.io] ([repo][shared_ptr]): a minimal light and fast shared_ptr implementation designed to handle cases where boost/std::shared_ptr are not available. ![Shared Pointer UML](http://zhaoyan.website/xinzhi/cpp/html/pics/shared.png)
 
 * [LoggerC++][LoggerCpp.io] ([repo][LoggerCpp]): a simple, elegant and efficient C++ logger library.
