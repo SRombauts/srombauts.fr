@@ -23,7 +23,7 @@ and later down:
 I’ve started working on this [open source C++ Git plugin (Github)][UEGitPlugin] not long after the UE 4 “open source” release in early 2014.
 I’ve released a [first rough alpha version of the plugin in May 2014 (blog)][GitPluginAlpha]. Since then, I’ve poured dozens of hours of work to maintain and improve it.
 
-![Git Logo](https://git-scm.com/images/logos/2color-lightbg@2x.png)
+![Git Logo](/assets/images/git-logo-2color-lightbg@2x.png)
 
 Lately they asked me for official integration, and I am proud of it!
 

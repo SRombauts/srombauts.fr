@@ -9,7 +9,7 @@ tags:
 
 So at last I’ve started implementing an [open source C++ Git Source Control Plugin (Github)][UEGitPlugin] for Unreal Engine 4.1.
 
-![Git Logo](https://git-scm.com/images/logos/2color-lightbg@2x.png){: width="250" }
+![Git Logo](/assets/images/git-logo-2color-lightbg@2x.png){: width="250" }
 
 For know it is barely a Windows-only “pre-alpha v0.0” version. It does only provide overlay icons to show status of your project content assets.
 
