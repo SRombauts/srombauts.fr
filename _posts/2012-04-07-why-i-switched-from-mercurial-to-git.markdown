@@ -1,6 +1,6 @@
 ---
 title:  "Why I switched from Mercurial to Git"
-date:   2012-04-12 22:57:00 +0200
+date:   2012-04-07 22:57:00 +0200
 tags:
   - tools
   - vcs

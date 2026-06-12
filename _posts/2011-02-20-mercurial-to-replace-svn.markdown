@@ -40,4 +40,4 @@ Edit 2: please, have a look at my newer post [Why I switched from Mercurial to G
 [TortoiseGit]: https://tortoisegit.org/
 [HgInit]: https://hginit.github.io/
 
-[SwitchToGit]: /2012/04/12/why-i-switched-from-mercurial-to-git/
+[SwitchToGit]: /2012/04/07/why-i-switched-from-mercurial-to-git/
