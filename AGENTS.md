@@ -301,6 +301,26 @@ text/edges, flat-color graphics, or images needing transparency. Otherwise
 prefer JPEG (photos, renders, noise/gradient fields) or WebP, which keep the
 page weight down with no visible loss.
 
+### `edit:` / `note:` lines and footnotes
+
+Posts use short `edit:` prefixes for things added after the fact (a
+long-standing repo convention, also seen capitalized as `Edit:` / `Edit 2015:`).
+Common use: an inline forward link to a later related post (e.g.
+`edit: the next milestone is [...]`)
+
+Similarly, `note:` is used for retrospective disclosure that points to
+a kramdown footnote (`note: [^1]` in the body, with `[^1]: ...` defined near the
+bottom of the file).
+
+**Keep each footnote definition on a single line.** In kramdown (the Markdown
+engine here), continuation lines of a footnote definition must be indented by four
+spaces/one tab; an unindented soft-wrapped second line is parsed as a *separate
+paragraph after the footnote*, so the wrapped text leaks into the page body instead
+of staying in the footnote. Either keep the whole `[^1]: ...` definition on one
+(long) line, or indent every continuation line by four spaces. The one-line form is
+simpler and the convention used across the posts. This is the documented kramdown
+rule, not a quirk: <https://kramdown.gettalong.org/syntax.html#footnotes>.
+
 ---
 
 ## 7. Build & deploy

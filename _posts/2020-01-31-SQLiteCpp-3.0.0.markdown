@@ -1,0 +1,29 @@
+---
+title:  "SQLiteC++ 3.0.0: C++11 is now required"
+date:   2020-01-31 21:00:00 +0100
+tags:
+  - c++
+  - github
+---
+
+[SQLiteC++][SQLiteCpp] 3.0.0 is out. After years of keeping the code compatible with old compilers, C++11 is now required, which lets me drop a lot of conditional code and rely on the standard library.
+
+Highlights:
+
+- C++11 is now the minimum, along with CMake 3.1 and Visual Studio 2015.
+- Continuous integration moved to GitHub Actions, with Valgrind memcheck added on Travis CI.
+- `Database::backup()` now goes through the `Backup` class instead of a separate C implementation.
+- Removed `Statement::isOk()`, deprecated back in 2.2.0 in favour of `hasRow()`.
+
+By this point the library had grown well beyond the small wrapper I [started in 2012][SQLiteCpp010]: it is used in a lot of projects, and it is still maintained today (latest release 3.3.3 in May 2025). Code, documentation and examples on GitHub: [github.com/SRombauts/SQLiteCpp][SQLiteCpp].
+
+Previous milestone: [SQLiteC++ 2.0.0][SQLiteCpp200].
+
+edit: [^1]
+
+[^1]: Written retrospectively in 2026 while documenting the SQLiteC++ milestones. The release and its date are real (see the project [CHANGELOG][changelog]).
+
+[SQLiteCpp]:    https://github.com/SRombauts/SQLiteCpp
+[SQLiteCpp010]: /2012/04/04/SQLiteCpp-0.1.0/
+[SQLiteCpp200]: /2016/07/25/SQLiteCpp-2.0.0/
+[changelog]:    https://github.com/SRombauts/SQLiteCpp/blob/master/CHANGELOG.md

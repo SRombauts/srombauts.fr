@@ -1,0 +1,29 @@
+---
+title:  "SQLiteC++ 1.0.0: first stable release"
+date:   2015-05-03 21:00:00 +0200
+tags:
+  - c++
+  - github
+---
+
+Three years after the [first 0.1.0 release][SQLiteCpp010], [SQLiteC++][SQLiteCpp] reaches 1.0.0. This means I am comfortable sharing it more broadlin and letting people depend on it.
+
+What 1.0.0 brings:
+
+- Public headers moved to a dedicated `include/` directory, for a clean include layout.
+- A real unit test suite, so I can rework the internals without breaking the API by accident.
+- A busy-timeout parameter on the `Database` constructors.
+- New accessors: `Database::getTotalChanges()`, `Database::getErrorCode()`, `Statement::clearBindings()`, `Statement::getColumn(name)`, `Statement::getErrorCode()` and the column name methods.
+
+As a reminder, it focuses on simplicity, RAII and exceptions instead of return codes, and is under the MIT license. Code, documentation and examples on GitHub: [github.com/SRombauts/SQLiteCpp][SQLiteCpp].
+
+edit: the next milestone is [SQLiteC++ 2.0.0][SQLiteCpp200].
+
+note: [^1]
+
+[^1]: Written retrospectively in 2026 while documenting the SQLiteC++ milestones. The release and its date are real (see the project [CHANGELOG][changelog]).
+
+[SQLiteCpp]:    https://github.com/SRombauts/SQLiteCpp
+[SQLiteCpp010]: /2012/04/04/SQLiteCpp-0.1.0/
+[SQLiteCpp200]: /2016/07/25/SQLiteCpp-2.0.0/
+[changelog]:    https://github.com/SRombauts/SQLiteCpp/blob/master/CHANGELOG.md
