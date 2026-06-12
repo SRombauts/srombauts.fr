@@ -22,7 +22,7 @@ This very site is a small public example. Have a look at its [`AGENTS.md`][agent
 
 * [UE4 Architecture Vis Demo][UE4ArchVisDemo.io] ([repo][UE4ArchVisDemo]): run a live demo in the browser using HTML5. [![ArchVis Demo screenshot](https://raw.githubusercontent.com/SRombauts/UE4ArchVisDemo/master/Screenshots/UE4ArchVisDemo.png)](https://srombauts.github.io/UE4ArchVisDemo/)
 *Clic the image for the HTML5/WebAssembly live demo*
-* [UE4 Quick Start][UE4QuickStart]: a mix of various Unreal Engine 4 C++ Tutorials. ![Programming Quick Start](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-cpp-quick-start)
+* [UE4 Quick Start][UE4QuickStart]: a mix of various Unreal Engine 4 C++ Tutorials, based on the [Programming Quick Start](https://dev.epicgames.com/documentation/unreal-engine/unreal-engine-cpp-quick-start) guide.
 
 ## C++
 
