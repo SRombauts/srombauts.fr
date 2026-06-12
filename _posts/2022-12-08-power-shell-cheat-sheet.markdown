@@ -41,7 +41,7 @@ Default output of Measure-Command, using git.exe as a benchmark for a real-life 
 
 comparing to a full C# command line application using .NET runtime, this time Plastic SCM
 
-    PS C:\> ( Measure-Command { cm.exe version ).TotalMilliseconds
+    PS C:\> ( Measure-Command { cm.exe version } ).TotalMilliseconds
     395.9726
 
 with a simple C# console app I get better results (note that in this instance the Release build doesn't run any faster):
