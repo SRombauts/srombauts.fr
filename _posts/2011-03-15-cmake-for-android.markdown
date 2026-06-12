@@ -3,6 +3,7 @@ title: "CMake for Android"
 date: 2011-03-15 20:09:32 +0100
 tags:
   - android
+  - tutorial
 ---
 
 [Last time, we've seen how to install and test the standalone toolchain of the NDK](/2011/03/06/standalone-toolchain/) to build a native shared library with a **standard Makefile & make command** under Linux.

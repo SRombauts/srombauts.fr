@@ -3,6 +3,7 @@ title: "Adding a “What’s New” screen to your Android application"
 date: 2011-04-21 00:11:04 +0200
 tags:
   - android
+  - tutorial
 ---
 
 In some case, you want users of your application to explicitly approve a License before being able to use your software. Adding an EULA (*End User License Agreement*) screen (a *Dialog*) to pop at the first start of an Android Java Application, is really simple and well documented on the web.

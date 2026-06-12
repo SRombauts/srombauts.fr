@@ -2,6 +2,7 @@
 title: "Android NDK r10e and Standalone Toolchain on Ubuntu 14.04"
 tags:
   - android
+  - tutorial
 date: 2015-08-21 15:45:18 +0200
 ---
 

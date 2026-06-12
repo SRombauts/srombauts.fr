@@ -3,6 +3,7 @@ title: "Standalone toolchain"
 date: 2011-03-06 18:07:46 +0100
 tags:
   - android
+  - tutorial
 ---
 
 Since the [revision 5 of the Native Development Kit previously discussed](/2010/12/06/android-native-development-kit/), the NDK can be customized to obtain a standard GCC cross compiler toolchain. This means that you can use it with standard Makefile and make command, or with more sophisticated build tools like automake, CMake or Bakefile. No more Android.mk ant Application.mk proprietary format required ! This is great in many situation where you want to recompile a complex software with big libraries. Lets have a try !
