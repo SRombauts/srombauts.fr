@@ -4,7 +4,6 @@ date:   2012-04-07 22:57:00 +0200
 tags:
   - tools
   - vcs
-  - SQliteCpp
 ---
 
 After a few month using Mercurial (see my blog post [Mercurial to replace SVN][SwitchToMercurial] from a year ago) I switched to [Git][Git].

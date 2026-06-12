@@ -29,6 +29,24 @@ The site does **not** use a custom GitHub Actions workflow. It relies on the
 "legacy" GitHub Pages branch-based build: every push to `master` triggers an
 automatic Jekyll build on GitHub's infrastructure.
 
+### Editorial intent and audience
+
+This blog doubles as a professional portfolio. Alongside the casual howto/tutorial
+posts, it serves as durable, verifiable evidence of past work: open-source projects,
+Unreal/Unity tooling, and an earlier embedded/FPGA/real-time career. Write accordingly.
+
+- Prefer substance and accuracy over post count. A post a technical reader might see
+  should be specific and checkable, not filler.
+- Verify technical claims against the actual repositories and their real dates before
+  stating them. Do not invent specifics; if a fact only lives in the author's memory or
+  CV, keep the post honest and high-level, or ask.
+- Do not silently backdate. The blog's first real post is `2010-09-07`.
+  Material from before 2010 (the embedded/FPGA career, etc.) is written as an openly
+  retrospective piece, dated to a real milestone, with a short note
+  (a footnote in the existing `edit:` style) saying the write-up itself is recent.
+- A blog-era project that genuinely dates from 2010–2018 may use its real milestone date
+  with a brief retrospective note, since the blog did exist then.
+
 ---
 
 ## 2. Repository layout
