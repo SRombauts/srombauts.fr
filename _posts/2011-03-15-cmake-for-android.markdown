@@ -63,3 +63,5 @@ Build the application, and launch it on an emulator or an actual device. You sho
 ![Hello Android CMake](/assets/images/HelloAndroidCMake.png)
 
 Here you are!
+
+Edit 2015: see also my updated [Android NDK r10e and Standalone Toolchain on Ubuntu 14.04](/2015/08/21/android-ndk-r10c-on-ubuntu-14-04/) post.

@@ -30,3 +30,5 @@ My first step will be to compile a minimal (monothreaded without Boost) Ogre 1.8
 
 - <http://www.ogre3d.org/developers/mercurial>
 - <https://bitbucket.org/sinbad/ogre/>
+
+Edit: see my follow-up post on [CMake for Android](/2011/03/15/cmake-for-android/) for the cross-compilation setup.

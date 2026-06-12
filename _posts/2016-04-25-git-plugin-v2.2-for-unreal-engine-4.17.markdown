@@ -10,6 +10,8 @@ tags:
 
 I am often asked if I still work on it, so I figured that I would publish some news here.
 
+For some background: it started as a [rough alpha in May 2014](/2014/05/10/unreal-engine-4-1-git-plugin-alpha/), and was [officially integrated into Unreal Engine 4.7](/2015/02/25/unreal-engine-4-7-released-with-my-git-source-control-plugin/) in early 2015.
+
 ## Many Pull Requests!
 
 This is my 16th release of the Git Plugin, with 181 commits across 17 Unreal Engine version (since 4.0 in early 2014 🙂

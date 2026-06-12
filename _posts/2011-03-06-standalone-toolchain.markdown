@@ -131,3 +131,4 @@ With this you will get a **libhello-ndk.so** shared library. This will do nothin
 I will update this post later to make this works.
 
 Edit:  look also at my post on [CMake for Android](/2011/03/15/cmake-for-android/)
+Edit 2015: and at my updated [Android NDK r10e and Standalone Toolchain on Ubuntu 14.04](/2015/08/21/android-ndk-r10c-on-ubuntu-14-04/) post.
