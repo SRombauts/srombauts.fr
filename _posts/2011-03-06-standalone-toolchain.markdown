@@ -18,7 +18,7 @@ For this experimental article, I'll assume that you already have good knowledge 
 
 To make this work under Windows (XP or 7) you'll need Cygwin 1.7 installed, but it's not that simple (the standalone toolchain officially dos not support Cygwin...). For that reason I've decided to work on this entirely under Linux (latest Ubuntu in my case). I you want to try to make it work under Windows, you could exploit useful information from the following blog post [http://www.pocketmagic.net/?p=1462](http://www.pocketmagic.net/?p=1462) and from some other Internet sources.
 
-So let's start by reading the "[/android-ndk-r5b/docs/STANDALONE-TOOLCHAIN.html](http://www.srombauts.fr/android-ndk-r5b/docs/STANDALONE-TOOLCHAIN.html)", and proceed directly with the instructions on section 3 "Invoking the compiler (the easy way)". Under a Linux console, type:
+So let's start by reading the "[/android-ndk-r5b/docs/STANDALONE-TOOLCHAIN.html](https://web.archive.org/web/20120720004459/http://www.srombauts.fr/android-ndk-r5b/docs/STANDALONE-TOOLCHAIN.html)", and proceed directly with the instructions on section 3 "Invoking the compiler (the easy way)". Under a Linux console, type:
 
 ```
 ~/android-ndk-r5b/build/tools/make-standalone-toolchain.sh --platform=android-5 --install-dir=$HOME/android-ndk-r5b/standalone-toolchain-api5

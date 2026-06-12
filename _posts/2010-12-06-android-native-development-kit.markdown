@@ -15,7 +15,7 @@ At the same time this revision r5 of the NDK is becoming interesting for me, wit
 
 All this is not really well documented... You get plenty of example and sources, but there is not much *in-code* comments nor any "Native API Reference" available. In fact, even the documentation is not available directly on Internet: it is only provided on the NDK archive!
 
-I share it on this web server : [here is the NDK-r5b HTML documentation](http://www.srombauts.fr/android-ndk-r5b/documentation.html) ([http://www.srombauts.fr/android-ndk-r5b/](http://www.srombauts.fr/android-ndk-r5b/))
+I shared it on this web server (now archived): [here is the NDK-r5b HTML documentation](https://web.archive.org/web/20160702084838/http://www.srombauts.fr/android-ndk-r5b/documentation.html) ([archived index](https://web.archive.org/web/20160308190130/http://www.srombauts.fr/android-ndk-r5b/))
 
 Edit: look at this Android Developer [Blog post about Gingerbread NDK](http://android-developers.blogspot.com/2011/01/gingerbread-ndk-awesomeness.html)
 Edit2: there is also a [android-ndk Google group](http://groups.google.com/group/android-ndk)
