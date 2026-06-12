@@ -14,4 +14,4 @@ I happen to met with their Technical Director while he was evaluating the [Plast
 [Darewise]: https://www.darewise.com/
 [Unreal]: https://www.unrealengine.com/
 [SpatialOS]: https://ims.improbable.io/products/spatialos
-[UEPlasticPlugin]: /2016-04-25-unreal-engine-4-11-plastic-scm-source-control-provider
+[UEPlasticPlugin]: /2016/04/25/unreal-engine-4-11-plastic-scm-source-control-provider/
