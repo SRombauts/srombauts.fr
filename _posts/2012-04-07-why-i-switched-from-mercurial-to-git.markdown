@@ -21,7 +21,7 @@ I used the [Mercurial ConvertExtension](http://mercurial.selenic.com/wiki/Conver
 
 This failure was a clear signal: I started with the [Git – SVN Crash Course](http://git-scm.com/course/svn.html).
 
-![New Git Logo](/assets/images/git-logo-2color-lightbg%402x.png)
+![New Git Logo](/assets/images/git-logo-2color-lightbg@2x.png)
 
 I used the [git-svn clone](https://git-scm.com/book/en/v2/Git-and-Other-Systems-Migrating-to-Git) command, which also took a few hours to run, but succeeded after a shorter time, only using 600 megabytes. This was not even twice the size of the SVN working copy, but with the full history of our project!
 
