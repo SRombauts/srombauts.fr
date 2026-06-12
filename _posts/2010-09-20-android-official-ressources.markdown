@@ -12,7 +12,7 @@ You should start with the ***Android Basics*** in the **[Android Dev Guide](http
 
 Then, you can follow the ***Tutorials*** in the **[Developers Resources](http://developer.android.com/resources/index.html)**, after what you would be able to look at the ***Sample Code*** in the same place.
 
-Personally, I also did a complete survey of the **[Developer Blog](http://android-developers.blogspot.com/)** that is full of good idea. I am now following it through RSS feeds, but some of those good technical advice can also be found in the ***[Technical Resources-&gt;Articles](http://developer.android.com/resources/browser.html?tag=article)*** section, in the ***[Common Tasks](http://developer.android.com/resources/faq/commontasks.html)*** and in ***[various FAQs](http://developer.android.com/resources/faq/framework.html)***.
+Personally, I also did a complete survey of the **[Developer Blog](http://android-developers.blogspot.com/)** that is full of good idea. I am now following it through RSS feeds, but some of those good technical advice can also be found in the ***[Technical Resources->Articles](http://developer.android.com/resources/browser.html?tag=article)*** section, in the ***[Common Tasks](http://developer.android.com/resources/faq/commontasks.html)*** and in ***[various FAQs](http://developer.android.com/resources/faq/framework.html)***.
 
 Last but not least, if you like, you could also follow some of the Google I/O conferences and other related interviews on the **[Videos](http://developer.android.com/videos/index.html#v=wDBM6wVEO70)** section.
 
