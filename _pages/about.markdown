@@ -8,9 +8,16 @@ Comments from a ~~C++~~ ~~Android~~ ~~VR~~ ~~Game~~ Tools programmer ;)
 
 Includes some historical evidence of early gamedev enthusiasm!
 
-I am a Senior Software Engineer focused on developer tools, C++, Unreal Engine and Unity, source control and build system integrations, and AI-assisted software engineering.
+I am a Senior Software Engineer. I work on developer tools, C++, Unreal Engine and Unity, source control integrations, and these days a lot of AI-assisted software engineering.
 
-I have built and maintained open-source C++ libraries and Unreal Engine source-control plugins used by developers over many years. More recently, I have been exploring how repository instructions, Claude Code skills, and coding agents can be used effectively on my codebases.
+For many years I built and maintained open-source C++ libraries and the Unreal Engine source-control plugins that quite a few developers rely on. Lately my focus has shifted toward coding agents: how repository instructions, skills, and slash commands make tools like Claude Code and Cursor genuinely useful on a real codebase. I have a short series on that in the works, it will show up here soon (see the [tags page][tags]).
+
+## Find me elsewhere
+
+- [GitHub][github] for my code
+- [LinkedIn][linkedin] for the professional side
+- [my GitHub Pages project index][ghio] for a quick tour of my main repositories
+- [Twitter/X][twitter] once in a while
 
 ## Details
 
@@ -18,7 +25,12 @@ Have a look at [more details on my objectives for this programmers' blog][object
 
 This website is using [Jekyll][jekyll] static website generation and [Github Pages hosting][pages]. See its [source code repository on Github][repository].
 
-[objectives]:   http://srombauts.eu/2011/05/05/objectives-of-this-blog/
+[tags]:         https://srombauts.eu/tags/
+[github]:       https://github.com/SRombauts
+[linkedin]:     https://www.linkedin.com/in/srombauts/
+[ghio]:         https://srombauts.github.io/
+[twitter]:      https://twitter.com/SRombauts
+[objectives]:   https://srombauts.eu/2011/05/05/objectives-of-this-blog/
 [jekyll]:       https://jekyllrb.com/
 [pages]:        https://pages.github.com/
 [repository]:   https://github.com/SRombauts/srombauts.fr

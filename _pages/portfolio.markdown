@@ -6,6 +6,12 @@ permalink: /portfolio/
 
 Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 
+## AI-assisted software engineering
+
+Most of my recent work is about making AI coding agents actually useful on real codebases: repository instructions ([`AGENTS.md`][agents] / `CLAUDE.md`), reusable skills, slash commands and MCP servers. I treat the agent like a junior dev I onboard and then review, not an oracle I argue with.
+
+This very site is a small public example. Have a look at its [`AGENTS.md`][agents]: it documents the repository instructions and the skills I rely on here, including the MIT-licensed `humanizer` skill I run on every post. A longer write-up series is in the works and will show up under the [ai tag][aitag].
+
 ## Unreal Engine
 
 * [UE Git Plugin][UEGitPlugin.io] ([repo][UEGitPlugin]): the official Unreal Engine Git Source Control Provider Plugin.
@@ -30,7 +36,6 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 
 ## TODO
 
-* Add references to my experiments with AI Coding Agents (Custom Instructions & Claude Code Skills)
 * Add references to my experiments with [Entity Component Systems (ecs)][ecs]
 * Add references to my experiments with [SDL][sdl]
 * Add references to my experiments with Open GL, including my little [gltext][gltext]
@@ -56,6 +61,9 @@ Showcase of a few of [my Github repositories](https://github.com/SRombauts)
 [LoggerCpp.io]: http://srombauts.github.io/LoggerCpp
 [LoggerCpp]:    https://github.com/SRombauts/LoggerCpp
 [HtmlBuilder]:  https://github.com/SRombauts/HtmlBuilder
+
+[agents]: https://github.com/SRombauts/srombauts.fr/blob/master/AGENTS.md
+[aitag]: https://srombauts.eu/tags/
 
 [ecs]: https://github.com/SRombauts/ecs
 [sdl]: https://www.libsdl.org/

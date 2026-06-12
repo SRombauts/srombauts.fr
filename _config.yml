@@ -24,9 +24,9 @@ title_separator          : "-"
 subtitle                 : "Comments from a developer"
 name                     : Sébastien Rombauts
 email                    : sebastien.rombauts@gmail.com
-description              : Comments from a Game/Tools dev ;)
+description              : Comments from a tools developer, into C++, game engines and AI-assisted software engineering ;)
 baseurl	                 : "" # the subpath of your site, e.g. /blog
-url                      : "http://srombauts.eu" # the base hostname & protocol for your site, e.g. http://example.com
+url                      : "https://srombauts.eu" # the base hostname & protocol for your site, e.g. http://example.com
 repository               : "SRombauts/srombauts.fr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -46,18 +46,18 @@ search_provider          : lunr # lunr (default), algolia
 author:
   name: "Sébastien Rombauts"
   avatar: "/assets/images/seb.jpeg"
-  bio: "Senior software engineer at Unity. Author of the Git & Plastic SCM source control plugins in UnrealEngine #gamedev" # Note: Markdown is allowed
+  bio: "Senior software engineer at Unity. Working on developer tools, C++, Unreal Engine & Unity and source control. Author of the Unreal Engine Git & Plastic SCM plugins, now into AI-assisted software engineering ;)" # Note: Markdown is allowed
   location: "Paris, France"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SRombauts"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SRombauts"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/SRombauts"
+      url: "https://www.linkedin.com/in/srombauts/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SRombauts"
 
 # Social Sharing
 twitter:
@@ -72,9 +72,9 @@ og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter d
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   links:
-    - "https://twitter.com/SRombauts"
     - "https://github.com/SRombauts"
-    - "https://www.linkedin.com/in/SRombauts"
+    - "https://www.linkedin.com/in/srombauts/"
+    - "https://twitter.com/SRombauts"
 
 
 # Build settings
@@ -86,15 +86,15 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SRombauts"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SRombauts"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/SRombauts"
+      url: "https://www.linkedin.com/in/srombauts/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SRombauts"
 
 
 # Reading Files
@@ -180,7 +180,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true      
+      author_profile: true
   # _portfolio
   - scope:
       path: ""
