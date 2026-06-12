@@ -81,7 +81,7 @@ Now, this has muliple consequences;
 
 ### Wheels
 
-Landing wheels where never robust enough, but now with all the extra weight, they are bending way to much, and I had to make them more streight, lossing some of the
+Landing wheels where never robust enough, but now with all the extra weight, they are bending way to much, and I had to make them more straight.
 
 ### Balance issue
 
