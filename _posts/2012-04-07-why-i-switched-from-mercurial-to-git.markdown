@@ -45,7 +45,7 @@ I have also started testing other tools that would help the transition at my wor
 
 Now I can tell you: if you try Git, and take the time to learn it subtleties, you will love it!
 
-[Git]: https://git-scm.org/
+[Git]: https://git-scm.com/
 [Github]: https://github.com/
 [TortoiseGit]: https://tortoisegit.org/
 [SmartSVN]: https://www.smartsvn.com/

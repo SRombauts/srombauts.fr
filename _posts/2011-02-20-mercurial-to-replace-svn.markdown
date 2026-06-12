@@ -34,7 +34,7 @@ Edit 2: please, have a look at my newer post [Why I switched from Mercurial to G
 
 [Mercurial]: https://www.mercurial-scm.org/
 [Subversion]: https://subversion.apache.org/
-[Git]: https://git-scm.org/
+[Git]: https://git-scm.com/
 [TortoiseHg]: https://tortoisehg.bitbucket.io/
 [TortoiseSVN]: https://tortoisesvn.net/
 [TortoiseGit]: https://tortoisegit.org/
