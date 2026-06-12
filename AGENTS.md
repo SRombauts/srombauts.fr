@@ -19,6 +19,12 @@ from `.fr` to `.eu`.
 - Default branch: `master` (also the GitHub Pages publishing source)
 - Content language: English, locale `en-US`, timezone `Europe/Paris`
 
+**Work in progress.** This is a resurrection of the author's old WordPress blog
+(2010–2018), recovered from the Wayback Machine. Seed snapshot:
+<https://web.archive.org/web/20180419132242/http://www.srombauts.fr/>. Several older
+posts are still stubs that only link to their archived copy; they are being restored
+to full content progressively, so expect placeholder posts alongside finished ones.
+
 The site does **not** use a custom GitHub Actions workflow. It relies on the
 "legacy" GitHub Pages branch-based build: every push to `master` triggers an
 automatic Jekyll build on GitHub's infrastructure.
