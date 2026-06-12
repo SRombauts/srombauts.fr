@@ -361,6 +361,25 @@ Theme release notes: <https://github.com/mmistakes/minimal-mistakes/releases>.
 - Match the writing voice of existing posts: first person, casual, occasional
   retrospective edits added as `edit:` lines or footnotes.
 
+### Agent skills (`.claude/skills/`)
+
+Reusable agent instructions live in `.claude/skills/`, one `SKILL.md` per skill. A
+skill-aware tool (e.g. Claude Code) auto-loads each one from its `description`. Tools
+without skill support should treat the two baseline skills below as always-on house rules.
+This list names the mandatory skills and the one editing rule; it is not a full catalogue,
+and each skill's own `description` remains the authoritative trigger.
+
+- **`agent-response-style` (baseline for all interaction).** Professional, factual,
+  neutral tone with calibrated, peer-review-style challenge: compare alternatives, surface
+  trade-offs and failure modes, do not merely validate. Applies to every task.
+- **`humanizer` (mandatory for prose).** Run it on every blog post and every user-facing
+  message to strip AI-writing tells (significance inflation, filler, em dashes, rule of
+  three, sycophancy, ...). It is a vendored third-party skill: **never edit it**, so it can
+  be re-synced from upstream. Its "no em dashes" rule governs published prose; the em-dash
+  tolerance in `skill-maintenance` applies only to skill `.md` files.
+- **`skill-maintenance` (when editing skills).** Conventions for files under
+  `.claude/skills/**`. Read it before creating or changing any skill.
+
 ### Commit workflow
 
 - **After completing any change, always ask the user whether they want you to
