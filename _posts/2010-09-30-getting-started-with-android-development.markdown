@@ -5,7 +5,7 @@ tags:
   - android
 ---
 
-I've been asked many time to explain how I've learned Android Development. And I've always answered that the [official ressources on the Android Developers site](http://www.srombauts.fr/2010/09/20/android-official-ressources/) associated with the "Professional Android 2 Application Development" book have been perfect for me.
+I've been asked many time to explain how I've learned Android Development. And I've always answered that the [official ressources on the Android Developers site](/2010/09/20/android-official-ressources/) associated with the "Professional Android 2 Application Development" book have been perfect for me.
 
 ![How To Get Started with Android Mobile Development](/assets/images/AndroidHowToGetStarted.png)
 

@@ -9,7 +9,7 @@ tags:
 
 ![Android Native Development Kit](/assets/images/Android-NDK.jpg)
 
-The new [API level](http://developer.android.com/guide/appendix/api-levels.html) 9 of Android 2.3 brings with it a "Native access to Activity lifecycle" : it allows developers to write an Android Application with absolutely no Java coding, by the use of a provided Java Class "[NativeActivity](http://developer.android.com/reference/android/app/NativeActivity.html)". A "native-activity" sample gives you an example of making use of it through the "native_app_glue", a C-only wrapper (see also [my experiments on NativeActivity](http://www.srombauts.fr/2011/03/01/android-2-3-nativeactivity/)).
+The new [API level](http://developer.android.com/guide/appendix/api-levels.html) 9 of Android 2.3 brings with it a "Native access to Activity lifecycle" : it allows developers to write an Android Application with absolutely no Java coding, by the use of a provided Java Class "[NativeActivity](http://developer.android.com/reference/android/app/NativeActivity.html)". A "native-activity" sample gives you an example of making use of it through the "native_app_glue", a C-only wrapper (see also [my experiments on NativeActivity](/2011/03/01/android-2-3-nativeactivity/)).
 
 At the same time this revision r5 of the NDK is becoming interesting for me, with the first official support of **C++ exception and RTTI**. There is also a way to get a "standalone toolchain" with GCC 4.3, which give the ability to use only standard cross-compiler command (*make*) instead of the specific Android.mk files.
 

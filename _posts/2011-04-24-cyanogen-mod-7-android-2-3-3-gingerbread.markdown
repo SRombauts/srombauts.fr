@@ -5,7 +5,7 @@ tags:
   - android
 ---
 
-It has been a long time since the announcement of Gingerbread, last year in December, and still no official update for our phones here in Europe. I definitely want to test the [NativeActivity I've spoken before](http://www.srombauts.fr/2011/03/01/android-2-3-nativeactivity/), and I would like to get root access on my phone to go further in my testing (and update relative posts on this blog).
+It has been a long time since the announcement of Gingerbread, last year in December, and still no official update for our phones here in Europe. I definitely want to test the [NativeActivity I've spoken before](/2011/03/01/android-2-3-nativeactivity/), and I would like to get root access on my phone to go further in my testing (and update relative posts on this blog).
 
 So yesterday evening I made the big jump to bring to my Nexus One the power of the recently released [Cyanogen Mod 7](http://www.cyanogenmod.com/). I just followed the provided [wiki tutorial to update the Nexus One](http://wiki.cyanogenmod.com/index.php?title=Nexus_One:_Full_Update_Guide), but here is my experience about it.
 

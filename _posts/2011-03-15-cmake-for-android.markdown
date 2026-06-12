@@ -5,13 +5,13 @@ tags:
   - android
 ---
 
-[Last time, we've seen how to install and test the standalone toolchain of the NDK](http://www.srombauts.fr/2011/03/06/standalone-toolchain/) to build a native shared library with a **standard Makefile & make command** under Linux.
+[Last time, we've seen how to install and test the standalone toolchain of the NDK](/2011/03/06/standalone-toolchain/) to build a native shared library with a **standard Makefile & make command** under Linux.
 
 ![CMake Logo](/assets/images/cmake_logo.png)
 
 But nowadays, many open source libraries and projects does not directly come with a Makefile, instead using a build system to automate its generation. CMake is becoming more and more used for those kind of jobs, so being able to use it for Android is really interesting. And easy!
 
-A CMake configuration file for Android (*android.toolchain.cmake*) is provided by the [**android-cmake** Google project](http://code.google.com/p/android-cmake/) hosted on Mercurial ([see my previous post on Mercurial](http://www.srombauts.fr/2011/02/20/mercurial-to-replace-svn/)). Let's clone its repository in the home directory with the following commands:
+A CMake configuration file for Android (*android.toolchain.cmake*) is provided by the [**android-cmake** Google project](http://code.google.com/p/android-cmake/) hosted on Mercurial ([see my previous post on Mercurial](/2011/02/20/mercurial-to-replace-svn/)). Let's clone its repository in the home directory with the following commands:
 
 ```
 hg clone https://android-cmake.googlecode.com/hg/ android-cmake

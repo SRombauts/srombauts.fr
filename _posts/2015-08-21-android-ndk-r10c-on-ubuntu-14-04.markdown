@@ -5,7 +5,7 @@ tags:
 date: 2015-08-21 15:45:18 +0200
 ---
 
-This is an update on my [previous post about Android NDK Standalone Toolchain on Ubuntu](http://www.srombauts.fr/2011/03/06/standalone-toolchain/), so have a look to it for better understanding.
+This is an update on my [previous post about Android NDK Standalone Toolchain on Ubuntu](/2011/03/06/standalone-toolchain/), so have a look to it for better understanding.
 
 We will see basic setup of the SDK & NDK. We will generate a standalone toolchain, for use with Android 4.1 Jelly Bean (target 90% of active devices). I then uses CMake to generate Makefiles. I am doing all this on the latest Ubuntu LTS (14.04).
 
@@ -20,7 +20,7 @@ sudo apt-get install openjdk-7-jre ant
 sudo apt-get install build-essential cmake
 ```
 
-**Android SDK (the Java part, to bundle C++ in an APK, see [Native Activity](http://www.srombauts.fr/2011/03/01/android-2-3-nativeactivity/))**:
+**Android SDK (the Java part, to bundle C++ in an APK, see [Native Activity](/2011/03/01/android-2-3-nativeactivity/))**:
 [Android SDK (r24.3.4) download page](http://developer.android.com/sdk/index.html)
 SDK Tools Only, Linux
 32 & 64-bit **android-sdk_r24.3.4-linux.tgz**
@@ -33,7 +33,7 @@ Execute:
 
 Add all packages from Android 4.1 – API Level16 (See [Adding SDK Packages](http://developer.android.com/sdk/installing/adding-packages.html))
 
-**Android NDK (the C/C++ part)** ([Have a look at my standalone toolchain post](http://www.srombauts.fr/2011/03/06/standalone-toolchain/)):
+**Android NDK (the C/C++ part)** ([Have a look at my standalone toolchain post](/2011/03/06/standalone-toolchain/)):
 [Android NDK guide](https://developer.android.com/ndk/guides/index.html) and [API reference](https://developer.android.com/ndk/reference/index.html)
 [Android NDK download page](https://developer.android.com/ndk/downloads/index.html)
 Platform Linux 64-bit (x86) **android-ndk-r10e-linux-x86_64.bin**
@@ -66,7 +66,7 @@ $ echo 'PATH=$PATH:$HOME/android-standalone-toolchain-api16/bin' >> ~/.bashrc
 
 $ echo 'export ANDROID_STANDALONE_TOOLCHAIN=$HOME/android-standalone-toolchain-api16' >> ~/.bashrc
 
-**Android CMake** (Have a look at my previous post on [CMake for Android](http://www.srombauts.fr/2011/03/15/cmake-for-android/)):
+**Android CMake** (Have a look at my previous post on [CMake for Android](/2011/03/15/cmake-for-android/)):
 Download the [android-cmake now maintained on Github](https://github.com/taka-no-me/android-cmake)
 
 Note: This is a work in progress, as I will need to refresh all my knowledge to switch to Android Studio in the following months.

@@ -5,7 +5,7 @@ tags:
   - android
 ---
 
-Since the [revision 5 of the Native Development Kit previously discussed](http://www.srombauts.fr/2010/12/06/android-native-development-kit/), the NDK can be customized to obtain a standard GCC cross compiler toolchain. This means that you can use it with standard Makefile and make command, or with more sophisticated build tools like automake, CMake or Bakefile. No more Android.mk ant Application.mk proprietary format required ! This is great in many situation where you want to recompile a complex software with big libraries. Lets have a try !
+Since the [revision 5 of the Native Development Kit previously discussed](/2010/12/06/android-native-development-kit/), the NDK can be customized to obtain a standard GCC cross compiler toolchain. This means that you can use it with standard Makefile and make command, or with more sophisticated build tools like automake, CMake or Bakefile. No more Android.mk ant Application.mk proprietary format required ! This is great in many situation where you want to recompile a complex software with big libraries. Lets have a try !
 
 For this experimental article, I'll assume that you already have good knowledge of Android development, SDK, ADB and some good understanding of C/C++ compilation workflow (gcc, make and Makefile).
 
@@ -129,4 +129,4 @@ With this you will get a **libhello-ndk.so** shared library. This will do nothin
 
 I will update this post later to make this works.
 
-Edit:  look also at my post on [CMake for Android](http://www.srombauts.fr/2011/03/15/cmake-for-android/)
+Edit:  look also at my post on [CMake for Android](/2011/03/15/cmake-for-android/)
