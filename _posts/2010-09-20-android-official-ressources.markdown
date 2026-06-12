@@ -1,5 +1,5 @@
 ---
-title: "Android Official Ressources"
+title: "Android Official Resources"
 date: 2010-09-20 21:47:52 +0200
 tags:
   - android
