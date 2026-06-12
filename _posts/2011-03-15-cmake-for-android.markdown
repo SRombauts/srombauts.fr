@@ -12,7 +12,7 @@ tags:
 
 But nowadays, many open source libraries and projects does not directly come with a Makefile, instead using a build system to automate its generation. CMake is becoming more and more used for those kind of jobs, so being able to use it for Android is really interesting. And easy!
 
-A CMake configuration file for Android (*android.toolchain.cmake*) is provided by the [**android-cmake** Google project](http://code.google.com/p/android-cmake/) hosted on Mercurial ([see my previous post on Mercurial](/2011/02/20/mercurial-to-replace-svn/)). Let's clone its repository in the home directory with the following commands:
+A CMake configuration file for Android (*android.toolchain.cmake*) is provided by the [**android-cmake** Google project](https://github.com/taka-no-me/android-cmake) hosted on Mercurial ([see my previous post on Mercurial](/2011/02/20/mercurial-to-replace-svn/)). Let's clone its repository in the home directory with the following commands:
 
 ```
 hg clone https://android-cmake.googlecode.com/hg/ android-cmake
@@ -65,3 +65,5 @@ Build the application, and launch it on an emulator or an actual device. You sho
 Here you are!
 
 Edit 2015: see also my updated [Android NDK r10e and Standalone Toolchain on Ubuntu 14.04](/2015/08/21/android-ndk-r10c-on-ubuntu-14-04/) post.
+
+Edit: Google Code has since shut down. The android-cmake project moved to GitHub at [taka-no-me/android-cmake](https://github.com/taka-no-me/android-cmake), so the `googlecode.com` clone and documentation URLs above no longer work.

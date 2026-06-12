@@ -11,7 +11,7 @@ I joined [Darewise Entertainment][Darewise] as a Senior Software Engineer in the
 
 I happen to met with their Technical Director while he was evaluating the [Plastic SCM plugin for Unreal Engine 4][UEPlasticPlugin].
 
-[Darewise]: https://www.darewise.com/
+[Darewise]: https://web.archive.org/web/20180105125515/https://www.darewise.com/
 [Unreal]: https://www.unrealengine.com/
-[SpatialOS]: https://ims.improbable.io/products/spatialos
+[SpatialOS]: https://web.archive.org/web/20210922103550/https://ims.improbable.io/products/spatialos
 [UEPlasticPlugin]: /2016/04/25/unreal-engine-4-11-plastic-scm-source-control-provider/

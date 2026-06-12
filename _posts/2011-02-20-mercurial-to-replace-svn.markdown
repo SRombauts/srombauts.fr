@@ -28,7 +28,7 @@ Here you can find some articles I’ve read about Hg and Git (and choosing among
 
 Please note that I did NOT really make a choice: I only started to use Hg because its used on some open source projects I am following!
 
-Edit: for installation instruction, see [Hg installation on a webserver (HgWebDirStepByStep)](http://mercurial.selenic.com/wiki/HgWebDirStepByStep) and in my case, installation for Debian 5.0. I use a simple “.htaccess” file to restrict access to my server.
+Edit: for installation instruction, see [Hg installation on a webserver (HgWebDirStepByStep)](https://www.mercurial-scm.org/wiki/HgWebDirStepByStep) and in my case, installation for Debian 5.0. I use a simple “.htaccess” file to restrict access to my server.
 
 Edit 2: please, have a look at my newer post [Why I switched from Mercurial to Git][SwitchToGit]
 

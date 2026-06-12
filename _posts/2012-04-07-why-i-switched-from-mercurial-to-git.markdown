@@ -16,7 +16,7 @@ I’ve always been tempted to use Git, since this Tech Talk by Linus Torvalds in
 I even tried it a few times, but Mercurial commands seem more familiar to a Subversion user, and at this time, Mercurial GUI was more user friendly.
 
 But then half a year ago, I wanted to convert to Mercurial our SVN code base at work, which is something like 15 man-years of C++.
-I used the [Mercurial ConvertExtension](http://mercurial.selenic.com/wiki/ConvertExtension#Converting_from_Subversion). The process took hours, used a few gigabytes on disk, but **failed after using too much memory**.
+I used the [Mercurial ConvertExtension](https://www.mercurial-scm.org/wiki/ConvertExtension#Converting_from_Subversion). The process took hours, used a few gigabytes on disk, but **failed after using too much memory**.
 
 ![Old Git Logo](/assets/images/Git-logo-300x109.png)
 
