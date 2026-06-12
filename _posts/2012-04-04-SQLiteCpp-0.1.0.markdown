@@ -1,0 +1,19 @@
+---
+title:  "SQLiteC++ 0.1.0: a smart and easy to use C++ SQLite3 wrapper"
+date:   2012-04-04 21:00:00 +0200
+tags:
+  - c++
+  - github
+---
+
+I just tagged the first release, 0.1.0, of [SQLiteC++][SQLiteCpp] (SQLiteCpp), a small C++ wrapper around the [SQLite3](https://www.sqlite.org/) C library.
+
+I started it a few days ago, on March 30th. I wanted something thinner than the wrappers I could find: a handful of classes mapping the SQLite3 C API to C++ objects, using RAII to manage the lifetime of the database and the statements, and exceptions to report errors instead of checking return codes everywhere.
+
+This 0.1.0 adds a `Database::exec()` method to run a simple SQL statement, and a version number in the header, the same way `sqlite3.h` does.
+
+The code, the documentation and a couple of examples are on GitHub: [github.com/SRombauts/SQLiteCpp][SQLiteCpp]. The generated documentation is hosted on [GitHub Pages](https://srombauts.github.io/SQLiteCpp/).
+
+It is under the MIT license, so use it as you like, and send me feedback or pull requests.
+
+[SQLiteCpp]: https://github.com/SRombauts/SQLiteCpp
