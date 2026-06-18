@@ -1,0 +1,5 @@
+- [Blog as portfolio](blog-as-portfolio.md) — blog doubles as a professional portfolio; raises the quality/honesty bar and sets the post backlog
+- [Career timeline pre-Unity](career-timeline-pre-unity.md) — PII-free 2000-2022 chronology from the local CVs; factual source for retrospective posts
+- [Blog employer framing](blog-employer-framing.md) — keep bio/posts from presenting any employer (incl. Unity) as a current/permanent role; references stay historical/neutral
+- [Publish only gmail email](publish-only-gmail-email.md) — only the gmail address may appear on the public site; don't change _config.yml email to a work address
+- [Unity team timeline](unity-team-timeline.md) — internal 2022-2026 team/role chronology behind the sanitized CV; the two-plugin-phase CV/LinkedIn framing
