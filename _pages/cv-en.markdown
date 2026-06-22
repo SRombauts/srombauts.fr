@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 
-*This page is the English counterpart of my [French CV](/cv-fr/). It is based on my November 2019 CV, completed retrospectively (the end date of the Darewise contract) and enriched with the details of my earlier roles taken from my previous CVs (2008 and 2013). It is therefore no longer a concise, company-ready CV but an exhaustive reference version, kept before a future update. My personal contact details (postal address and phone number) are intentionally omitted from the online version; to reach me, see the [About](/about/) page.*
+*This page is the English counterpart of my [French CV](/cv-fr/). It is based on my November 2019 CV, completed retrospectively (the end date of the Darewise contract), extended with my current role at Unity, and enriched with the details of my earlier roles taken from my previous CVs (2008 and 2013). It is therefore no longer a concise, company-ready CV but an exhaustive reference version, kept before a future update. My personal contact details (postal address and phone number) are intentionally omitted from the online version; to reach me, see the [About](/about/) page.*
 
 **Sébastien Rombauts** — C++ Software Engineer
 
@@ -35,6 +35,24 @@ toc_sticky: true
 * **Methods & standards**: Scrum, Merise, SART/SADT.
 
 ## Experience
+
+### Unity, Paris, France — Senior Software Engineer (VCS Tech team)
+
+*February 2022 to present*
+
+* Member of the VCS Tech team: developing Unity Version Control (Plastic SCM) across multiple engines (with a focus on Unity), along with the related tools and services.
+* Hired as the owner and original developer of the Unity Version Control plugin for Unreal Engine 5 (C++).
+* More recently focused on the Unity Version Control package for the Unity Editor (C#).
+* Tools & CI/CD integration work on Github, related to Unity infrastructure and the package release pipeline.
+* Maintenance of the Perforce plugin and of the version-control integration in the Unity Editor.
+* Earlier, as part of the Integration / Ecosystem team, contributed to the plasticscm.com C# backend and ASP.NET frontend on Azure ("full stack").
+
+**AI-assisted software engineering**
+
+* Intensive daily use of Cursor (AI IDE) for nearly a year, then Claude Code.
+* Experimental Perforce package built with the UI Toolkit, relying on Cursor to speed up the prototype (C#).
+* Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinated approach; authored the large majority of our SKILL files (AI agent instructions).
+* Gave a couple of internal Unity Talks on writing Claude Code SKILL.md files.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
 
