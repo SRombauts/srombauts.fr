@@ -7,5 +7,7 @@ main:
     url: /portfolio/
   - title: "CV (fr)"
     url: /cv-fr/
+  - title: "CV (en)"
+    url: /cv-en/
   - title: "About"
     url: /about/
