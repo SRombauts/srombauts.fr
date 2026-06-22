@@ -5,5 +5,7 @@ main:
     url: /tags/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "CV (fr)"
+    url: /cv-fr/
   - title: "About"
     url: /about/
