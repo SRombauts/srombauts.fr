@@ -7,9 +7,9 @@ toc_label: "Sommaire"
 toc_sticky: true
 ---
 
-*Cette page reprend mon CV de novembre 2019, complété rétrospectivement (fin du contrat Darewise), prolongé par mon poste actuel chez Unity, et enrichi des détails de mes premières expériences repris de mes CV précédents (2008 et 2013). Ce n'est donc plus un CV résumé conforme aux attentes des entreprises, mais une version exhaustive conservée comme référence avant une future mise à jour. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne ; pour me contacter, voir la page [About](/about/).*
+*Ceci n'est pas un CV résumé conforme aux attentes des entreprises, mais une version exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne ; pour me contacter, voir la page [About](/about/).*
 
-**Sébastien Rombauts** — Ingénieur logiciel C++
+**Sébastien Rombauts** — Ingénieur logiciel expérimenté
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [github.com/SRombauts](https://github.com/SRombauts)
 
@@ -204,5 +204,7 @@ toc_sticky: true
 ## Centres d'intérêts
 
 * Développements open-sources (Github : C++, Unreal Engine, Machine Learning, VR).
+* Travail du bois : plusieurs pièces en chêne réalisées à la main, dont un meuble de piano, des maillets et une planche à découper en bois de bout, de la conception aux assemblages jusqu'à la finition. J'aime passer ce temps loin des écrans, tout en mettant en oeuvre la même planification et la même précision qu'en ingénierie.
+* Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Recettes publiée sous forme de [site Jekyll en Pages GitHub](https://srombauts.github.io/recettes-sans-gluten/).
 * Jeux vidéo, lecture SF, pilotage de drone, jogging, randonnée, voyages.
 </content>

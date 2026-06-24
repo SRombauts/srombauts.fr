@@ -18,6 +18,7 @@ For many years I built and maintained open-source C++ libraries and the Unreal E
 - [LinkedIn][linkedin] for the professional side
 - [my GitHub Pages project index][ghio] for a quick tour of my main repositories
 - [Twitter/X][twitter] once in a while
+- [my gluten-free recipes site][recettes] (in French), a side project built with Jekyll like this blog
 
 ## Details
 
@@ -30,6 +31,7 @@ This website is using [Jekyll][jekyll] static website generation and [Github Pag
 [linkedin]:     https://www.linkedin.com/in/srombauts/
 [ghio]:         https://srombauts.github.io/
 [twitter]:      https://twitter.com/SRombauts
+[recettes]:     https://srombauts.github.io/recettes-sans-gluten/
 [objectives]:   https://srombauts.eu/2011/05/05/objectives-of-this-blog/
 [jekyll]:       https://jekyllrb.com/
 [pages]:        https://pages.github.com/

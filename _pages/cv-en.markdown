@@ -7,9 +7,9 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 
-*This page is the English counterpart of my [French CV](/cv-fr/). It is based on my November 2019 CV, completed retrospectively (the end date of the Darewise contract), extended with my current role at Unity, and enriched with the details of my earlier roles taken from my previous CVs (2008 and 2013). It is therefore no longer a concise, company-ready CV but an exhaustive reference version, kept before a future update. My personal contact details (postal address and phone number) are intentionally omitted from the online version; to reach me, see the [About](/about/) page.*
+*This is not a concise, company-ready CV but an exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version; to reach me, see the [About](/about/) page.*
 
-**Sébastien Rombauts** — C++ Software Engineer
+**Sébastien Rombauts** — Senior Software Engineer
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [github.com/SRombauts](https://github.com/SRombauts)
 
@@ -204,5 +204,7 @@ toc_sticky: true
 ## Interests
 
 * Open-source development (Github: C++, Unreal Engine, Machine Learning, VR).
+* Woodworking: hand-built oak pieces, including a piano stand, mallets and an end-grain cutting board, taken from design and joinery to finishing. I enjoy spending this time away from a screen, while exercising the same planning and precision as engineering work.
+* Gluten-free bread baking: I enjoy taking care of my sourdough levain, makgin custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as its own [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
 * Video games, science-fiction reading, drone piloting, jogging, hiking, travel.
 </content>
