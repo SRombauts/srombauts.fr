@@ -40,12 +40,35 @@ toc_sticky: true
 
 *Février 2022 à aujourd'hui*
 
-* Membre de l'équipe VCS Tech : développement de Unity Version Control (Plastic SCM) sur plusieurs moteurs (avec une focalisation sur Unity), ainsi que des outils et services associés.
+* Membre de l'équipe VCS Tech : développement de Unity Version Control (anciennement Plastic SCM) sur plusieurs moteurs (avec une focalisation sur Unity), ainsi que des outils et services associés.
 * Recruté comme propriétaire et développeur initial du plugin Unity Version Control pour Unreal Engine 5 (C++).
 * Plus récemment, focalisé sur le package Unity Version Control pour l'éditeur Unity (C#).
-* Travaux d'intégration Outils & CI/CD sur Github, liés à l'infrastructure Unity et au pipeline de publication des packages.
-* Maintenance du plugin Perforce et de l'intégration du contrôle de version dans l'éditeur Unity.
 * Auparavant, au sein de l'équipe Integration / Ecosystem, contribution au backend C# et au frontend ASP.NET de plasticscm.com sur Azure (« full stack »).
+
+**Package Unity Version Control (éditeur Unity, C#)**
+
+* Responsable de la planification et de l'exécution des publications sur de nombreuses versions (de la 2.5 à la 2.10), en coordonnant la validation de l'équipe et en alignant les sorties sur les jalons de l'éditeur Unity, notamment pour être prêt à temps pour Unity 6.1 à la GDC 2025 et Unity 6.3 à l'Unite 2025.
+* Conception et réalisation d'une fonctionnalité « créer une revue de code depuis le plugin » pour faciliter l'adoption des workflows par branches, incluant une boîte de dialogue de confirmation réutilisable et le travail d'UI multiplateforme (macOS) associé.
+* Validation des workflows de fusion de branches, de « shelve & switch » et de la vue des « shelves », et investigation de problèmes de performance et de plantages difficiles à reproduire remontés par le support client.
+* Modernisation de la CI et du pipeline de publication du package : vérifications de compatibilité de l'API publique, mises à jour automatisées des dépendances, et un workflow documenté de couverture de code.
+
+**Éditeur Unity (C#)**
+
+* Une centaine de pull requests fusionnées dans l'éditeur Unity, en plus de contributions à des dépôts internes associés.
+* Ajout du support de Perforce Cloud, et réduction du coût des suites de tests automatisés du contrôle de version et de la fusion YAML de l'éditeur.
+
+**Plugin Unreal Engine (C++)**
+
+* Maintien du plugin à jour avec le moteur : compatibilité et correctifs pour Unreal Engine 5.5 et 5.6, avec des publications livrées dans la semaine suivant chaque sortie du moteur.
+* Correction de graves problèmes de performance dans le traitement des grandes listes de fichiers et de problèmes d'authentification multi-comptes, et refonte de l'UX de l'assistant de création de workspace (sélection par menu déroulant des organisations et projets unifiés).
+* Migration de la distribution du plugin de l'Unreal Marketplace vers Fab, et livraison de la vue « Changesets ».
+
+**Perforce et travaux transverses**
+
+* Maintenance du plugin Perforce et de l'intégration du contrôle de version dans l'éditeur Unity : mises à jour de la CI et de l'infrastructure, support de Perforce Cloud, support de macOS ARM64 (« Apple Silicon ») et des chemins longs sous Windows.
+* Extension du client en ligne de commande `cm` (support des organisations unifiées, nouvelles options de vérification de connexion) et ajout de son premier smoke test multi-serveurs.
+* Étude d'une nouvelle architecture envisagée pour le package Perforce et documentation des compromis.
+* Mentorat et pratiques d'équipe : introduction d'un workflow de couverture de code dans l'équipe, promotion d'une culture QA renforcée en complément des revues de code et des tests unitaires, refonte de la roadmap du package, et dogfooding de Unity Version Control lors du HackWeek 2024.
 
 **Ingénierie logicielle assistée par IA**
 
