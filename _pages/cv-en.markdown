@@ -72,10 +72,11 @@ toc_sticky: true
 
 **AI-assisted software engineering**
 
-* Intensive daily use of Cursor (AI IDE) for nearly a year, then Claude Code.
-* Experimental Perforce package built with the UI Toolkit, relying on Cursor to speed up the prototype (C#).
-* Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinated approach; authored the large majority of our SKILL files (AI agent instructions).
-* Gave a couple of internal Unity Talks on writing Claude Code SKILL.md files.
+Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinated approach:
+
+* Hands-on practice: nearly a year of intensive daily use of Cursor (AI IDE), then Claude Code. I read, experimented, and built real prototypes (including an experimental Perforce package in C# with the UI Toolkit) while iterating on custom instructions and agent skills.
+* Sharing broadly: coached teammates and gave internal Unity Talks and live demos to spread the practice across the team, rather than keeping the gains to myself.
+* Raising the whole team's baseline: refined my SKILL files (AI agent instructions) into generic, performant skills and published them on the team repository, so everyone works from a shared toolkit instead of re-inventing the wheel in their own local setup. I authored the large majority of those files.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
 
@@ -228,6 +229,6 @@ toc_sticky: true
 
 * Open-source development (Github: C++, Unreal Engine, Machine Learning, VR).
 * Woodworking: hand-built oak pieces, including a piano stand, mallets and an end-grain cutting board, taken from design and joinery to finishing. I enjoy spending this time away from a screen, while exercising the same planning and precision as engineering work.
-* Gluten-free bread baking: I enjoy taking care of my sourdough levain, makgin custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as its own [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
+* Gluten-free bread baking: I enjoy taking care of my sourdough levain, making custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as its own [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
 * Video games, science-fiction reading, drone piloting, jogging, hiking, travel.
 </content>

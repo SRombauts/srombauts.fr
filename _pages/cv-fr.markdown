@@ -72,10 +72,11 @@ toc_sticky: true
 
 **Ingénierie logicielle assistée par IA**
 
-* Usage quotidien intensif de Cursor (IDE IA) pendant près d'un an, puis de Claude Code.
-* Package Perforce expérimental construit avec l'UI Toolkit, en m'appuyant sur Cursor pour accélérer le prototype (C#).
-* Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une démarche coordonnée ; rédaction de la grande majorité de nos fichiers SKILL (instructions pour agents IA).
-* Présentation de quelques Unity Talks internes sur la rédaction de fichiers SKILL.md pour Claude Code.
+Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une démarche coordonnée :
+
+* Pratique de terrain : près d'un an d'usage quotidien intensif de Cursor (IDE IA), puis de Claude Code. Lecture, expérimentation et construction de vrais prototypes (dont un package Perforce expérimental en C# avec l'UI Toolkit), tout en itérant sur des instructions personnalisées et des agent skills.
+* Partage à grande échelle : coaching de coéquipiers, Unity Talks internes et démos en direct pour diffuser la pratique à toute l'équipe, plutôt que de garder ces acquis pour moi.
+* Montée en niveau de toute l'équipe : transformation de mes fichiers SKILL (instructions pour agents IA) en skills génériques et performants, publiés sur le dépôt de l'équipe, pour que chacun parte d'une base commune au lieu de réinventer la roue dans son propre environnement local. J'ai rédigé la grande majorité de ces fichiers.
 
 ### Darewise Entertainment, Paris (75019) — Senior Software Engineer, Tools & Tech
 
@@ -227,7 +228,7 @@ toc_sticky: true
 ## Centres d'intérêts
 
 * Développements open-sources (Github : C++, Unreal Engine, Machine Learning, VR).
-* Travail du bois : plusieurs pièces en chêne réalisées à la main, dont un meuble de piano, des maillets et une planche à découper en bois de bout, de la conception aux assemblages jusqu'à la finition. J'aime passer ce temps loin des écrans, tout en mettant en oeuvre la même planification et la même précision qu'en ingénierie.
-* Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Recettes publiée sous forme de [site Jekyll en Pages GitHub](https://srombauts.github.io/recettes-sans-gluten/).
+* Travail du bois : plusieurs pièces en chêne réalisées à la main, dont un meuble de piano, des maillets et une planche à découper en bois de bout, de la conception aux assemblages jusqu'à la finition. J'aime passer ce temps loin des écrans, tout en mettant en œuvre la même planification et la même précision qu'en ingénierie.
+* Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Recettes publiées sous forme de [site Jekyll en Pages GitHub](https://srombauts.github.io/recettes-sans-gluten/).
 * Jeux vidéo, lecture SF, pilotage de drone, jogging, randonnée, voyages.
 </content>
