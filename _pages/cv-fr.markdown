@@ -36,28 +36,33 @@ toc_sticky: true
 
 ## Expérience
 
-### Unity, Paris, France — Senior Software Engineer (équipe VCS Tech)
+### Unity, Paris, France — Senior Software Engineer, plugin Unreal Engine (équipe Integration / Ecosystem)
 
-*Février 2022 à aujourd'hui*
+*Février 2022 à décembre 2024*
 
-* Membre de l'équipe VCS Tech : développement de Unity Version Control (anciennement Plastic SCM) sur plusieurs moteurs (avec une focalisation sur Unity), ainsi que des outils et services associés.
-* Recruté comme propriétaire et développeur initial du plugin Unity Version Control pour Unreal Engine 5 (C++).
-* Plus récemment, focalisé sur le package Unity Version Control pour l'éditeur Unity (C#).
-* Auparavant, au sein de l'équipe Integration / Ecosystem, contribution au backend C# et au frontend ASP.NET de plasticscm.com sur Azure (« full stack »).
+* Recruté comme propriétaire et développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
+* Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
+* En parallèle, travail « full stack » sur l'écosystème : backend C# et frontend ASP.NET de plasticscm.com sur Azure, ainsi que d'autres plugins de l'écosystème. Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessous).
+
+### Unity, Paris, France — Senior Software Engineer, package éditeur Unity (équipe VCS Tech)
+
+*Juin 2023 à aujourd'hui*
+
+* Ma première contribution a été livrée dans la version 2.0.5 (juin 2023). À mesure que l'équipe s'est élargie pour prendre aussi en charge le package de l'éditeur Unity et les applications de bureau, le package Unity Version Control pour l'éditeur Unity (C#) est devenu ma priorité, le plugin Unreal est passé en maintenance, et je n'ai contribué que ponctuellement aux applications de bureau et à Gluon.
 
 **Package Unity Version Control (éditeur Unity, C#)**
 
-* Responsable de la planification et de l'exécution des publications sur de nombreuses versions (de la 2.5 à la 2.10), en coordonnant la validation de l'équipe et en alignant les sorties sur les jalons de l'éditeur Unity, notamment pour être prêt à temps pour Unity 6.1 à la GDC 2025 et Unity 6.3 à l'Unite 2025.
+* Responsable de la planification et de l'exécution des publications sur de nombreuses versions (de la 2.5.0 à la 2.12.x), en coordonnant la validation de l'équipe et en alignant les sorties sur les jalons de l'éditeur Unity, notamment pour être prêt à temps pour Unity 6.1 à la GDC 2025 et Unity 6.3 à l'Unite 2025.
 * Conception et réalisation d'une fonctionnalité « créer une revue de code depuis le plugin » pour faciliter l'adoption des workflows par branches, incluant une boîte de dialogue de confirmation réutilisable et le travail d'UI multiplateforme (macOS) associé.
 * Validation des workflows de fusion de branches, de « shelve & switch » et de la vue des « shelves », et investigation de problèmes de performance et de plantages difficiles à reproduire remontés par le support client.
-* Modernisation de la CI et du pipeline de publication du package : vérifications de compatibilité de l'API publique, mises à jour automatisées des dépendances, et un workflow documenté de couverture de code.
+* Modernisation de la CI et du pipeline de publication du package pour suivre l'outillage de la Release Management Unity et des règles de validation de package plus strictes : vérifications de compatibilité de l'API publique, mises à jour automatisées des dépendances, et un workflow documenté de couverture de code.
 
 **Éditeur Unity (C#)**
 
 * Une centaine de pull requests fusionnées dans l'éditeur Unity, en plus de contributions à des dépôts internes associés.
 * Ajout du support de Perforce Cloud, et réduction du coût des suites de tests automatisés du contrôle de version et de la fusion YAML de l'éditeur.
 
-**Plugin Unreal Engine (C++)**
+**Maintenance du plugin Unreal Engine (C++)**
 
 * Maintien du plugin à jour avec le moteur : compatibilité et correctifs pour Unreal Engine 5.5 et 5.6, avec des publications livrées dans la semaine suivant chaque sortie du moteur.
 * Correction de graves problèmes de performance dans le traitement des grandes listes de fichiers et de problèmes d'authentification multi-comptes, et refonte de l'UX de l'assistant de création de workspace (sélection par menu déroulant des organisations et projets unifiés).

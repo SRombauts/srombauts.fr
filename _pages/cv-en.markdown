@@ -36,28 +36,33 @@ toc_sticky: true
 
 ## Experience
 
-### Unity, Paris, France — Senior Software Engineer (VCS Tech team)
+### Unity, Paris, France — Senior Software Engineer, Unreal Engine plugin (Integration / Ecosystem team)
 
-*February 2022 to present*
+*February 2022 to December 2024*
 
-* Member of the VCS Tech team: developing Unity Version Control (formerly Plastic SCM) across multiple engines (with a focus on Unity), along with the related tools and services.
-* Hired as the owner and original developer of the Unity Version Control plugin for Unreal Engine 5 (C++).
-* More recently focused on the Unity Version Control package for the Unity Editor (C#).
-* Earlier, as part of the Integration / Ecosystem team, contributed to the plasticscm.com C# backend and ASP.NET frontend on Azure ("full stack").
+* Hired as the owner and original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
+* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
+* On the side, worked across the wider ecosystem as a "full stack" developer: the plasticscm.com C# backend and ASP.NET frontend on Azure, plus other ecosystem plugins. The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (below).
+
+### Unity, Paris, France — Senior Software Engineer, Unity Editor package (VCS Tech team)
+
+*June 2023 to present*
+
+* My first contribution shipped in release 2.0.5 (June 2023). As the team broadened to also own the Unity Editor package and the desktop applications, the Unity Version Control package for the Unity Editor (C#) became my main focus, the Unreal plugin moved into maintenance, and I contributed to the desktop and Gluon applications only occasionally.
 
 **Unity Version Control package (Unity Editor, C#)**
 
-* Owned release planning and execution across many versions (from 2.5 to 2.10), coordinating team validation and aligning releases with Unity Editor milestones, including shipping in time for Unity 6.1 at GDC 2025 and Unity 6.3 at Unite 2025.
+* Owned release planning and execution across many versions (from 2.5.0 to 2.12.x), coordinating team validation and aligning releases with Unity Editor milestones, including shipping in time for Unity 6.1 at GDC 2025 and Unity 6.3 at Unite 2025.
 * Designed and built a "create a code review from the plugin" feature to make branch-based workflows easier to adopt, including a reusable confirmation dialog and the related cross-platform (macOS) UI work.
 * Validated the branch-merge, shelve-and-switch and shelve-view workflows, and investigated hard-to-reproduce performance and crash reports raised through customer support.
-* Modernized the package CI and release pipeline: public-API compatibility checks, automated dependency updates, and a documented code-coverage workflow.
+* Modernized the package CI and release pipeline to keep up with the Unity Release Management tooling and stricter package-validation rules: public-API compatibility checks, automated dependency updates, and a documented code-coverage workflow.
 
 **Unity Editor (C#)**
 
 * Around 100 merged pull requests to the Unity Editor, plus contributions to related internal repositories.
 * Added Perforce Cloud support, and reduced the overhead of the Editor's version-control and YAML-merge automated test suites.
 
-**Unreal Engine plugin (C++)**
+**Unreal Engine plugin maintenance (C++)**
 
 * Kept the plugin current with the engine: compatibility and fixes for Unreal Engine 5.5 and 5.6, with new releases shipped within a week of each engine launch.
 * Fixed severe performance issues in large file-list handling and authentication problems across multiple accounts, and reworked the Create Workspace wizard UX (dropdown selection of unified organizations and projects).
