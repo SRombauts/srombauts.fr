@@ -97,7 +97,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 *2009 à mars 2018*
 
-* Plugin Git pour Unreal Engine 4.1, intégré depuis UE4.7 (GDC 2016 avec Epic Games).
+* Plugin Git pour Unreal Engine 4.1, intégré officiellement depuis UE4.7 ; Epic Games m'a invité à rejoindre l'équipe Unreal Engine à la GDC 2016 à San Francisco.
 * Plugin Plastic SCM depuis Unreal Engine 4.11, en cours d'intégration pour UE4.24.
 * Tutoriels et prototypes avec Unreal Engine (ArchViz, jeux, multi, C++ et Blueprints).
 * Pac Man C++ / SDL, challenge multi CodinGame « The Great Escape ».

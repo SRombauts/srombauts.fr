@@ -97,7 +97,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 *2009 to March 2018*
 
-* Git plugin for Unreal Engine 4.1, integrated since UE4.7 (GDC 2016 with Epic Games).
+* Git plugin for Unreal Engine 4.1, integrated officially since UE4.7; Epic Games invited me to join the Unreal Engine team at GDC 2016 in San Francisco.
 * Plastic SCM plugin since Unreal Engine 4.11, being integrated for UE4.24.
 * Tutorials and prototypes with Unreal Engine (ArchViz, games, multiplayer, C++ and Blueprints).
 * Pac Man C++ / SDL, CodinGame multiplayer challenge "The Great Escape".
