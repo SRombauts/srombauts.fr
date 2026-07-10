@@ -25,6 +25,7 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - **U4** · collectif (4 tomes + Contagion) · quatre survivants de 15 ans, quatre romans croisés, à lire dans n'importe quel ordre.
 - **Phobos** · Victor Dixen (4 tomes) · télé-réalité sur Mars, cliffhangers redoutables.
 - **Hunger Games** · Suzanne Collins (3 tomes + préquelle) · violent mais jamais complaisant ; pour un lecteur solide, c'est le bon âge.
+- **Divergente** · Veronica Roth (trilogie) · à Chicago, on choisit sa faction à seize ans ; Tris est divergente, donc dangereuse, donc traquée.
 - **Seul sur Mars** · Andy Weir · l'humour et la débrouille scientifique ; attention, ça donne envie de faire pousser des pommes de terre.
 
 ## Étape 3 · Les classiques qui n'ont pas vieilli
