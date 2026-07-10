@@ -5,6 +5,8 @@ main:
     url: /tags/
   - title: "Portfolio"
     url: /portfolio/
+  - title: "Lectures SF"
+    url: /lectures-sf/
   - title: "CV (fr)"
     url: /cv-fr/
   - title: "CV (en)"
