@@ -36,6 +36,12 @@ excerpt: "Se remettre à la lecture de SF : des page-turners aux grandes fresque
 - **Axiomatique** · Greg Egan · Que reste-t-il de « moi » quand un implant peut réécrire mes convictions, ma mémoire ou mon amour ? Une expérience de pensée vertigineuse par nouvelle.
 - **La Cybériade** · Stanislas Lem · Les constructeurs Trurl et Klapaucius sèment leurs inventions absurdes de royaume en royaume ; Voltaire chez les robots. Pour rire intelligemment entre deux vertiges.
 - **Demain les chiens** · Clifford D. Simak · Autour du feu, les chiens se racontent la légende d'une espèce disparue appelée l'Homme. Huit contes d'une douceur déchirante ; une élégie.
+- **Les Robots** · Isaac Asimov · Susan Calvin, robopsychologue, démêle les paradoxes de machines coincées entre les Trois Lois de la robotique ; chaque nouvelle est une énigme logique où le bug, souvent, est humain. Le recueil fondateur de toute la réflexion sur l'IA ; à prolonger avec Un défilé de robots puis Le Robot qui rêvait.
+- **Pèlerinage à la Terre** · Robert Sheckley · L'amour en vente au détail, des planètes pièges et des robots trop zélés ; le maître de la nouvelle satirique, drôle et cruel. Parfait en respiration entre deux lectures sérieuses.
+- **Les Seigneurs de l'instrumentalité** · Cordwainer Smith (4 vol.) · Sous-hommes d'origine animale, voiliers solaires et planète des drogues : l'histoire du futur la plus étrange et la plus poétique de la SF. À picorer sur des mois.
+- **Kirinyaga** · Mike Resnick · Sur son habitat orbital kikuyu, le sorcier Koriba refuse toute modernité, y compris celle qui sauverait les siens ; utopie traditionaliste et dilemmes déchirants. Le récit le plus primé de la SF courte.
+- **Gravé sur chrome** · William Gibson · Johnny Mnemonic, hôtels capsules et cowboys de la console : la matrice du cyberpunk en dix nouvelles nerveuses. Pour retrouver le goût du néon entre deux classiques.
+- **L'Homme illustré** · Ray Bradbury · Chaque tatouage d'un vagabond s'anime et raconte une histoire, souvent cruelle ; le pendant sombre des Chroniques martiennes, plébiscité par les lecteurs de NPR.
 
 ## Phase 4 · Un fil rouge : l'esprit, l'IA, la conscience
 
