@@ -10,7 +10,7 @@ excerpt: "330 romans, cycles et recueils de SF et fantasy disponibles en frança
 
 *English readers: this page is in French. It lists the French editions of 330 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 330 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : les listes de [Babelio](https://www.babelio.com/) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 330 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre.
 
