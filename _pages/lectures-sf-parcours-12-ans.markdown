@@ -53,10 +53,13 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 *À intercaler librement avec les étapes SF :*
 
 - **Bilbo le Hobbit** · J.R.R. Tolkien · Bilbo Sacquet, hobbit casanier, part cambrioler un dragon avec treize nains et ramène un anneau qui changera le monde. Commencer ici si ce n'est pas déjà fait.
+- **Le Monde de Narnia** · C.S. Lewis (7 tomes) · Quatre enfants passent par une armoire dans un royaume figé en plein hiver par une sorcière blanche ; le lion Aslan attend son heure. Le grand classique anglais, parfait en parallèle de Bilbo.
 - **Le Seigneur des anneaux** · J.R.R. Tolkien (3 tomes) · Frodon doit porter l'Anneau Unique jusqu'au feu qui l'a forgé, pendant que le monde entier part en guerre. La matrice de toute la fantasy moderne ; quand Bilbo est digéré.
 - **À la croisée des mondes** · Philip Pullman (3 tomes) · Lyra et son dæmon poursuivent la Poussière à travers les univers, contre une Église qui mutile les enfants. Le grand vertige ; la fantasy la plus subversive du rayon jeunesse.
 - **La Passe-miroir** · Christelle Dabos (4 tomes) · Ophélie, liseuse d'objets maladroite, est fiancée de force au glacial Thorn sur l'arche du Pôle, entre illusions et complots de famille. Le phénomène français, parfait à cet âge.
 - **Terremer** · Ursula K. Le Guin (6 tomes) · Ged, gamin doué et orgueilleux, lâche une ombre sur le monde et passera sa vie à la rattraper. La magie des vrais noms ; la fantasy la plus sage.
+- **L'Histoire sans fin** · Michael Ende · Bastien lit un livre volé dans un grenier et bascule dans le Pays Fantastique, rongé par le Néant à mesure que les hommes cessent de rêver. Bien plus vaste que le film, qui n'en couvre que la moitié.
+- **Coraline** · Neil Gaiman · Derrière une porte condamnée, Coraline découvre des parents « améliorés » aux yeux en boutons, qui veulent la garder pour toujours. Court et délicieusement effrayant ; se lit en une soirée.
 - **La Belgariade** · David Eddings (5 tomes) · Garion, garçon de ferme, suit son grand-père sorcier vers un destin écrit depuis sept mille ans. La quête archétypale, chaleureuse et drôle.
 - **L'Héritage (Eragon)** · Christopher Paolini et **Le Pacte des Marchombres (Ellana)** · Pierre Bottero · Un garçon de ferme trouve un œuf de dragon et devient le dernier espoir contre l'empire ; une orpheline apprend, dans la voie des Marchombres, que la liberté est un art exigeant. Deux quêtes initiatiques qui se dévorent.
 
