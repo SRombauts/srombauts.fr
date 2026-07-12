@@ -432,8 +432,8 @@ and each skill's own `description` remains the authoritative trigger.
 
 ### Commit workflow
 
-- **After completing any change, always ask the user whether they want you to
-  commit it.** Do not commit on your own initiative.
+- **After completing any change, always commit it automatically.** Do not wait
+  for the user to ask.
 - Use a **short, descriptive commit message** (single line, imperative or
   descriptive, no conventional-commit prefix), matching the style of the
   existing history. Inspect it first with `git log --oneline` (e.g.
