@@ -10,7 +10,7 @@ excerpt: "330 romans, cycles et recueils de SF et fantasy disponibles en frança
 
 *English readers: this page is in French. It lists the French editions of 330 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble un peu plus de 330 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 350 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -24,7 +24,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **[Pour un bon lecteur de 12 ans](/lectures-sf/parcours-12-ans/)** : de Niourk à Dune en cinq étapes, avec la fantasy en parallèle.
 - **[Pour une lectrice de 13 ans, portée sur la romance](/lectures-sf/parcours-13-ans/)** : partir de la romance assumée et laisser la magie, la dystopie et l'espace démultiplier l'émotion.
 
-## I. Précurseurs et fondateurs (1818-1939) · 22 œuvres
+## I. Précurseurs et fondateurs (1818-1939) · 26 œuvres
 
 ### Merveilleux scientifique et origines du genre
 
@@ -51,15 +51,19 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Les Montagnes hallucinées** · H.P. Lovecraft (1936) · *horreur cosmique* · Une expédition antarctique exhume une cité pré-humaine et l'histoire des Choses très anciennes qui l'ont bâtie ; frontière SF/horreur.
 - **La Guerre des salamandres** · Karel Čapek (1936) · *satire de l'exploitation* · L'humanité découvre, exploite puis arme des salamandres intelligentes ; qui finissent par réclamer la place ; par l'inventeur du mot « robot ».
 - **Créateur d'étoiles** · Olaf Stapledon (1937) · *cosmogonie* · Un esprit désincarné parcourt l'histoire entière des civilisations galactiques jusqu'à rencontrer leur créateur ; le plus grand vertige du genre, moins un roman qu'une vision.
+- **La Chose (Who Goes There?)** · John W. Campbell (1938, novella) · *huis clos et imposture* · Une base antarctique dégèle une créature capable d'imiter parfaitement toute forme de vie ; qui est encore humain ? Derrière *The Thing* de Carpenter (1982), sommet du genre. 🎬
 
 ### Frontière et fantasy des origines
 
+- **L'Étrange Cas du docteur Jekyll et de M. Hyde** · R.L. Stevenson (1886) · *double et libre arbitre* · Un notable londonien s'invente une porte de sortie chimique vers ses pulsions ; la créature prend le dessus. Proto-SF morale, inépuisablement adaptée. 🎬
+- **Dracula** · Bram Stoker (1897) · *vampire fondateur* · Par lettres et journaux, la traque du comte des Carpates jusqu'à Londres ; toute la figure moderne du vampire sort de ce roman, de Murnau à Coppola. 🎬
+- **Le Magicien d'Oz** · L. Frank Baum (1900) · *conte américain fondateur* · Un cyclone emporte Dorothy au pays d'Oz ; épouvantail, bûcheron de fer-blanc et lion peureux l'escortent vers la Cité d'Émeraude. La matrice du merveilleux américain, du film de 1939 à *Wicked*. 🚪 🎬
 - **Conan le Cimmérien** · Robert E. Howard (1932-1936, nouvelles, intégrale) · *sword & sorcery* · Le barbare venu du Nord se taille un chemin d'épée entre sorciers, cités décadentes et trônes à prendre ; la matrice du genre. 🎬
 - **Bilbo le Hobbit** · J.R.R. Tolkien (1937) · *conte initiatique* · Bilbo Sacquet, hobbit casanier, part cambrioler un dragon avec treize nains et ramène un anneau qui changera le monde. 🚪 🎬
 
 ---
 
-## II. L'âge d'or (1940-1966) · 42 œuvres
+## II. L'âge d'or (1940-1966) · 46 œuvres
 
 ### Robots, empires galactiques et space opera
 
@@ -89,6 +93,9 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Au carrefour des étoiles** · Clifford D. Simak (1963) · *SF pastorale* · Enoch Wallace, vétéran de la guerre de Sécession, tient une gare intergalactique secrète dans sa ferme du Wisconsin ; prix Hugo, l'humanisme fait roman.
 - **Le Jour des Triffides** · John Wyndham (1951) · *catastrophe végétale* · Une pluie de météores rend l'humanité aveugle, et les plantes carnivores mobiles n'attendaient que ça ; le modèle du « cosy catastrophe » anglais. 🚪
 - **Je suis une légende** · Richard Matheson (1954) · *dernier homme* · Robert Neville, seul survivant d'une pandémie vampirique, barricade ses nuits ; jusqu'au retournement final qui donne son sens au titre. 🚪 🎬
+- **L'Invasion des profanateurs** · Jack Finney (1955) · *paranoïa et conformisme* · À Santa Mira, les proches ne sont plus tout à fait eux-mêmes : des cosses venues de l'espace les remplacent pendant leur sommeil. Quatre adaptations, dont les classiques de Don Siegel (1956) et Philip Kaufman (1978). 🎬
+- **La Mouche** · George Langelaan (1957, nouvelle) · *téléportation et hubris* · Un chercheur teste son télétransporteur sur lui-même ; une mouche est entrée dans la cabine avec lui. La nouvelle française derrière les films de Kurt Neumann (1958) et de Cronenberg (1986) ; se lit en vingt minutes. 🎬
+- **Simulacron 3** · Daniel F. Galouye (1964) · *réalité simulée* · Un chercheur découvre que le monde virtuel qu'il a créé à des fins d'études de marché… ressemble trop au sien. *Matrix* trente ans avant l'heure ; adapté par Fassbinder (*Le Monde sur le fil*, 1973) puis dans *Passé virtuel* (1999). 🎬
 - **L'Homme qui rétrécit** · Richard Matheson (1956) · *angoisse métaphysique* · Contaminé par un nuage radioactif, Scott Carey perd un centimètre par semaine ; l'infiniment petit comme odyssée intérieure. 🎬
 - **Planète à gogos** · Frederik Pohl & C.M. Kornbluth (1953) · *satire publicitaire* · Un publicitaire star doit vendre la colonisation de Vénus, enfer inhabitable ; la pub au pouvoir, toujours d'actualité.
 - **La Terre demeure** · George R. Stewart (1949) · *effondrement lent* · Après la pandémie, Ish regarde la civilisation s'effacer génération après génération ; le post-apocalyptique fondateur, contemplatif et juste.
@@ -113,11 +120,12 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 ### Fantasy fondatrice et frontière
 
 - **Le Seigneur des anneaux** · J.R.R. Tolkien (1954-1955, 3 tomes) · *quête épique* · Frodon doit porter l'Anneau Unique jusqu'au feu qui l'a forgé ; la matrice de toute la fantasy moderne. 🚪 🎬
+- **Le Monde de Narnia** · C.S. Lewis (1950-1956, 7 tomes) · *monde derrière l'armoire* · Quatre enfants passent dans un royaume figé dans l'hiver par une sorcière blanche ; le lion Aslan attend son heure. Pilier de la fantasy anglaise, adapté par Disney/Walden (2005-2010). 🚪 🎬
 - **La Terre mourante** · Jack Vance (1950-1984, 4 tomes, complet) · *science-fantasy crépusculaire* · Sous un soleil rouge à bout de souffle, magiciens cyniques et vagabonds élégants se disputent les restes du monde ; matrice de D&D.
 
 ---
 
-## III. New Wave et renouveau (1965-1980) · 70 œuvres
+## III. New Wave et renouveau (1965-1980) · 74 œuvres
 
 ### Planet opera et space opera
 
@@ -152,6 +160,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Ubik** · Philip K. Dick (1969) · *réalité en décomposition* · Après un attentat, le monde de Joe Chip régresse dans le temps et ses collègues meurent un à un ; seul recours : Ubik, en bombe aérosol. Son chef-d'œuvre. 🚪
 - **Coulez mes larmes, dit le policier** · Philip K. Dick (1974) · *identité effacée* · Une star de la télévision se réveille dans un monde où elle n'a jamais existé ; prix John W. Campbell Memorial.
 - **Substance Mort** · Philip K. Dick (1977) · *drogue et dissolution* · L'agent infiltré Fred surveille le dealer Bob Arctor sans plus savoir qu'il est les deux ; le livre le plus intime de Dick, drôle et déchirant. 🎬
+- **Rapport minoritaire et autres récits** · Philip K. Dick (nouvelles, 1953-1966) · *précognition et mémoire truquée* · Les nouvelles derrière *Minority Report*, *Total Recall* (« Souvenirs à vendre ») et *L'Agence* ; Dick au format court, encore plus percutant qu'en roman. 🎬
 - **Solaris** · Stanislas Lem (1961) · *contact impossible* · L'océan pensant de Solaris renvoie aux savants leurs morts aimés ; on n'apprend rien sur lui, tout sur nous. Le chef-d'œuvre du contact manqué. 🎬
 - **La Cybériade** · Stanislas Lem (1965, contes) · *fables cybernétiques* · Les constructeurs Trurl et Klapaucius sèment des inventions absurdes de royaume en royaume ; Voltaire chez les robots.
 - **Stalker (Pique-nique au bord du chemin)** · Arkadi & Boris Strougatski (1972) · *reliques inhumaines* · Dans la Zone laissée par des visiteurs indifférents, les stalkers ramassent des miracles incompréhensibles ; adapté par Tarkovski. 🎬
@@ -164,6 +173,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Tous à Zanzibar** · John Brunner (1968) · *surpopulation* · 2010 : sept milliards d'humains, éco-anxiété, eugénisme et émeutes, racontés en mosaïque de flashs médiatiques ; prix Hugo, d'une prescience stupéfiante.
 - **Le Troupeau aveugle** · John Brunner (1972) · *catastrophe écologique* · Air payant, eau contaminée, élites en enclaves filtrées : l'Amérique s'empoisonne en direct ; cinquante ans d'avance.
 - **Soleil vert** · Harry Harrison (1966) · *surpopulation et pénurie* · New York, 35 millions d'habitants : le flic Andy Rusch enquête sur un meurtre pendant que la ville a faim ; plus subtil que son adaptation culte. 🎬
+- **La Variété Andromède** · Michael Crichton (1969) · *biologie et procédure* · Un satellite retombe avec un micro-organisme qui tue une ville entière ; quatre scientifiques enfermés dans un laboratoire souterrain ont quelques jours pour le comprendre. Le premier techno-thriller de Crichton, adapté par Robert Wise (1971). 🚪 🎬
 - **Le Berceau du chat** · Kurt Vonnegut (1963) · *science et apocalypse* · La glace-neuf, invention capable de figer les océans, entre les mains d'une île-dictature adepte d'une religion inventée ; réhabilité en force par le sondage NPR.
 - **Abattoir 5** · Kurt Vonnegut (1969) · *guerre en dérision* · Billy Pilgrim, « décollé du temps », revit en boucle Dresde, sa vie d'opticien et son zoo tralfamadorien ; c'est la vie.
 - **Un bonheur insoutenable** · Ira Levin (1970) · *bienveillance totalitaire* · UniOrd gère l'humanité à coups de traitements mensuels ; Copeau découvre que le bonheur obligatoire se paie de tout le reste. 🚪
@@ -206,10 +216,12 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Princess Bride** · William Goldman (1973) · *conte parodique* · Amour vrai, duels parfaits, géants et vengeances : le conte de fées qui se moque des contes de fées en les surpassant. 🎬
 - **Elric** · Michael Moorcock (cycle, 1961-1991, intégrale) · *anti-héros crépusculaire* · L'empereur albinos de Melniboné vit du sang que boit son épée Stormbringer et détruit tout ce qu'il aime ; l'anti-Conan.
 - **Le Fléau** · Stephen King (1978) · *apocalypse et destin* · Une supergrippe militaire fauche l'Amérique ; les survivants rêvent soit de Mère Abigail, soit de l'homme noir ; l'apocalypse selon King. 🎬
+- **Dead Zone** · Stephen King (1979) · *don et responsabilité* · Sorti de cinq ans de coma, Johnny Smith voit l'avenir de ceux qu'il touche ; dont celui d'un politicien démagogue. Peut-être le King le plus émouvant ; adapté par Cronenberg (1983), puis en série. 🎬
+- **L'Histoire sans fin** · Michael Ende (1979) · *lecture qui engloutit* · Bastien lit un livre volé dans un grenier et bascule dans le Pays Fantastique, rongé par le Néant à mesure que les hommes cessent de rêver. Bien plus vaste que le film de 1984, qui n'en couvre que la moitié. 🚪 🎬
 
 ---
 
-## IV. Cyberpunk et nouveau space opera (1980-2000) · 79 œuvres
+## IV. Cyberpunk et nouveau space opera (1980-2000) · 84 œuvres
 
 ### Cyberpunk et mondes virtuels
 
@@ -259,6 +271,8 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Liens de sang (Kindred)** · Octavia E. Butler (1979) · *mémoire de l'esclavage* · Dana, écrivaine noire de 1976, est arrachée sans prévenir vers la plantation de son ancêtre blanc ; le voyage temporel le plus nécessaire.
 - **Xénogenèse** · Octavia E. Butler (trilogie, 1987-1989, 3 tomes, complet) · *hybridation imposée* · Les Oankali sauvent l'humanité irradiée au prix d'une fusion génétique non négociable ; consentement, altérité, survie.
 - **La Parabole du semeur** · Octavia E. Butler (1993) · *effondrement et espoir* · Dans la Californie qui brûle, Lauren Olamina, hyperempathe, invente une religion pour semer l'avenir ; d'une actualité brûlante.
+- **Les Fils de l'homme** · P.D. James (1992) · *stérilité et espérance* · Plus aucun enfant ne naît depuis vingt-cinq ans ; l'Angleterre vieillit sous un régime autoritaire quand une femme enceinte apparaît. Transfiguré par Cuarón (2006), mais le roman, plus intérieur, tient debout seul. 🎬
+- **Battle Royale** · Koushun Takami (1999) · *survie imposée* · Une classe de troisième est lâchée sur une île avec ordre de s'entretuer jusqu'au dernier ; satire féroce du contrôle social japonais, avant *Hunger Games*. Film culte de Fukasaku (2000). 🎬
 - **L'Une rêve, l'autre pas** · Nancy Kress (1991) · *transhumanisme* · Les enfants Sans-Sommeil surclassent l'humanité qui dort ; Leisha, née jumelle d'une Dormeuse, vit la fracture de l'intérieur ; Hugo et Nebula.
 - **Des milliards de tapis de cheveux** · Andreas Eschbach (1995) · *artisanat cosmique* · Des générations de tisserands nouent des tapis de cheveux pour le palais de l'Empereur ; la vérité, découverte planète après planète, est stupéfiante ; GPI. 🚪
 
@@ -295,10 +309,13 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Chroniques de Majipoor** · Robert Silverberg (cycle, 1980-2013, ~8 tomes) · *planète géante* · Sur Majipoor, monde-continent aux quinze milliards d'habitants, le jeune Valentin amnésique découvre qu'il en est le Coronal déchu ; science-fantasy luxuriante.
 - **Charlie** · Stephen King (1980) · *pyrokinésie* · Une fillette capable d'embraser ce qu'elle regarde fuit avec son père l'agence qui les a créés ; frontière SF/fantastique.
 - **La Tour sombre** · Stephen King (1982-2012, 8 tomes) · *quête entre les mondes* · Roland, dernier pistolero, poursuit l'homme en noir vers la Tour qui soutient tous les univers ; l'œuvre-monde de King.
+- **La Ligne verte** · Stephen King (1996) · *miracle dans le couloir de la mort* · En 1932, un colosse noir condamné pour le meurtre de deux fillettes guérit par les mains ; les gardiens comprennent trop tard. Feuilleton devenu le film de Darabont (1999). 🎬
 - **Les Annales du Disque-monde** · Terry Pratchett (1983-2015, 35+ tomes) · *fantasy satirique* · Sur un disque porté par quatre éléphants et une tortue, Pratchett démonte un à un tous nos travers ; la satire la plus drôle du genre. 🚪
+- **De bons présages** · Terry Pratchett & Neil Gaiman (1990) · *apocalypse cordiale* · Un démon et un ange, très attachés au confort terrestre, sabotent ensemble la fin du monde ; mais on a égaré l'Antéchrist. Le duo rêvé, devenu la série *Good Omens* (2019). 🚪 🎬
 - **La Compagnie noire** · Glen Cook (cycle, 1984-2000, ~10 tomes) · *mercenaires en zone grise* · La Compagnie sert la Dame, tyrans ou rebelles, tant que le contrat tient ; la matrice de la dark fantasy, racontée par son médecin-archiviste.
 - **Les Brumes d'Avalon** · Marion Zimmer Bradley (1983, 2 vol. fr) · *Arthur au féminin* · La légende arthurienne racontée par Morgane et les prêtresses d'Avalon, entre paganisme mourant et christianisme conquérant ; la relecture qui a marqué le genre.
-- **Le Château de Hurle** · Diana Wynne Jones (1986) · *sortilèges et paradoxes* · Sophie, changée en vieille dame, s'installe chez le magicien Hurle ; le classique derrière le Miyazaki, plus malicieux encore que le film. 🚪 🎬
+- **Le Château de Hurle** · Diana Wynne Jones (1986 ; trilogie de Hurle complète) · *sortilèges et paradoxes* · Sophie, changée en vieille dame, s'installe chez le magicien Hurle ; le classique derrière le Miyazaki, plus malicieux encore que le film. 🚪 🎬
+- **Stardust** · Neil Gaiman (1999) · *étoile tombée* · Tristran franchit le Mur pour rapporter une étoile filante à sa belle ; l'étoile est une jeune femme furieuse, et des sorcières la veulent aussi. Conte de fées pour adultes, film culte de Matthew Vaughn (2007). 🚪 🎬
 - **Les Lions d'Al-Rassan** · Guy Gavriel Kay (1995) · *fantasy historique* · Une Espagne mauresque à peine déguisée, deux héros de camps ennemis, une même femme ; la fantasy à son plus littéraire et poignant.
 - **Harry Potter** · J.K. Rowling (1997-2007, 7 tomes) · *école de sorciers* · L'orphelin du placard sous l'escalier découvre Poudlard et son destin ; le phénomène absolu, porte d'entrée de toute une génération. 🚪 🎬
 - **La Roue du temps** · Robert Jordan (1990-2013, 14 tomes) · *fantasy-fleuve* · Rand al'Thor apprend qu'il est le Dragon Réincarné, voué à sauver et briser le monde ; le monument américain, n°12 du sondage NPR. 🎬
@@ -310,7 +327,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## V. SF contemporaine (2000-aujourd'hui) · 118 œuvres
+## V. SF contemporaine (2000-aujourd'hui) · 120 œuvres
 
 ### Space opera contemporain
 
@@ -334,7 +351,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Accelerando** · Charles Stross (2005) · *Singularité en direct* · Manfred Macx, sa fille et son chat robot traversent l'émergence des IA et le démontage du système solaire ; dense et halluciné.
 - **Carbone modifié** · Richard Morgan (trilogie Kovacs, 2002-2005, 3 tomes, complet) · *conscience téléchargeable* · Les riches changent de corps comme de costume ; Takeshi Kovacs enquête sur le suicide d'un homme qui ne pouvait pas vouloir mourir. 🎬
 - **Les Étoiles sont légion** · Kameron Hurley (2017) · *mondes organiques* · Zan se réveille amnésique dans une flotte de vaisseaux-utérus en décomposition ; guerre, mémoire et chair ; radical.
-- **Red Rising** · Pierce Brown (2014-, trilogie + suites) · *dystopie martienne* · Darrow, mineur de la caste rouge, s'infiltre chez les Ors pour détruire leur société de l'intérieur ; Hunger Games croisé avec Dune, nerveux et addictif.
+- **Red Rising** · Pierce Brown (2014-, saga complète, 7 vol. fr) · *dystopie martienne* · Darrow, mineur de la caste rouge, s'infiltre chez les Ors pour détruire leur société de l'intérieur ; Hunger Games croisé avec Dune, nerveux et addictif.
 - **Latium** · Romain Lucazeau (2016, 2 tomes) · *IA orphelines* · L'humanité éteinte, ses vaisseaux-IA shakespeariens tournent à vide, ligotés par leur programmation ; que faire de la liberté ? Space opera philosophique français.
 
 ### Hard SF et premier contact
@@ -378,6 +395,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Celle qui a tous les dons** · M.R. Carey (2014) · *zombie réinventé* · Melanie, dix ans, suit ses cours sous escorte armée : elle est l'espoir et la menace d'une humanité dévorée par un champignon. 🚪 🎬
 - **Vita Nostra** · Marina & Sergueï Diatchenko (2007) · *école impitoyable* · Sacha est recrutée de force dans un institut où rater un exercice tue les siens ; et où l'on apprend à devenir Verbe ; frontière SF/fantasy, unique.
 - **Les Quinze Premières Vies d'Harry August** · Claire North (2014) · *vies en boucle* · À chaque mort, Harry renaît en 1919, mémoire intacte ; un message d'enfant lui apprend que la fin du monde avance ; duel à travers les siècles. 🚪
+- **All You Need Is Kill** · Hiroshi Sakurazaka (2004) · *boucle temporelle militaire* · Un bleu meurt à sa première bataille contre les Mimics ; et se réveille la veille, encore et encore ; chaque mort l'améliore. La base d'*Edge of Tomorrow* (2014), plus sombre que le film. 🎬
 - **Un psaume pour les recyclés sauvages** · Becky Chambers (2021, 2 novellas) · *SF apaisée* · Un moine du thé et un robot revenu des forêts cherchent ensemble « ce dont les gens ont besoin » ; prix Hugo, réconfortant sans mièvrerie. 🚪
 - **Semiosis** · Sue Burke (2018) · *premier contact végétal* · Les colons de Pax découvrent que l'intelligence dominante de leur planète est une plante ; la symbiose se négocie sur des générations.
 - **Les Oiseaux du temps** · Amal El-Mohtar & Max Gladstone (2019, novella) · *guerre temporelle épistolaire* · Deux agentes de factions ennemies s'écrivent à travers les trames du temps, de provocation en amour ; Hugo et Nebula.
@@ -424,8 +442,8 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Gagner la guerre** · Jean-Philippe Jaworski (2009 ; voir aussi le recueil Janua Vera) · *Renaissance et coups bas* · Benvenuto Gesufal, sicaire du Podestat, survit aux complots qu'il exécute et à ceux qu'on lui destine ; la plus belle langue de la fantasy française.
 - **L'Héritage (Eragon)** · Christopher Paolini (2003-2011, 4 tomes) · *dragonnier* · Un garçon de ferme trouve un œuf de dragon et devient le dernier espoir contre l'empire ; écrit à quinze ans, dévoré par des millions. 🚪
 - **Le Pacte des Marchombres (Ellana)** · Pierre Bottero (trilogie, 2006-2008, 3 tomes) · *liberté et harmonie* · Ellana, orpheline élevée dans la voie des Marchombres, apprend que la liberté est un art exigeant ; la grande fantasy jeunesse française. 🚪
-- **Les Mensonges de Locke Lamora** · Scott Lynch (2006, cycle 3 tomes parus) · *heist fantasy* · Dans une Venise fantasmée, une bande d'escrocs gentilshommes monte des arnaques somptueuses jusqu'à ce qu'un adversaire plus cruel s'invite ; brillant.
-- **La Première Loi** · Joe Abercrombie (trilogie, 2006-2008) · *dark fantasy cynique* · Un barbare fatigué, un tortionnaire lucide et un noble vaniteux dans une guerre qui n'a rien d'héroïque ; la grande fantasy grise moderne.
+- **Les Mensonges de Locke Lamora** · Scott Lynch (2006, cycle 3 tomes, complet) · *heist fantasy* · Dans une Venise fantasmée, une bande d'escrocs gentilshommes monte des arnaques somptueuses jusqu'à ce qu'un adversaire plus cruel s'invite ; brillant.
+- **La Première Loi** · Joe Abercrombie (trilogie, 2006-2008, intégrale) · *dark fantasy cynique* · Un barbare fatigué, un tortionnaire lucide et un noble vaniteux dans une guerre qui n'a rien d'héroïque ; la grande fantasy grise moderne.
 - **Le Livre des martyrs (Malazan)** · Steven Erikson (1999-2011, 10 tomes) · *fantasy monumentale* · La fresque militaire et cosmologique la plus ambitieuse du genre ; exigeante, pour une décennie de lecture.
 - **La Voie des rois (Les Archives de Roshar)** · Brandon Sanderson (2010-, 5+ tomes) · *fantasy épique moderne* · Sur un monde balayé par les hautes tempêtes, un esclave porteur de pont refuse de mourir ; la grande cathédrale de Sanderson.
 - **Le Paris des merveilles** · Pierre Pevel (trilogie, 2003-2015) · *Belle Époque féerique* · Un Paris 1900 où les fées tiennent salon et où les mages enquêtent ; la fantasy française élégante et joueuse.
@@ -435,7 +453,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 - **Hunger Games** · Suzanne Collins (2008-2020, 4 tomes) · *jeux du cirque télévisés* · Katniss se porte volontaire pour mourir à la place de sa sœur dans l'arène télévisée du Capitole ; série complète avec la préquelle. 🚪 🎬
 - **Le Labyrinthe** · James Dashner (2009-2016, 5 tomes) · *piège mouvant* · Thomas se réveille amnésique au centre d'un labyrinthe peuplé de monstres, avec d'autres garçons ; puis une fille arrive, dernière de la liste. 🚪 🎬
-- **Divergente** · Veronica Roth (trilogie, 2011-2013, 3 tomes) · *castes psychologiques* · À Chicago, on choisit sa faction à seize ans ; Tris est divergente, donc dangereuse, donc traquée. 🚪 🎬
+- **Divergente** · Veronica Roth (trilogie, 2011-2013, 3 tomes, complet) · *castes psychologiques* · À Chicago, on choisit sa faction à seize ans ; Tris est divergente, donc dangereuse, donc traquée. 🚪 🎬
 - **La 5e Vague** · Rick Yancey (trilogie, 2013-2016, 3 tomes) · *invasion par vagues* · Quatre vagues ont presque tout tué ; Cassie survit seule et la 5e vague a un visage humain. 🚪
 - **Le Chaos en marche** · Patrick Ness (trilogie, 2008-2010, 3 tomes) · *pensées audibles* · Sur un monde où l'on entend le Bruit des pensées des hommes, Todd fuit avec une fille au silence inexplicable. 🚪
 - **Little Brother** · Cory Doctorow (2008) · *surveillance et hacking* · Après un attentat, Marcus, 17 ans, est broyé par la sécurité intérieure et riposte au clavier ; manuel de désobéissance numérique. 🚪
@@ -443,54 +461,25 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Méto** · Yves Grevet (trilogie, 2008-2010, 3 tomes) · *maison-prison* · Dans la Maison, 64 garçons obéissent à des règles absurdes ; ceux qui grandissent trop disparaissent ; dystopie jeunesse française. 🚪
 - **Phobos** · Victor Dixen (2015-2018, 4 tomes) · *télé-réalité martienne* · Douze prétendants partent coloniser Mars en direct, speed-dating orbital compris ; le vice est dans les coulisses. 🚪
 - **U4** · collectif Hinckel/Grevet/Trébor/Villeminot (2015, 4 tomes + Contagion) · *pandémie adolescente* · Le virus U4 a tué 90 % des humains, épargnant les 15-18 ans ; quatre survivants, quatre romans croisés. 🚪
-- **La Faucheuse (Scythe)** · Neal Shusterman (trilogie, 2016-2019) · *mort administrée* · Dans un monde sans mort naturelle gouverné par une IA bienveillante, deux ados apprennent le métier de faucheur ; la meilleure dystopie YA de la décennie. 🚪
-- **Tobie Lolness** · Timothée de Fombelle (2006-2007, 2 tomes) · *aventure miniature* · Tobie, un millimètre et demi, fuit à travers l'arbre-monde qui abrite son peuple ; écologie, exil et suspense ; un bijou français. 🚪
+- **La Faucheuse (Scythe)** · Neal Shusterman (trilogie, 2016-2019, complet) · *mort administrée* · Dans un monde sans mort naturelle gouverné par une IA bienveillante, deux ados apprennent le métier de faucheur ; la meilleure dystopie YA de la décennie. 🚪
+- **Tobie Lolness** · Timothée de Fombelle (2006-2007, 2 tomes, complet) · *aventure miniature* · Tobie, un millimètre et demi, fuit à travers l'arbre-monde qui abrite son peuple ; écologie, exil et suspense ; un bijou français. 🚪
 - **La Quête d'Ewilan** · Pierre Bottero (trilogie, 2003) · *passage entre les mondes* · Camille bascule dans Gwendalavir où son don de Dessin peut tout ; la porte d'entrée naturelle vers l'univers d'Ellana. 🚪
-- **Six of Crows** · Leigh Bardugo (2015-2016, 2 tomes) · *casse fantasy* · Six parias montent le braquage impossible d'une forteresse-prison ; personnages inoubliables, intrigue d'horlogerie. 🚪
-- **Entre chiens et loups** · Malorie Blackman (2001-, 4 tomes) · *ségrégation inversée* · Dans un monde où les Noirs dominent et les Blancs sont relégués, deux adolescents s'aiment ; la dystopie qui fait réfléchir sans prêchi-prêcha. 🚪
+- **Six of Crows** · Leigh Bardugo (2015-2016, 2 tomes, complet) · *casse fantasy* · Six parias montent le braquage impossible d'une forteresse-prison ; personnages inoubliables, intrigue d'horlogerie. 🚪
+- **Entre chiens et loups** · Malorie Blackman (2001-, intégrale) · *ségrégation inversée* · Dans un monde où les Noirs dominent et les Blancs sont relégués, deux adolescents s'aiment ; la dystopie qui fait réfléchir sans prêchi-prêcha. 🚪
 - **La Sélection** · Kiera Cass (2012-2016, 5 tomes) · *dystopie et bal des prétendantes* · Dans l'Illéa d'après-guerre, 35 jeunes filles tirées au sort concourent devant les caméras pour épouser le prince Maxon ; America Singer y entre à contrecœur, le cœur déjà pris. La télé-réalité royale croisée avec la dystopie de castes ; un phénomène chez les lectrices. 🚪
 - **La Passe-miroir** · Christelle Dabos (2013-2019, 4 tomes) · *arches et illusions* · Ophélie, liseuse d'objets maladroite, est fiancée de force au glacial Thorn sur l'arche du Pôle ; GPI, phénomène français. 🚪
+- **Coraline** · Neil Gaiman (2002) · *l'autre famille* · Derrière une porte condamnée, Coraline trouve des parents « améliorés » aux yeux en boutons, qui veulent la garder. Frisson parfait, porté à l'écran par Laika (2009). 🚪 🎬
 
 ---
 
-## Adaptées à l'écran : le livre derrière le film (hors décompte des 330)
+## Prix récents · œuvres primées à découvrir (hors décompte des 350)
 
-Œuvres de qualité absentes des 330 mais entrées dans la culture générale par une adaptation marquante au cinéma ou en série TV. Le critère reste le livre : chaque entrée vaut la lecture pour elle-même, l'adaptation est la porte d'entrée. Dans la liste ci-dessus, les œuvres déjà adaptées avec succès portent le marqueur 🎬.
-
-### Science-fiction
-
-- **La Variété Andromède** · Michael Crichton (1969) · *biologie et procédure* · Un satellite retombe avec un micro-organisme qui tue une ville entière ; quatre scientifiques enfermés dans un laboratoire souterrain ont quelques jours pour le comprendre. Le premier techno-thriller de Crichton, adapté par Robert Wise (1971). 🚪
-- **L'Invasion des profanateurs** · Jack Finney (1955) · *paranoïa et conformisme* · À Santa Mira, les proches ne sont plus tout à fait eux-mêmes : des cosses venues de l'espace les remplacent pendant leur sommeil. Quatre adaptations, dont les classiques de Don Siegel (1956) et Philip Kaufman (1978).
-- **La Chose (Who Goes There?)** · John W. Campbell (1938, novella) · *huis clos et imposture* · Une base antarctique dégèle une créature capable d'imiter parfaitement toute forme de vie ; qui est encore humain ? Derrière The Thing de Carpenter (1982), sommet du genre.
-- **Simulacron 3** · Daniel F. Galouye (1964) · *réalité simulée* · Un chercheur découvre que le monde virtuel qu'il a créé à des fins d'études de marché… ressemble trop au sien. Matrix trente ans avant l'heure ; adapté par Fassbinder (Le Monde sur le fil, 1973) puis dans Passé virtuel (1999).
-- **Rapport minoritaire et autres récits** · Philip K. Dick (nouvelles, 1953-1966) · *précognition et mémoire truquée* · Les nouvelles derrière Minority Report, Total Recall (« Souvenirs à vendre ») et L'Agence ; Dick au format court, encore plus percutant qu'en roman.
-- **La Mouche** · George Langelaan (1957, nouvelle) · *téléportation et hubris* · Un chercheur teste son télétransporteur sur lui-même ; une mouche est entrée dans la cabine avec lui. La nouvelle française derrière les films de Kurt Neumann (1958) et de Cronenberg (1986) ; se lit en vingt minutes.
-- **Les Fils de l'homme** · P.D. James (1992) · *stérilité et espérance* · Plus aucun enfant ne naît depuis vingt-cinq ans ; l'Angleterre vieillit sous un régime autoritaire quand une femme enceinte apparaît. Transfiguré par Cuarón (2006), mais le roman, plus intérieur, tient debout seul.
-- **Dead Zone** · Stephen King (1979) · *don et responsabilité* · Sorti de cinq ans de coma, Johnny Smith voit l'avenir de ceux qu'il touche ; dont celui d'un politicien démagogue. Peut-être le King le plus émouvant ; adapté par Cronenberg (1983), puis en série.
-- **La Ligne verte** · Stephen King (1996) · *miracle dans le couloir de la mort* · En 1932, un colosse noir condamné pour le meurtre de deux fillettes guérit par les mains ; les gardiens comprennent trop tard. Feuilleton devenu le film de Darabont (1999).
-- **Battle Royale** · Koushun Takami (1999) · *survie imposée* · Une classe de troisième est lâchée sur une île avec ordre de s'entretuer jusqu'au dernier ; satire féroce du contrôle social japonais, avant Hunger Games. Film culte de Fukasaku (2000).
-- **All You Need Is Kill** · Hiroshi Sakurazaka (2004) · *boucle temporelle militaire* · Un bleu meurt à sa première bataille contre les Mimics, et se réveille la veille, encore et encore ; chaque mort l'améliore. La base d'Edge of Tomorrow (2014), plus sombre que le film.
-
-### Fantasy et merveilleux
-
-- **Le Monde de Narnia** · C.S. Lewis (1950-1956, 7 tomes) · *monde derrière l'armoire* · Quatre enfants passent dans un royaume figé dans l'hiver par une sorcière blanche ; le lion Aslan attend son heure. Pilier de la fantasy anglaise, adapté par Disney/Walden (2005-2010). 🚪
-- **De bons présages** · Terry Pratchett & Neil Gaiman (1990) · *apocalypse cordiale* · Un démon et un ange, très attachés au confort terrestre, sabotent ensemble la fin du monde ; mais on a égaré l'Antéchrist. Le duo rêvé, devenu la série Good Omens (2019). 🚪
-- **L'Histoire sans fin** · Michael Ende (1979) · *lecture qui engloutit* · Bastien lit un livre volé dans un grenier et bascule dans le Pays Fantastique, rongé par le Néant à mesure que les hommes cessent de rêver. Bien plus vaste que le film de 1984, qui n'en couvre que la moitié. 🚪
-- **Stardust** · Neil Gaiman (1999) · *étoile tombée* · Tristran franchit le Mur pour rapporter une étoile filante à sa belle ; l'étoile est une jeune femme furieuse, et des sorcières la veulent aussi. Conte de fées pour adultes, film culte de Matthew Vaughn (2007). 🚪
-- **Coraline** · Neil Gaiman (2002) · *l'autre famille* · Derrière une porte condamnée, Coraline trouve des parents « améliorés » aux yeux en boutons, qui veulent la garder. Frisson parfait, porté à l'écran par Laika (2009). 🚪
-- **Le Magicien d'Oz** · L. Frank Baum (1900) · *conte américain fondateur* · Un cyclone emporte Dorothy au pays d'Oz ; épouvantail, bûcheron de fer-blanc et lion peureux l'escortent vers la Cité d'Émeraude. La matrice du merveilleux américain, du film de 1939 à Wicked. 🚪
-
-### Frontière gothique
-
-- **Dracula** · Bram Stoker (1897) · *vampire fondateur* · Par lettres et journaux, la traque du comte des Carpates jusqu'à Londres ; toute la figure moderne du vampire sort de ce roman, de Murnau à Coppola.
-- **L'Étrange Cas du docteur Jekyll et de M. Hyde** · R.L. Stevenson (1886) · *double et libre arbitre* · Un notable londonien s'invente une porte de sortie chimique vers ses pulsions ; la créature prend le dessus. Proto-SF morale, inépuisablement adaptée.
-
-## Prix récents · œuvres primées à découvrir (hors décompte des 330)
-
-Lauréats récents des grands prix (Hugo, Grand Prix de l'Imaginaire…), encore peu connus mais déjà disponibles en français. La liste des 330 reste le canon ; ceci est la veille.
+Lauréats de prix majeurs de ces dernières années (Hugo, Nebula, Grand Prix de l'Imaginaire…), encore peu connus mais disponibles en français. La liste des 350 reste le canon ; ceci est la veille. À noter : *La Maison des Soleils* a reçu le GPI 2025 du roman étranger ; bon signe pour cette sélection.
 
 - **Une larme de poison (À l'ombre du léviathan, t. 1)** · Robert Jackson Bennett (2024, fr 2026) · *enquête et léviathans* · prix Hugo 2025 ; Dans un empire dont les murailles retiennent des léviathans marins, l'enquêtrice excentrique Ana Dolabra et son assistant à la mémoire modifiée élucident un meurtre botanique ; Sherlock Holmes en fantasy biopunk.
 - **La gloire à tout prix** · Emily Tesh (2023, fr 2024) · *endoctrinement et vengeance* · prix Hugo 2024 ; Kyr a grandi sur la station Gaea, entraînée pour venger la Terre détruite ; sa loyauté fanatique va se fissurer face à la vérité ; space opera coup de poing.
 - **L'Ost céleste** · Olivier Paquet (2024) · *science-fantasy politique* · GPI 2025 du roman francophone ; La jeune reine Indira IV, contestée par sa cousine, détient un anneau capable d'appeler une force céleste ; la SF ne se dévoile qu'à la fin ; par l'auteur des Machines fantômes.
 - **Aatea** · Anouck Faure (2025) · *odyssée océanienne* · GPI 2026 du roman francophone ; Navigateur paria né sans le filament qui lie son peuple aux îles vivantes, Aatea fuit sur les océans suspendus de la Nuée, sur les traces de sa grand-mère exploratrice.
 - **Le Livre des passages** · Alex Landragin (fr 2025) · *âmes migrantes* · GPI 2026 du roman étranger ; Trois récits enchâssés, de Baudelaire à la Seconde Guerre mondiale, liés par des âmes qui changent de corps ; à lire dans l'ordre.
+
+---
