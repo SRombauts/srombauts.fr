@@ -8,9 +8,9 @@ toc_sticky: true
 excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans qui aime d'abord les histoires d'amour."
 ---
 
-*Ce parcours accompagne [la liste des 330 meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
+*Ce parcours accompagne [la liste des meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
 
-*Le profil : une lectrice qui dévore déjà les gros cycles, mais que la romance attire d'abord. Bonne nouvelle : la SF et la fantasy regorgent d'histoires d'amour qui comptent parmi les meilleures du genre, et c'est souvent par là qu'on devient lectrice de l'imaginaire pour la vie. Le principe : partir de la romance assumée, glisser vers les romances-dans-l'aventure, et laisser le décor (magie, dystopie, espace) démultiplier l'émotion. Ce parcours déborde volontiers de la liste des 330 : la romantasy y est peu représentée.*
+*Le profil : une lectrice qui dévore déjà les gros cycles, mais que la romance attire d'abord. Bonne nouvelle : la SF et la fantasy regorgent d'histoires d'amour qui comptent parmi les meilleures du genre, et c'est souvent par là qu'on devient lectrice de l'imaginaire pour la vie. Le principe : partir de la romance assumée, glisser vers les romances-dans-l'aventure, et laisser le décor (magie, dystopie, espace) démultiplier l'émotion. Ce parcours déborde volontiers de la liste principale : la romantasy y est peu représentée.*
 
 ## Étape 1 · Les valeurs sûres pour commencer
 

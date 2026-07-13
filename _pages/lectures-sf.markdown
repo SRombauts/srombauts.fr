@@ -1,16 +1,16 @@
 ---
 layout: single
-title: "Les 330 meilleurs livres de science-fiction et fantasy"
+title: "Les meilleurs livres de science-fiction et fantasy"
 permalink: /lectures-sf/
 toc: true
 toc_label: "Sommaire"
 toc_sticky: true
-excerpt: "330 romans, cycles et recueils de SF et fantasy disponibles en français, avec deux parcours de lecture guidés."
+excerpt: "Romans, cycles et recueils de SF et fantasy disponibles en français, avec trois parcours de lecture guidés."
 ---
 
-*English readers: this page is in French. It lists the French editions of 330 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
+*English readers: this page is in French. It lists the French editions of over 350 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 350 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 355 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -125,7 +125,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## III. New Wave et renouveau (1965-1980) · 74 œuvres
+## III. New Wave et renouveau (1965-1980) · 75 œuvres
 
 ### Planet opera et space opera
 
@@ -202,6 +202,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **La Planète des singes** · Pierre Boulle (1963) · *fable inversée* · Ulysse Mérou débarque sur Soror où les singes pensent et les hommes braient ; la fable qui interroge notre humanité, à la chute parfaite. 🚪 🎬
 - **Un animal doué de raison** · Robert Merle (1967) · *dauphins parlants* · Le professeur Sevilla apprend l'anglais à deux dauphins que les militaires convoitent ; guerre froide, éthique et tendresse.
 - **Malevil** · Robert Merle (1972) · *survie communautaire* · Après l'éclair nucléaire, les survivants d'un château périgourdin réinventent société, religion et pouvoir. 🚪
+- **Les Hommes protégés** · Robert Merle (1974) · *pandémie et genre* · L'encéphalite 16 ne tue que les hommes valides ; dans une Amérique dirigée par les femmes, le Dr Martinelli poursuit ses recherches en « homme protégé » ; dystopie d'inversion étonnamment actuelle.
 - **Les Seigneurs de la guerre** · Gérard Klein (1970) · *échecs temporels* · L'agent Corson, naufragé du temps, manipule et est manipulé à travers les siècles ; le classique français du vertige stratégique.
 - **Le Temps incertain** · Michel Jeury (1973) · *psychronie* · Des agents mentaux luttent dans un temps subjectif et malléable contre les probabilités d'un futur totalitaire ; le « Dick français », GPI.
 - **Cette chère humanité** · Philippe Curval (1976) · *Europe engourdie* · L'Europe prospère s'est enfermée dans un cocon de lenteur bienheureuse pendant que le tiers-monde frappe à la porte ; prix Apollo.
@@ -221,7 +222,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## IV. Cyberpunk et nouveau space opera (1980-2000) · 84 œuvres
+## IV. Cyberpunk et nouveau space opera (1980-2000) · 85 œuvres
 
 ### Cyberpunk et mondes virtuels
 
@@ -267,6 +268,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Replay** · Ken Grimwood (1986) · *vies recommencées* · Jeff Winston meurt en 1988 et se réveille en 1963, dix-huit ans, mémoire intacte ; encore et encore ; que feriez-vous mieux ? 🚪
 - **Le Prestige** · Christopher Priest (1995) · *magie et sacrifice* · Deux illusionnistes victoriens s'affrontent ; l'un a un secret humain, l'autre une machine de Tesla ; World Fantasy Award. 🎬
 - **Kirinyaga** · Mike Resnick (1998, nouvelles) · *utopie traditionaliste* · Sur son habitat orbital kikuyu, le sorcier Koriba refuse toute modernité, y compris celle qui sauverait ; le récit le plus primé de la SF courte.
+- **La Vallée de l'éternel retour** · Ursula K. Le Guin (1985) · *ethnographie du futur* · Chants, contes, recettes et récits du peuple Kesh, qui vivra « longtemps après » dans une vallée de Californie ; moins un roman qu'une anthropologie poétique ; son livre le plus singulier, pour lecteur avancé.
 - **La Servante écarlate** · Margaret Atwood (1985) · *théocratie patriarcale* · Dans la République de Gilead, Defred n'existe que pour porter l'enfant de son Commandant ; devenue icône ; prix Clarke. 🚪 🎬
 - **Liens de sang (Kindred)** · Octavia E. Butler (1979) · *mémoire de l'esclavage* · Dana, écrivaine noire de 1976, est arrachée sans prévenir vers la plantation de son ancêtre blanc ; le voyage temporel le plus nécessaire.
 - **Xénogenèse** · Octavia E. Butler (trilogie, 1987-1989, 3 tomes, complet) · *hybridation imposée* · Les Oankali sauvent l'humanité irradiée au prix d'une fusion génétique non négociable ; consentement, altérité, survie.
@@ -327,7 +329,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## V. SF contemporaine (2000-aujourd'hui) · 120 œuvres
+## V. SF contemporaine (2000-aujourd'hui) · 123 œuvres
 
 ### Space opera contemporain
 
@@ -418,6 +420,8 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Anamnèse de Lady Star** · L.L. Kloetzer (2013) · *portrait en creux* · Des décennies après l'arme quantique qui a effacé des millions de vies, on reconstitue par fragments la femme qui l'a déclenchée ; GPI, virtuose.
 - **Rêves de Gloire** · Roland C. Wagner (2011) · *uchronie rock* · Une Algérie où l'indépendance a bifurqué, racontée en dizaines de voix sur fond de psychédélisme et de vinyles introuvables ; GPI, son chef-d'œuvre.
 - **Exodes** · Jean-Marc Ligny (trilogie climatique, 2006-2015, 3 tomes) · *effondrement climatique* · AquaTM, Exodes, Semences : l'eau, la fuite, puis les graines d'après ; la climate fiction française la plus documentée.
+- **Le Monde enfin** · Jean-Pierre Andrevon (2006) · *Terre sans hommes* · Des années après la pandémie, un vieux cavalier descend le Rhône parmi les bêtes revenues et les derniers survivants ; la nature reprend tout, sans colère ; la somme post-apocalyptique française.
+- **Le Monde de Julia** · Ugo Bellagamba & Jean Baret (2023) · *conte philosophique post-effondrement* · Dans un monde en ruines où les tribus vivent selon des règles tirées de fictions, Julia part chercher ses parents et découvre liberté, égalité, justice ; *Le Monde de Sophie* version SF. 🚪
 - **Omale** · Laurent Genefort (2001-, cycle 3 tomes + recueils) · *aire de Dyson* · Sur Omale, coquille immense autour d'un soleil, humains, Chiles et Hodgqins cohabitent sans comprendre qui les y a mis ; le grand planet opera français.
 - **Lum'en** · Laurent Genefort (2015) · *intelligence minérale* · Sur une planète-prison, un enfant se lie à Lum'en, entité née de la pierre, seul espoir contre l'oubli collectif ; GPI.
 - **Le Goût de l'immortalité** · Catherine Dufour (2005) · *mémoires post-humaines* · Depuis un Harbin du XXIIIe siècle, une très vieille « immortelle » écrit à un inconnu la vérité de sa longue vie ; GPI, d'une noirceur somptueuse.
@@ -440,6 +444,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Chronique du tueur de roi (Le Nom du vent)** · Patrick Rothfuss (2007-, 4 vol. fr) · *légende racontée* · Kvothe, héros devenu aubergiste, dicte sa vraie histoire en trois jours ; la fantasy comme art du récit.
 - **Fils-des-brumes (Mistborn)** · Brandon Sanderson (trilogie, 2006-2008, 3 tomes, complet) · *heist et magie des métaux* · Dans un monde où le tyran a gagné depuis mille ans, une bande de voleurs monte le casse du siècle : renverser un dieu.
 - **Gagner la guerre** · Jean-Philippe Jaworski (2009 ; voir aussi le recueil Janua Vera) · *Renaissance et coups bas* · Benvenuto Gesufal, sicaire du Podestat, survit aux complots qu'il exécute et à ceux qu'on lui destine ; la plus belle langue de la fantasy française.
+- **Le Cycle de Syffe** · Patrick K. Dewdney (2018-, 4 tomes parus sur 7) · *destin d'un orphelin* · Syffe, enfant des rues de Corne-Brune, traverse guerres, peste et servitude dans un monde pré-médiéval d'une dureté superbe ; la grande fantasy française contemporaine, à hauteur d'homme.
 - **L'Héritage (Eragon)** · Christopher Paolini (2003-2011, 4 tomes) · *dragonnier* · Un garçon de ferme trouve un œuf de dragon et devient le dernier espoir contre l'empire ; écrit à quinze ans, dévoré par des millions. 🚪
 - **Le Pacte des Marchombres (Ellana)** · Pierre Bottero (trilogie, 2006-2008, 3 tomes) · *liberté et harmonie* · Ellana, orpheline élevée dans la voie des Marchombres, apprend que la liberté est un art exigeant ; la grande fantasy jeunesse française. 🚪
 - **Les Mensonges de Locke Lamora** · Scott Lynch (2006, cycle 3 tomes, complet) · *heist fantasy* · Dans une Venise fantasmée, une bande d'escrocs gentilshommes monte des arnaques somptueuses jusqu'à ce qu'un adversaire plus cruel s'invite ; brillant.
@@ -472,9 +477,9 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## Prix récents · œuvres primées à découvrir (hors décompte des 350)
+## Prix récents · œuvres primées à découvrir (hors décompte)
 
-Lauréats de prix majeurs de ces dernières années (Hugo, Nebula, Grand Prix de l'Imaginaire…), encore peu connus mais disponibles en français. La liste des 350 reste le canon ; ceci est la veille. À noter : *La Maison des Soleils* a reçu le GPI 2025 du roman étranger ; bon signe pour cette sélection.
+Lauréats de prix majeurs de ces dernières années (Hugo, Nebula, Grand Prix de l'Imaginaire…), encore peu connus mais disponibles en français. La liste principale reste le canon ; ceci est la veille. À noter : *La Maison des Soleils* a reçu le GPI 2025 du roman étranger ; bon signe pour cette sélection.
 
 - **Une larme de poison (À l'ombre du léviathan, t. 1)** · Robert Jackson Bennett (2024, fr 2026) · *enquête et léviathans* · prix Hugo 2025 ; Dans un empire dont les murailles retiennent des léviathans marins, l'enquêtrice excentrique Ana Dolabra et son assistant à la mémoire modifiée élucident un meurtre botanique ; Sherlock Holmes en fantasy biopunk.
 - **La gloire à tout prix** · Emily Tesh (2023, fr 2024) · *endoctrinement et vengeance* · prix Hugo 2024 ; Kyr a grandi sur la station Gaea, entraînée pour venger la Terre détruite ; sa loyauté fanatique va se fissurer face à la vérité ; space opera coup de poing.

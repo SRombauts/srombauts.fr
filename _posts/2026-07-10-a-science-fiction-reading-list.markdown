@@ -1,5 +1,5 @@
 ---
-title: "Reading list of 330 of the best books of science-fiction."
+title: "Reading list of the best books of science-fiction."
 tags:
   - books
   - science-fiction
@@ -15,7 +15,7 @@ So it started with my current book shelve, some personal memories, a few online 
 and a series of iterative prompts on LLMs to expend it, refine it, etc.
 
 I have now published a cleaned-up version as a permanent page:
-[Les 330 meilleurs livres de science-fiction et fantasy](/lectures-sf/).
+[Les meilleurs livres de science-fiction et fantasy](/lectures-sf/).
 Warning: the page is in French, listing the French editions and is meant for
 French-speaking readers.
 

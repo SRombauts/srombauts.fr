@@ -8,7 +8,7 @@ toc_sticky: true
 excerpt: "Se remettre à la lecture de SF : des page-turners aux grandes fresques, sans jamais deux pavés d'affilée."
 ---
 
-*Ce parcours accompagne [la liste des 330 meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
+*Ce parcours accompagne [la liste des meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
 
 *Le principe : relancer la machine avec des livres impossibles à lâcher, réapprendre le plaisir du format court entre deux romans, puis remonter vers les sommets et les grands cycles, sans jamais enchaîner deux pavés. Si vous avez déjà lu les monuments (Dune, Hypérion, la trilogie de Mars…), le niveau n'a jamais été le problème : c'est le rythme qui se reconstruit.*
 

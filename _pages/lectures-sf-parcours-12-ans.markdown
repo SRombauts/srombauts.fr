@@ -8,7 +8,7 @@ toc_sticky: true
 excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 12 ans."
 ---
 
-*Ce parcours accompagne [la liste des 330 meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
+*Ce parcours accompagne [la liste des meilleurs livres de science-fiction et fantasy](/lectures-sf/), où chaque œuvre est résumée en une ligne.*
 
 *Limité aux œuvres adaptées à cet âge : pas de violence gratuite, pas de contenu adulte. Mais un bon lecteur peut encaisser de l'émotion forte et des idées complexes, alors le parcours monte vite. L'ordre à l'intérieur de chaque étape est une suggestion.*
 
