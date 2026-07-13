@@ -10,7 +10,7 @@ excerpt: "330 romans, cycles et recueils de SF et fantasy disponibles en frança
 
 *English readers: this page is in French. It lists the French editions of 330 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 330 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble un peu plus de 330 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -310,7 +310,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## V. SF contemporaine (2000-aujourd'hui) · 117 œuvres
+## V. SF contemporaine (2000-aujourd'hui) · 118 œuvres
 
 ### Space opera contemporain
 
@@ -448,6 +448,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **La Quête d'Ewilan** · Pierre Bottero (trilogie, 2003) · *passage entre les mondes* · Camille bascule dans Gwendalavir où son don de Dessin peut tout ; la porte d'entrée naturelle vers l'univers d'Ellana. 🚪
 - **Six of Crows** · Leigh Bardugo (2015-2016, 2 tomes) · *casse fantasy* · Six parias montent le braquage impossible d'une forteresse-prison ; personnages inoubliables, intrigue d'horlogerie. 🚪
 - **Entre chiens et loups** · Malorie Blackman (2001-, 4 tomes) · *ségrégation inversée* · Dans un monde où les Noirs dominent et les Blancs sont relégués, deux adolescents s'aiment ; la dystopie qui fait réfléchir sans prêchi-prêcha. 🚪
+- **La Sélection** · Kiera Cass (2012-2016, 5 tomes) · *dystopie et bal des prétendantes* · Dans l'Illéa d'après-guerre, 35 jeunes filles tirées au sort concourent devant les caméras pour épouser le prince Maxon ; America Singer y entre à contrecœur, le cœur déjà pris. La télé-réalité royale croisée avec la dystopie de castes ; un phénomène chez les lectrices. 🚪
 - **La Passe-miroir** · Christelle Dabos (2013-2019, 4 tomes) · *arches et illusions* · Ophélie, liseuse d'objets maladroite, est fiancée de force au glacial Thorn sur l'arche du Pôle ; GPI, phénomène français. 🚪
 
 ---

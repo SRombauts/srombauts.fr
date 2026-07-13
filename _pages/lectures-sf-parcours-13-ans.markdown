@@ -35,6 +35,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 
 ## Étape 3 · Romance et SF (la passerelle vers le reste du genre)
 
+- **La Sélection** · Kiera Cass (5 tomes) · Dans l'Illéa d'après-guerre, 35 prétendantes tirées au sort concourent devant les caméras pour épouser le prince Maxon ; America y entre à contrecœur, le cœur déjà pris. Le Bachelor royal en dystopie de castes ; romance d'abord, monde ensuite.
 - **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit sa faction à seize ans ; Tris, divergente donc traquée, rencontre Quatre, son instructeur. Dystopie et histoire d'amour à parts égales.
 - **Entre chiens et loups** · Malorie Blackman (intégrale) · Dans un monde où les Noirs dominent et où les Blancs sont relégués, Sephy et Callum s'aiment depuis l'enfance, contre tout. Roméo et Juliette en dystopie ; l'histoire d'amour qui fait réfléchir, parfaite à 13 ans.
 - **The Book of Ivy** · Amy Engel (2 tomes) · Mariée de force au fils du président, Ivy doit l'assassiner pour venger sa famille ; encore faudrait-il qu'il soit détestable. Dystopie et dilemme amoureux, très plébiscité sur Babelio.
