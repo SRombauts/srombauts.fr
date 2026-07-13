@@ -33,7 +33,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - **Le Château de Hurle** · Diana Wynne Jones (trilogie) · Sophie, changée en vieille dame par une sorcière, s'installe chez le magicien Hurle, vaniteux, insaisissable et plus fragile qu'il ne le montre. L'original derrière le Miyazaki ; romance espiègle et sortilèges.
 - **Stardust** · Neil Gaiman · Tristran franchit le Mur pour rapporter une étoile filante à sa belle ; l'étoile est une jeune femme furieuse, et des sorcières la convoitent aussi. Conte romantique et malicieux, dans l'esprit de Princess Bride (le film de 2007 en bonus).
 - **Coraline** · Neil Gaiman · Zéro romance, cent frissons : derrière une porte condamnée, l'« autre mère » aux yeux en boutons veut garder Coraline pour toujours. Court, à glisser entre deux gros cycles.
-- **Vampyria** · Victor Dixen (série en cours) · Dans un Versailles gothique où Louis XIV, devenu vampire, règne depuis trois siècles, Jeanne infiltre l'école des écuyers du Roy pour venger sa famille. Par l'auteur de Phobos, en plus sombre.
+- **Vampyria** · Victor Dixen (4 tomes parus) · Dans un Versailles gothique où Louis XIV, devenu vampire, règne depuis trois siècles, Jeanne infiltre l'école des écuyers du Roy pour venger sa famille. Par l'auteur de Phobos, en plus sombre.
 - **Keleana (Throne of Glass)** · Sarah J. Maas (série complète) · L'assassine la plus célèbre du royaume sort du bagne pour servir le roi qu'elle hait, entre deux amours et mille lames. Plébiscité sur Babelio. Note aux parents : les premiers tomes sont sages, les derniers nettement moins ; mieux vaut le savoir avant.
 
 ## Étape 3 · Romance et SF (la passerelle vers le reste du genre)
