@@ -10,7 +10,7 @@ excerpt: "Romans, cycles et recueils de SF et fantasy disponibles en français, 
 
 *English readers: this page is in French. It lists the French editions of over 350 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 355 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 359 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -24,7 +24,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **[Pour un bon lecteur de 12 ans](/lectures-sf/parcours-12-ans/)** : de Niourk à Dune en cinq étapes, avec la fantasy en parallèle.
 - **[Pour une lectrice de 13 ans, portée sur la romance](/lectures-sf/parcours-13-ans/)** : partir de la romance assumée et laisser la magie, la dystopie et l'espace démultiplier l'émotion.
 
-## I. Précurseurs et fondateurs (1818-1939) · 26 œuvres
+## I. Précurseurs et fondateurs (1818-1939) · 29 œuvres
 
 ### Merveilleux scientifique et origines du genre
 
@@ -43,8 +43,10 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 ### Entre-deux-guerres et premières dystopies
 
 - **La Mort de la Terre** · J.-H. Rosny aîné (1910) · *extinction de l'humanité* · Dans un futur aride, les derniers hommes cèdent la place aux ferromagnétaux, la vie minérale qui leur succède ; d'une mélancolie visionnaire.
+- **Le Péril bleu** · Maurice Renard (1911) · *invasion invisible* · Les Sarvants, êtres invisibles vivant au fond de notre « océan d'air », pêchent les humains comme nous pêchons les poissons ; le chef-d'œuvre du merveilleux scientifique, d'une originalité intacte.
 - **La Guerre du feu** · J.-H. Rosny aîné (1911) · *préhistoire épique* · La horde des Oulhamr a perdu le feu ; trois hommes partent le reconquérir parmi les fauves, les mammouths et les tribus ennemies. 🚪 🎬
 - **Le Monde perdu** · Arthur Conan Doyle (1912) · *dinosaures survivants* · L'irascible professeur Challenger guide une expédition vers un plateau sud-américain où le temps s'est arrêté au jurassique. 🚪 🎬
+- **La Peste écarlate** · Jack London (1912) · *effondrement raconté* · Soixante ans après la pandémie de 2013, l'un des derniers témoins de l'ancien monde raconte la chute à ses petits-fils redevenus sauvages ; le post-apo fondateur, bref et saisissant. 🚪
 - **Nous** · Evgueni Zamiatine (1920) · *dystopie mathématique* · Dans l'État Unique aux murs de verre, le constructeur D-503 tient un journal ; jusqu'à ce que l'amour le rende « malade » d'une âme. La matrice de 1984.
 - **Le Meilleur des mondes** · Aldous Huxley (1932) · *servitude par le plaisir* · Bébés en bouteilles, castes conditionnées et soma pour tous : une dystopie où personne ne veut se révolter, et c'est bien le pire. 🚪
 - **Quinzinzinzili** · Régis Messac (1935) · *post-apo féroce* · Seul adulte survivant d'une guerre chimique, un précepteur regarde une bande d'enfants réinventer la superstition ; la dystopie française oubliée puis redécouverte.
@@ -56,6 +58,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 ### Frontière et fantasy des origines
 
 - **L'Étrange Cas du docteur Jekyll et de M. Hyde** · R.L. Stevenson (1886) · *double et libre arbitre* · Un notable londonien s'invente une porte de sortie chimique vers ses pulsions ; la créature prend le dessus. Proto-SF morale, inépuisablement adaptée. 🎬
+- **Le Horla** · Guy de Maupassant (1887, nouvelle) · *présence invisible* · Un homme sent près de lui un être invisible qui boit son eau et gouverne peu à peu sa volonté ; folie, ou espèce nouvelle venue supplanter l'homme ? Le fantastique français au scalpel. 🚪
 - **Dracula** · Bram Stoker (1897) · *vampire fondateur* · Par lettres et journaux, la traque du comte des Carpates jusqu'à Londres ; toute la figure moderne du vampire sort de ce roman, de Murnau à Coppola. 🎬
 - **Le Magicien d'Oz** · L. Frank Baum (1900) · *conte américain fondateur* · Un cyclone emporte Dorothy au pays d'Oz ; épouvantail, bûcheron de fer-blanc et lion peureux l'escortent vers la Cité d'Émeraude. La matrice du merveilleux américain, du film de 1939 à *Wicked*. 🚪 🎬
 - **Conan le Cimmérien** · Robert E. Howard (1932-1936, nouvelles, intégrale) · *sword & sorcery* · Le barbare venu du Nord se taille un chemin d'épée entre sorciers, cités décadentes et trônes à prendre ; la matrice du genre. 🎬
@@ -222,7 +225,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## IV. Cyberpunk et nouveau space opera (1980-2000) · 85 œuvres
+## IV. Cyberpunk et nouveau space opera (1980-2000) · 86 œuvres
 
 ### Cyberpunk et mondes virtuels
 
@@ -273,6 +276,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Liens de sang (Kindred)** · Octavia E. Butler (1979) · *mémoire de l'esclavage* · Dana, écrivaine noire de 1976, est arrachée sans prévenir vers la plantation de son ancêtre blanc ; le voyage temporel le plus nécessaire.
 - **Xénogenèse** · Octavia E. Butler (trilogie, 1987-1989, 3 tomes, complet) · *hybridation imposée* · Les Oankali sauvent l'humanité irradiée au prix d'une fusion génétique non négociable ; consentement, altérité, survie.
 - **La Parabole du semeur** · Octavia E. Butler (1993) · *effondrement et espoir* · Dans la Californie qui brûle, Lauren Olamina, hyperempathe, invente une religion pour semer l'avenir ; d'une actualité brûlante.
+- **Enig Marcheur** · Russell Hoban (1980, fr 2012) · *langue d'après la chute* · Deux mille ans après l'apocalypse nucléaire, Enig raconte son errance dans un anglais dégénéré réinventé (le « parlénigm », tour de force de traduction) ; culte, exigeant, inoubliable.
 - **Les Fils de l'homme** · P.D. James (1992) · *stérilité et espérance* · Plus aucun enfant ne naît depuis vingt-cinq ans ; l'Angleterre vieillit sous un régime autoritaire quand une femme enceinte apparaît. Transfiguré par Cuarón (2006), mais le roman, plus intérieur, tient debout seul. 🎬
 - **Battle Royale** · Koushun Takami (1999) · *survie imposée* · Une classe de troisième est lâchée sur une île avec ordre de s'entretuer jusqu'au dernier ; satire féroce du contrôle social japonais, avant *Hunger Games*. Film culte de Fukasaku (2000). 🎬
 - **L'Une rêve, l'autre pas** · Nancy Kress (1991) · *transhumanisme* · Les enfants Sans-Sommeil surclassent l'humanité qui dort ; Leisha, née jumelle d'une Dormeuse, vit la fracture de l'intérieur ; Hugo et Nebula.
