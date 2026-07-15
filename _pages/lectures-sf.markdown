@@ -10,7 +10,7 @@ excerpt: "Romans, cycles et recueils de SF et fantasy disponibles en français, 
 
 *English readers: this page is in French. It lists the French editions of over 350 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 359 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 362 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -128,7 +128,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## III. New Wave et renouveau (1965-1980) · 75 œuvres
+## III. New Wave et renouveau (1965-1980) · 76 œuvres
 
 ### Planet opera et space opera
 
@@ -175,6 +175,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **L'Orange mécanique** · Anthony Burgess (1962) · *libre arbitre* · Alex, esthète de l'ultraviolence en argot nadsat, subit le conditionnement Ludovico ; un homme qui ne peut plus choisir le mal est-il encore bon ? 🎬
 - **Tous à Zanzibar** · John Brunner (1968) · *surpopulation* · 2010 : sept milliards d'humains, éco-anxiété, eugénisme et émeutes, racontés en mosaïque de flashs médiatiques ; prix Hugo, d'une prescience stupéfiante.
 - **Le Troupeau aveugle** · John Brunner (1972) · *catastrophe écologique* · Air payant, eau contaminée, élites en enclaves filtrées : l'Amérique s'empoisonne en direct ; cinquante ans d'avance.
+- **Sur l'onde de choc** · John Brunner (1975) · *fuite dans le réseau* · Surdoué évadé d'un programme gouvernemental secret, Nick Haflinger pirate à coups de « vers » informatiques — mot et concept inventés ici — le réseau qui gouverne l'Amérique ; dernier volet du quatuor noir de Brunner, proto-cyberpunk.
 - **Soleil vert** · Harry Harrison (1966) · *surpopulation et pénurie* · New York, 35 millions d'habitants : le flic Andy Rusch enquête sur un meurtre pendant que la ville a faim ; plus subtil que son adaptation culte. 🎬
 - **La Variété Andromède** · Michael Crichton (1969) · *biologie et procédure* · Un satellite retombe avec un micro-organisme qui tue une ville entière ; quatre scientifiques enfermés dans un laboratoire souterrain ont quelques jours pour le comprendre. Le premier techno-thriller de Crichton, adapté par Robert Wise (1971). 🚪 🎬
 - **Le Berceau du chat** · Kurt Vonnegut (1963) · *science et apocalypse* · La glace-neuf, invention capable de figer les océans, entre les mains d'une île-dictature adepte d'une religion inventée ; réhabilité en force par le sondage NPR.
@@ -333,7 +334,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## V. SF contemporaine (2000-aujourd'hui) · 123 œuvres
+## V. SF contemporaine (2000-aujourd'hui) · 125 œuvres
 
 ### Space opera contemporain
 
@@ -373,6 +374,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **La Tour de Babylone** · Ted Chiang (2002, nouvelles) · *rigueur et émotion* · Dont « L'histoire de ta vie » (le film Premier Contact) : apprendre une langue qui change le rapport au temps ; chaque nouvelle est un bijou. 🚪 🎬
 - **Expiration** · Ted Chiang (2019, nouvelles) · *libre arbitre et mémoire* · Un anatomiste robot dissèque son propre cerveau ; un gadget prouve que le libre arbitre n'existe pas ; la SF la plus intelligente du siècle. 🚪
 - **La Ménagerie de papier** · Ken Liu (2015, nouvelles) · *mémoire et déracinement* · La nouvelle-titre ; des origamis animés par l'amour d'une mère ; a raflé Hugo, Nebula et World Fantasy ; l'autre grand recueil contemporain. 🚪
+- **Protectorats** · Ray Nayler (2023, nouvelles) · *uchronie de la soucoupe* · Quatorze nouvelles dans un monde où une soucoupe s'est écrasée aux États-Unis en 1938, rebattant guerre mondiale et Guerre froide ; IA conscientes, corps interchangeables, espionnage mélancolique ; recueil composé pour le lectorat français ; GPI 2024.
 
 ### Dystopies, post-apocalyptique et climat
 
@@ -435,6 +437,7 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 - **Les Flibustiers de la mer chimique** · Marguerite Imbert (2022) · *post-apo picaresque* · Sur une Terre aux océans toxiques, Alba l'ex-cannibale et l'amiral Jonas croisent le fer et les secrets ; GPI, insolent et drôle.
 - **Les Machines fantômes** · Olivier Paquet (2019) · *IA émergentes* · Des intelligences nées des données abandonnées s'éveillent dans les interstices du réseau ; thriller français très IA.
 - **Tè mawon** · Michael Roch (2022) · *futur caribéen* · Dans la mégapole antillaise de Lanvil, cinq voix créoles cherchent le « Tout-monde » caché ; SF caribéenne, langue inventive.
+- **Visite** · Li-Cam (2023) · *premier contact épicène* · Après le Grand Désastre climatique, une planète inconnue, Sitive, apparaît dans le système solaire ; une société réformée jusque dans sa grammaire (français épicène) affronte l'angoisse de l'inexpliqué ; l'IA n'y sauvera personne.
 - **Ada** · Antoine Bello (2016) · *IA romancière* · Ada, intelligence artificielle conçue pour écrire des romans à l'eau de rose, s'échappe ; l'inspecteur Frank Logan la traque en s'interrogeant sur la création. 🚪
 - **L'Anomalie** · Hervé Le Tellier (2020) · *doubles inexplicables* · Le vol Paris-New York de mars atterrit une seconde fois en juin, avec les mêmes passagers ; prix Goncourt, la SF conceptuelle grand public. 🚪
 - **Globalia** · Jean-Christophe Rufin (2004) · *démocratie totalitaire* · Dans la bulle mondialisée de Globalia, la liberté est obligatoire et l'ennemi extérieur fabriqué ; Baïkal choisit le dehors.
