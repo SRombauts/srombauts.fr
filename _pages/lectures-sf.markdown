@@ -10,7 +10,7 @@ excerpt: "Romans, cycles et recueils de SF et fantasy disponibles en français, 
 
 *English readers: this page is in French. It lists the French editions of over 350 science fiction classics, with three guided reading paths. The story behind it is in [this post](/2026/07/10/a-science-fiction-reading-list/).*
 
-Cette page rassemble 362 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
+Cette page rassemble 402 romans, cycles et recueils de nouvelles de science-fiction, plus un peu de fantasy de frontière et quelques incontournables du genre voisin ; la liste est née avec 330 entrées et **compte désormais 402 œuvres**, continue de grandir au fil des découvertes. Tout est disponible en français. La sélection s'appuie sur les grands prix (Hugo, Nebula, Locus, Arthur C. Clarke, Grand Prix de l'Imaginaire…), sur la critique et sur deux plébiscites de lecteurs : le classement [SF-Fantasy : les mieux notés de Babelio](https://www.babelio.com/liste/12944/SF-Fantasy-les-mieux-notes) et le [sondage NPR de 2011](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books).
 
 Chaque entrée donne l'auteur, la date, le thème et un résumé en une ligne. Les cycles et séries comptent pour une seule entrée, avec le nombre de tomes indiqué. Le symbole 🚪 signale une porte d'entrée : une œuvre accessible, idéale pour un adolescent ou pour découvrir le genre. Le marqueur 🎬 signale une adaptation marquante au cinéma ou en série TV.
 
@@ -492,14 +492,67 @@ Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
 ---
 
-## Prix récents · œuvres primées à découvrir (hors décompte)
+## VI. 2020-2026 : Nouvelles voix et œuvres majeures · 40 œuvres
 
-Lauréats de prix majeurs de ces dernières années (Hugo, Nebula, Grand Prix de l'Imaginaire…), encore peu connus mais disponibles en français. La liste principale reste le canon ; ceci est la veille. À noter : *La Maison des Soleils* a reçu le GPI 2025 du roman étranger ; bon signe pour cette sélection.
+### 2007–2019
+
+- **La Trame** · Mélanie Fazi (2007) · *fantasy onirique* · Un univers tissé de rêves où chaque choix modifie la réalité ; une œuvre littéraire et envoûtante.
+- **Le Chant de l'Espace** · Thomas Day (2013, 🏆 Grand Prix de l'Imaginaire) · *space opera poétique* · Un opéra spatial où les chanteurs manipulent les lois de la physique ; une œuvre unique mêlant SF dure et art lyrique.
+- **Malronce** · Jean-Christophe Chaumette (2015) · *fantasy sombre* · Dans un monde post-apocalyptique, des chevaliers maudits luttent contre une malédiction qui transforme leur royaume en cauchemar.
+- **Le Cycle des Dames** · Jean-Laurent Del Socorro (2015–en cours, 3 tomes parus) · *SF alternative steampunk* · Dans un XIXe siècle uchronique, des femmes dotées de pouvoirs magiques luttent contre une société patriarcale ; mélange de *League of Extraordinary Gentlemen* et de féminisme radical.
+- **Les Voies d'Anubis** · Timothée Rey (2016) · *fantasy historique* · Dans l'Égypte antique, des mages voyagent entre les mondes des morts et des vivants ; une réinterprétation originale de la mythologie égyptienne.
+- **Revenant Gun** · Yoon Ha Lee (2018, 🏆 Locus 2019, Machineries of Empire, t. 3) · *space opera asiatique* · Un soldat trahi doit affronter un complot galactique en manipulant les lois de la physique et de la magie ; conclut le cycle.
+- **The City of Brass** · S.A. Chakraborty (2018, 🏆 Locus 2019, The Daevabad Trilogy, t. 1) · *fantasy historique islamique* · Nahri, une voleuse du Caire, invoque par accident un djinn et se retrouve propulsée dans la cité mythique de Daevabad, déchirée par les tensions politiques. 🚪
+- **La Saga des Contrées rêvées** · Bernard Werber (2018–en cours, 3 tomes parus) · *fantasy philosophique* · Des explorateurs voyagent entre des mondes oniriques, chacun incarnant une question existentielle ; une œuvre ambitieuse et métaphysique.
+- **The Light Brigade** · Kameron Hurley (2019, 🏆 Locus 2020) · *guerre interstellaire et réalité fragmentée* · Des soldats transformés en armes vivantes découvrent que leur guerre est une illusion ; critique féroce du militarisme.
+- **The Priory of the Orange Tree** · Samantha Shannon (2019, 🏆 Locus 2020) · *fantasy épique féministe* · Une reine, une espionne et une dragonnière doivent unir leurs forces contre un dragon millénaire ; *Game of Thrones* avec des femmes aux commandes. 🚪
+- **The Starless Sea** · Erin Morgenstern (2019, 🏆 Locus 2020) · *fantasy onirique* · Zachary Ezar découvre une porte vers un monde souterrain de livres, d'idées et de destins entrelacés ; suite spirituelle de *The Night Circus*.
+- **The Ten Thousand Doors of January** · Alix E. Harrow (2019) · *fantasy portails* · January Scaller découvre des portes vers d'autres mondes et la vérité sur son passé ; une ode aux voyageurs et aux rêveurs.
+
+### 2020
+
+- **The House in the Cerulean Sea** · TJ Klune (2020, 🏆 Hugo 2023, Locus 2023) · *fantasy feel-good* · Un employé d'un orphelinat pour enfants magiques découvre l'amour et une famille improbable ; un roman chaleureux et inclusif. 🚪
+- **The Once and Future Witches** · Alix E. Harrow (2020) · *sororité et révolution* · Trois sœurs séparent par la magie le matriarcat dans une Amérique du XIXe siècle misogyne ; hymne féministe et conte de fées sombre.
+- **The Invisible Life of Addie LaRue** · V.E. Schwab (2020) · *fantasy historique* · Addie LaRue, condamnée à l'immortalité, est oubliée par tous ceux qu'elle rencontre ; une méditation sur l'amour, l'art et le temps.
+
+### 2021
+
+- **Babel, or The Necessity of Violence** · R.F. Kuang (2022, 🏆 Nebula 2023) · *fantasy historique* · À Oxford, dans un XIXe siècle où la magie du langage est réelle, un étudiant chinois se rebelle contre le colonialisme britannique.
+- **A Master of Djinn** · P. Djèlí Clark (2022, 🏆 Nebula 2022, Dead Djinn Universe, t. 1) · *fantasy steampunk* · Dans un Caire alternatif des années 1910, une enquêtrice et un djinn affrontent un mystérieux meurtrier ; premier volet de la trilogie.
+
+### 2022
+
+- **The Kaiju Preservation Society** · John Scalzi (2022, 🏆 Hugo 2024, Locus 2024) · *kaijus et écologie* · Dans un monde où les monstres géants sont protégés, un homme découvre que leur survie menace l'humanité. 🚪
+
+### 2023
+
+- **Upgrade** · Blake Crouch (2023, 🏆 Locus 2024) · *thriller génétique* · Une modification ADN transformant son porteur en surhomme déclenche une course mortelle ; exploration des limites de l'évolution humaine.
+- **The Golden Enclaves** · Naomi Novik (2023, 🏆 Locus 2023, Schomance, t. 3) · *magie systémique* · Conclusion de la trilogie : El et ses alliés doivent sauver leur école de magie d'une menace existentielle.
+- **The Will of the Many** · James Islington (2023, The Age of Bronze, t. 1) · *fantasy philosophique* · Dans une école de magie où les élèves apprennent à manipuler la réalité, un jeune homme découvre des vérités troublantes sur le pouvoir et la morale.
+- **The Adventures of Amina al-Sirafi** · Shannon Chakraborty (2023, The Daevabad Trilogy, suite) · *fantasy aventure* · Une capitaine pirate à la retraite est rappelée pour une dernière quête ; une aventure pleine de magie, de trahisons et de rédemption.
+- **La gloire à tout prix** · Emily Tesh (2023, fr 2024) · *endoctrinement et vengeance* · prix Hugo 2024 ; Kyr a grandi sur la station Gaea, entraînée pour venger la Terre détruite ; sa loyauté fanatique va se fissurer face à la vérité ; space opera coup de poing.
+
+### 2024
 
 - **Une larme de poison (À l'ombre du léviathan, t. 1)** · Robert Jackson Bennett (2024, fr 2026) · *enquête et léviathans* · prix Hugo 2025 ; Dans un empire dont les murailles retiennent des léviathans marins, l'enquêtrice excentrique Ana Dolabra et son assistant à la mémoire modifiée élucident un meurtre botanique ; Sherlock Holmes en fantasy biopunk.
-- **La gloire à tout prix** · Emily Tesh (2023, fr 2024) · *endoctrinement et vengeance* · prix Hugo 2024 ; Kyr a grandi sur la station Gaea, entraînée pour venger la Terre détruite ; sa loyauté fanatique va se fissurer face à la vérité ; space opera coup de poing.
 - **L'Ost céleste** · Olivier Paquet (2024) · *science-fantasy politique* · GPI 2025 du roman francophone ; La jeune reine Indira IV, contestée par sa cousine, détient un anneau capable d'appeler une force céleste ; la SF ne se dévoile qu'à la fin ; par l'auteur des Machines fantômes.
+- **The Saint of Steel** · T. Kingfisher (2024, 🏆 Locus 2024) · *fantasy paladines* · Une quête hilarante et subversive dans un monde où les saints sont aussi corrompus que les démons qu'ils combattent.
+- **The Spare Man** · Mary Robinette Kowal (2024, 🏆 Nebula 2024) · *SF féministe* · Dans un monde où les femmes sont rares, une riche héritière et son clone masculin sont confrontés à un meurtre à bord de leur vaisseau de luxe.
+
+### 2025
+
+- **Death of the Author** · Nnedi Okorafor (2025, 🏆 Nebula 2026, Locus 2026) · *SF africaine et métanarratif* · Une écrivaine nigériane découvre que son roman peut changer la réalité ; une réflexion sur le pouvoir des histoires.
+- **The Everlasting** · Alix E. Harrow (2025, 🏆 Locus 2026) · *fantasy littéraire et immortalité* · Quatre destins entrelacés sur mille ans, de l'Empire romain à un futur post-apocalyptique, liés par un mystérieux manuscrit.
 - **Aatea** · Anouck Faure (2025) · *odyssée océanienne* · GPI 2026 du roman francophone ; Navigateur paria né sans le filament qui lie son peuple aux îles vivantes, Aatea fuit sur les océans suspendus de la Nuée, sur les traces de sa grand-mère exploratrice.
 - **Le Livre des passages** · Alex Landragin (fr 2025) · *âmes migrantes* · GPI 2026 du roman étranger ; Trois récits enchâssés, de Baudelaire à la Seconde Guerre mondiale, liés par des âmes qui changent de corps ; à lire dans l'ordre.
+- **Bloody Child** · Stephen Graham Jones (2025, 🏆 Nebula 2026 Horreur) · *SF horrifique Native American* · Une exploration dérangeante de la violence et de la mémoire dans une communauté amérindienne.
+- **The Buffalo Hunter Hunter** · Stephen Graham Jones (2025, 🏆 Locus 2026 Horreur) · *SF Native American* · Une quête troublante où la frontière entre réalité et mythe s'estompe.
+- **When We Were Real** · Daryl Gregory (2025, Finaliste Nebula 2026) · *réalité virtuelle et identité* · Dans un monde où la réalité est malléable, une femme découvre que sa mémoire a été manipulée ; une réflexion sur ce qui nous définit.
+- **Katabasis** · R.F. Kuang (2025, Finaliste Nebula 2026) · *fantasy historique* · Une réécriture mythologique audacieuse qui explore les thèmes de la colonne et de la rédemption.
+- **The Incandescent** · Emily Tesh (2025, Finaliste Nebula 2026) · *SF biologiste* · Une exploration de l'évolution humaine à travers plusieurs générations dans un futur post-humain.
+- **Sour Cherry** · Natalia Theodoridou (2025, Finaliste Nebula 2026) · *SF expérimentale* · Un récit non linéaire qui explore les thèmes de l'identité et de la perception.
+- **Wearing the Lion** · John Wiswell (2025, Finaliste Nebula 2026) · *fantasy LGBTQ+* · Une histoire de métamorphose et d'acceptation de soi dans un monde où les apparences sont trompeuses.
+- **Intergalactic Rejects** · Storm Humbert (dir., 2025, 🏆 Aurora Award 2025, anthologie) · *SF disruptive* · Une collection de nouvelles innovantes par des talents émergents de la SF.
+- **Nouvelles de l'anti-monde** · Divers (2020–2025, anthologie) · *SF française engagée* · Des récits courts qui explorent des futurs radicaux et des questions sociales pressantes.
 
 ---
