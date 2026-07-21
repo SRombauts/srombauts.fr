@@ -12,14 +12,21 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 
 *Limité aux œuvres adaptées à cet âge : pas de violence gratuite, pas de contenu adulte. Mais un bon lecteur peut encaisser de l'émotion forte et des idées complexes, alors le parcours monte vite. L'ordre à l'intérieur de chaque étape est une suggestion.*
 
-## Étape 1 · Confirmer l'appétit (le plaisir immédiat)
+## Phase 1 · Confirmer l'appétit (le plaisir immédiat)
 
 - **Niourk** · Stefan Wul · Sur une Terre redevenue sauvage, un enfant noir rejeté par sa tribu marche vers la cité interdite des dieux : les ruines de New York. Court et lyrique ; se dévore en deux soirées.
 - **Virus L.I.V.3 ou la mort des livres** · Christian Grenier · Les Lettrés répliquent à la dictature des écrans par un virus qui efface les textes à mesure qu'on les lit ; une jeune hackeuse part comprendre le mal de l'intérieur. La guerre des livres et des écrans, écrite exactement pour cet âge.
 - **Le Passeur** · Lois Lowry · Dans une communauté sans couleurs, sans souvenirs et sans douleur, Jonas est choisi pour recevoir la mémoire du monde d'avant, et tout vacille. Le premier grand frisson dystopique ; la suite (3 tomes) attend si ça accroche.
 - **La Machine à explorer le temps** · H.G. Wells · En l'an 802 701, l'humanité s'est scindée en Eloïs oisifs et en Morlocks souterrains ; l'Explorateur doit comprendre ce monde pour espérer rentrer. Le classique le plus court et le plus accessible ; parfait premier « vieux » livre.
 
-## Étape 2 · Les page-turners (l'engrenage)
+## Phase 2 · Les formats courts à picorer
+
+- **Chroniques martiennes** · Ray Bradbury · Les hommes débarquent sur Mars avec leurs rêves et leurs ravages. Des nouvelles à picorer.
+- **Demain les chiens** · Clifford D. Simak · Autour du feu, les chiens se racontent la légende de l'humanité disparue ; huit contes d'une douceur déchirante.
+- **La Ménagerie de papier** · Ken Liu · Des origamis animés par l'amour d'une mère ; a raflé Hugo, Nebula et World Fantasy.
+- **Les Robots** · Isaac Asimov · Susan Calvin, robopsychologue, démêle les paradoxes de machines coincées entre les Trois Lois de la robotique.
+
+## Phase 3 · Les page-turners (l'engrenage)
 
 - **Méto** · Yves Grevet (3 tomes) · Dans la Maison, 64 garçons obéissent à des règles absurdes ; ceux qui grandissent trop disparaissent, et Méto veut savoir où. Impossible à lâcher.
 - **U4** · collectif (4 tomes + Contagion) · Le virus U4 a tué 90 % des humains en épargnant les 15-18 ans ; quatre survivants traversent la France en ruine, chacun dans son roman. À lire dans n'importe quel ordre.
@@ -28,7 +35,7 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit à seize ans la faction qui correspond à sa personnalité ; Tris est divergente, donc dangereuse, donc traquée. L'engrenage parfait pour enchaîner les tomes.
 - **Seul sur Mars** · Andy Weir · Abandonné pour mort sur Mars, Mark Watney fait pousser des pommes de terre dans ses propres déjections et « science » sa survie jour après jour. L'humour et la débrouille scientifique ; attention, ça donne des envies de potager.
 
-## Étape 3 · Les classiques qui n'ont pas vieilli
+## Phase 4 · Les classiques qui n'ont pas vieilli
 
 - **Voyage au centre de la Terre** puis **L'Île mystérieuse** · Jules Verne · Un manuscrit runique entraîne le professeur Lidenbrock vers une mer intérieure peuplée de monstres ; puis cinq évadés en ballon recréent la civilisation sur une île qu'une présence invisible semble protéger. L'aventure scientifique fondatrice.
 - **La Guerre des mondes** · H.G. Wells · Les Martiens ravagent l'Angleterre victorienne avec une supériorité écrasante ; l'invasion originelle, racontée du côté de ceux qui fuient.
@@ -38,7 +45,7 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - **Chroniques martiennes** · Ray Bradbury · Les hommes débarquent sur Mars avec leurs rêves et leurs ravages ; Mars comme miroir poétique et mélancolique de l'Amérique. Des nouvelles à picorer.
 - **Fahrenheit 451** · Ray Bradbury · Le pompier Montag brûle les livres pour le compte de l'État, jusqu'au jour où il en ouvre un. Court et inoubliable.
 
-## Étape 4 · Les premiers grands romans
+## Phase 5 · Les premiers grands romans
 
 - **Des fleurs pour Algernon** · Daniel Keyes · Opéré comme la souris Algernon, Charlie, simple d'esprit, devient un génie, puis comprend que l'effet ne durera pas ; son journal change d'orthographe avec son esprit. LE livre qui transforme un lecteur ; prévoir des mouchoirs.
 - **La Stratégie Ender** · Orson Scott Card · À l'École de Guerre, l'enfant stratège Ender Wiggin gagne tous les jeux qu'on lui impose ; le dernier n'en était pas un. Écrit pour les adultes, adoré des jeunes lecteurs doués.
@@ -48,9 +55,9 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - **Demain les chiens** · Clifford D. Simak · Autour du feu, les chiens se racontent la légende d'une espèce disparue appelée l'Homme, qui leur a légué la Terre. Huit contes d'une douceur déchirante.
 - **Ready Player One** · Ernest Cline · Dans l'OASIS, refuge virtuel d'un monde épuisé, la chasse aux easter eggs laissée par le fondateur vaut une fortune, et Wade compte bien la gagner. Chasse au trésor et nostalgie geek des années 80.
 
-## Étape 5 · La fantasy en parallèle
+## Phase 6 · La fantasy en parallèle
 
-*À intercaler librement avec les étapes SF :*
+*À intercaler librement avec les phases SF :*
 
 - **Bilbo le Hobbit** · J.R.R. Tolkien · Bilbo Sacquet, hobbit casanier, part cambrioler un dragon avec treize nains et ramène un anneau qui changera le monde. Commencer ici si ce n'est pas déjà fait.
 - **Le Monde de Narnia** · C.S. Lewis (7 tomes) · Quatre enfants passent par une armoire dans un royaume figé en plein hiver par une sorcière blanche ; le lion Aslan attend son heure. Le grand classique anglais, parfait en parallèle de Bilbo.
@@ -63,7 +70,7 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - **La Belgariade** · David Eddings (5 tomes) · Garion, garçon de ferme, suit son grand-père sorcier vers un destin écrit depuis sept mille ans. La quête archétypale, chaleureuse et drôle.
 - **L'Héritage (Eragon)** · Christopher Paolini et **Le Pacte des Marchombres (Ellana)** · Pierre Bottero · Un garçon de ferme trouve un œuf de dragon et devient le dernier espoir contre l'empire ; une orpheline apprend, dans la voie des Marchombres, que la liberté est un art exigeant. Deux quêtes initiatiques qui se dévorent.
 
-## Dans un an ou deux (à garder pour 13-14 ans)
+## Phase 7 · Dans un an ou deux (à garder pour 13-14 ans)
 
 - **Dune** · Frank Herbert · Sur Arrakis, seule source de l'épice, Paul Atreides devient malgré lui le messie des Fremen ; écologie, religion et pouvoir en un seul monde. Le monument ; mieux vaut l'aborder avec un peu de maturité pour tout savourer.
 - **1984** · George Orwell · Winston Smith réécrit l'Histoire au ministère de la Vérité et rêve de trahir Big Brother. La dystopie absolue ; plus percutante vers 14 ans.

@@ -20,9 +20,17 @@ Par où commencer ? C'est le rôle des trois parcours ci-dessous, chacun sur sa 
 
 Chaque parcours a sa propre page, pour garder un lien direct sous la main :
 
-- **[La reprise, pour adulte](/lectures-sf/parcours-adulte/)** : relancer la machine avec des livres impossibles à lâcher, puis remonter vers les sommets et les grandes fresques, sans jamais deux pavés d'affilée.
-- **[Pour un bon lecteur de 12 ans](/lectures-sf/parcours-12-ans/)** : de Niourk à Dune en cinq étapes, avec la fantasy en parallèle.
-- **[Pour une lectrice de 13 ans, portée sur la romance](/lectures-sf/parcours-13-ans/)** : partir de la romance assumée et laisser la magie, la dystopie et l'espace démultiplier l'émotion.
+### Parcours de lecture adulte
+
+**[La reprise, pour adulte](/lectures-sf/parcours-adulte/)** : relancer la machine avec des livres impossibles à lâcher, puis remonter vers les sommets et les grandes fresques, sans jamais deux pavés d'affilée.
+
+### Parcours de lecture garçon de 12 ans
+
+**[Pour un bon lecteur de 12 ans](/lectures-sf/parcours-12-ans/)** : de Niourk à Dune, avec la fantasy en parallèle.
+
+### Parcours de lecture fille de 13 ans
+
+**[Pour une lectrice de 13 ans, portée sur la romance](/lectures-sf/parcours-13-ans/)** : partir de la romance assumée et laisser la magie, la dystopie et l'espace démultiplier l'émotion.
 
 ## I. Précurseurs et fondateurs (1818-1939) · 29 œuvres
 

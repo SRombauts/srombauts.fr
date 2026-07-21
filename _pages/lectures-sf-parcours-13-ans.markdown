@@ -12,7 +12,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 
 *Le profil : une lectrice qui dévore déjà les gros cycles, mais que la romance attire d'abord. Bonne nouvelle : la SF et la fantasy regorgent d'histoires d'amour qui comptent parmi les meilleures du genre, et c'est souvent par là qu'on devient lectrice de l'imaginaire pour la vie. Le principe : partir de la romance assumée, glisser vers les romances-dans-l'aventure, et laisser le décor (magie, dystopie, espace) démultiplier l'émotion. Ce parcours déborde volontiers de la liste principale : la romantasy y est peu représentée.*
 
-## Étape 1 · Les valeurs sûres pour commencer
+## Phase 1 · Les valeurs sûres pour commencer
 
 - **La Passe-miroir** · Christelle Dabos (4 tomes) · Ophélie, liseuse d'objets maladroite, est fiancée de force au glacial Thorn sur l'arche du Pôle ; entre illusions, complots et non-dits, LA slow-burn romance de la fantasy française. S'il ne faut en lire qu'un, c'est celui-ci.
 - **Phobos** · Victor Dixen (4 tomes) · Douze prétendants partent coloniser Mars en direct : du speed-dating en orbite, des couples qui se forment sous les caméras, et un complot dans les coulisses. Cliffhangers redoutables.
@@ -21,7 +21,16 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - **Le Pacte des Marchombres (Ellana)** · Pierre Bottero (3 tomes) · Ellana, orpheline élevée dans la voie des Marchombres, apprend que la liberté est un art exigeant ; l'amour y grandit en filigrane, d'autant plus fort qu'il est retenu.
 - **U4** · collectif (4 tomes) · Le virus U4 a tué 90 % des humains en épargnant les 15-18 ans ; quatre survivants, quatre romans croisés, et des histoires d'amour dans chaque tome. À picorer.
 
-## Étape 2 · Romantasy et fantasy romantique (le cœur de cible)
+## Phase 2 · Les formats courts entre deux romans
+
+- **Chroniques martiennes** · Ray Bradbury · Mars comme miroir poétique de l'Amérique. Des nouvelles à picorer.
+- **Demain les chiens** · Clifford D. Simak · Huit contes d'une douceur déchirante, parfaits pour une lecture partagée.
+- **La Ménagerie de papier** · Ken Liu · Chaque nouvelle est une pépite ; la nouvelle-titre est un chef-d'œuvre sur la mémoire et l'amour maternel.
+- **Les Robots** · Isaac Asimov · Le recueil fondateur de toute la réflexion sur l'IA ; chaque nouvelle est une énigme logique.
+- **L'Homme bicentenaire** · Isaac Asimov · Andrew, robot domestique, conquiert sur deux siècles la créativité, la liberté puis la mortalité.
+- **La Tour de Babylone** · Ted Chiang · Dont « L'histoire de ta vie » (le film Premier Contact) : apprendre une langue qui change le rapport au temps ; chaque nouvelle est un bijou.
+
+## Phase 3 · Romantasy et fantasy romantique (le cœur de cible)
 
 - **Le Prince cruel** · Holly Black (trilogie) · Jude, mortelle élevée à la cour des fae, veut sa place parmi ceux qui la méprisent, à commencer par le prince Cardan. Le « enemies-to-lovers » de référence, malin et vénéneux ; le carton absolu chez les lectrices de cet âge.
 - **Chroniques lunaires (Cinder)** · Marissa Meyer (5 tomes) · Cendrillon est une cyborg mécanicienne dans une Nouvelle-Pékin menacée par la peste et par la reine de la Lune ; chaque tome réinvente un conte en SF, avec une romance à chaque fois. Addictif et très bien fait.
@@ -36,7 +45,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - **Vampyria** · Victor Dixen (4 tomes parus) · Dans un Versailles gothique où Louis XIV, devenu vampire, règne depuis trois siècles, Jeanne infiltre l'école des écuyers du Roy pour venger sa famille. Par l'auteur de Phobos, en plus sombre.
 - **Keleana (Throne of Glass)** · Sarah J. Maas (série complète) · L'assassine la plus célèbre du royaume sort du bagne pour servir le roi qu'elle hait, entre deux amours et mille lames. Plébiscité sur Babelio. Note aux parents : les premiers tomes sont sages, les derniers nettement moins ; mieux vaut le savoir avant.
 
-## Étape 3 · Romance et SF (la passerelle vers le reste du genre)
+## Phase 4 · Romance et SF (la passerelle vers le reste du genre)
 
 - **La Sélection** · Kiera Cass (5 tomes) · Dans l'Illéa d'après-guerre, 35 prétendantes tirées au sort concourent devant les caméras pour épouser le prince Maxon ; America y entre à contrecœur, le cœur déjà pris. Le Bachelor royal en dystopie de castes ; romance d'abord, monde ensuite.
 - **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit sa faction à seize ans ; Tris, divergente donc traquée, rencontre Quatre, son instructeur. Dystopie et histoire d'amour à parts égales.
@@ -46,7 +55,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - **La Faucheuse** · Neal Shusterman (trilogie) · Dans un monde sans mort naturelle gouverné par une IA bienveillante, deux ados apprennent le métier de faucheur, liés par ce qu'ils refusent de devenir. De quoi débattre en famille.
 - **La Vie invisible d'Addie LaRue** · V.E. Schwab · En 1714, Addie échange son âme contre l'immortalité : tout le monde l'oublie aussitôt, jusqu'au jour, trois siècles plus tard, où un libraire se souvient d'elle. Romantique et mélancolique, très aimé des grandes lectrices.
 
-## Un peu plus tard (15-16 ans, mais autant les avoir en tête)
+## Phase 5 · Un peu plus tard (15-16 ans, mais autant les avoir en tête)
 
 - **Princess Bride** · William Goldman · Amour vrai, duels parfaits, géants et vengeances : le conte de fées qui se moque des contes de fées en les surpassant. Drôle, tendre, culte.
 - **Le Temps n'est rien** · Audrey Niffenegger · Clare aime Henry, qui voyage dans le temps malgré lui : il disparaît sans prévenir et revient à des âges différents de leur histoire. Le grand mélo SF, pour dans deux ans.

@@ -19,15 +19,7 @@ excerpt: "Se remettre à la lecture de SF : des page-turners aux grandes fresque
 - **Des fleurs pour Algernon** · Daniel Keyes · Opéré comme la souris Algernon, Charlie Gordon, simple d'esprit, devient génie, puis voit venir la régression. Son journal, dont l'orthographe fleurit puis se défait avec lui, rappelle pourquoi la SF peut briser un cœur.
 - **Replay** · Ken Grimwood · Jeff Winston meurt en 1988 et se réveille en 1963, dix-huit ans, mémoire intacte ; que feriez-vous mieux, encore et encore ? Le genre de livre qu'on finit à 2 h du matin.
 
-## Phase 2 · L'émerveillement retrouvé (le sense of wonder)
-
-- **Le Problème à trois corps** · Liu Cixin · Depuis la Révolution culturelle, un signal est parti vers Trisolaris ; la réponse engage quatre siècles de stratégie cosmique. Le grand frisson moderne du contact ; commencez par le tome 1, la trilogie peut attendre.
-- **Spin** · Robert Charles Wilson · Une membrane enferme la Terre : dehors, le temps passe cent millions de fois plus vite et les étoiles ont disparu. Trois amis d'enfance vivent l'apocalypse au ralenti ; le vertige cosmique à hauteur d'homme.
-- **La Grande Porte** · Frederik Pohl · Sur un astéroïde truffé de vaisseaux extraterrestres préprogrammés, on embarque sans savoir si l'on reviendra riche ou mort. Loterie spatiale, culpabilité et psychanalyse ; le tome 1 se suffit.
-- **Un feu sur l'abîme** · Vernor Vinge · La galaxie est stratifiée en zones de pensée : plus on s'éloigne du centre, plus l'intelligence devient possible. Une Puissance maligne s'éveille et deux enfants naufragés détiennent l'antidote ; du space opera à idées comme on n'en fait plus.
-- **Rendez-vous avec Rama** · Arthur C. Clarke · Un cylindre de cinquante kilomètres traverse le système solaire ; l'humanité a quelques semaines pour l'explorer avant qu'il reparte. L'artefact pur, l'exploration pour elle-même.
-
-## Phase 3 · Le réflexe du format court (à intercaler en permanence)
+## Phase 2 · Le réflexe du format court (à intercaler en permanence)
 
 *La vraie astuce de la reprise : toujours un recueil en cours à côté du roman.*
 
@@ -42,6 +34,14 @@ excerpt: "Se remettre à la lecture de SF : des page-turners aux grandes fresque
 - **Kirinyaga** · Mike Resnick · Sur son habitat orbital kikuyu, le sorcier Koriba refuse toute modernité, y compris celle qui sauverait les siens ; utopie traditionaliste et dilemmes déchirants. Le récit le plus primé de la SF courte.
 - **Gravé sur chrome** · William Gibson · Johnny Mnemonic, hôtels capsules et cowboys de la console : la matrice du cyberpunk en dix nouvelles nerveuses. Pour retrouver le goût du néon entre deux classiques.
 - **L'Homme illustré** · Ray Bradbury · Chaque tatouage d'un vagabond s'anime et raconte une histoire, souvent cruelle ; le pendant sombre des Chroniques martiennes, plébiscité par les lecteurs de NPR.
+
+## Phase 3 · L'émerveillement retrouvé (le sense of wonder)
+
+- **Le Problème à trois corps** · Liu Cixin · Depuis la Révolution culturelle, un signal est parti vers Trisolaris ; la réponse engage quatre siècles de stratégie cosmique. Le grand frisson moderne du contact ; commencez par le tome 1, la trilogie peut attendre.
+- **Spin** · Robert Charles Wilson · Une membrane enferme la Terre : dehors, le temps passe cent millions de fois plus vite et les étoiles ont disparu. Trois amis d'enfance vivent l'apocalypse au ralenti ; le vertige cosmique à hauteur d'homme.
+- **La Grande Porte** · Frederik Pohl · Sur un astéroïde truffé de vaisseaux extraterrestres préprogrammés, on embarque sans savoir si l'on reviendra riche ou mort. Loterie spatiale, culpabilité et psychanalyse ; le tome 1 se suffit.
+- **Un feu sur l'abîme** · Vernor Vinge · La galaxie est stratifiée en zones de pensée : plus on s'éloigne du centre, plus l'intelligence devient possible. Une Puissance maligne s'éveille et deux enfants naufragés détiennent l'antidote ; du space opera à idées comme on n'en fait plus.
+- **Rendez-vous avec Rama** · Arthur C. Clarke · Un cylindre de cinquante kilomètres traverse le système solaire ; l'humanité a quelques semaines pour l'explorer avant qu'il reparte. L'artefact pur, l'exploration pour elle-même.
 
 ## Phase 4 · Un fil rouge : l'esprit, l'IA, la conscience
 
