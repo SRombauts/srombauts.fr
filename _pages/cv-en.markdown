@@ -29,6 +29,7 @@ toc_sticky: true
 * **Languages**: C, C++, Assembly, VHDL, Java, PHP, SQL, VBA.
 * **Software & tools**: Visual Studio (C, C++, MFC); Platform Builder and eMbedded Visual C++ for Windows CE 5; Windows XP driver development with the DDK and the Visual SoftICE debugger; Altera FPGA toolchain (Quartus II, SOPC Builder, ModelSim) and Code Composer (some Xilinx experience); GNU tools (Cygwin, binutils, gcc, Makefile, gdbtk); CVS servers and clients.
 * **Real-time**: processor architecture, interrupt handling, low-level layers, real-time sequencers, synchronization objects and real-time drivers.
+* **Processor architecture**: designed and simulated a simplified RISC processor, defined its instruction set, and implemented its microcode as part of my final-year project.
 * **Operating systems**: Windows CE 5.0, Windows XP-NT, Linux.
 * **Hardware**: PC, CPLD and FPGA, TI TMS320F240 DSP, embedded RISC processors with no OS.
 * **Networks & protocols**: SPI, I2C, CAN, TCP/IP, UDP/IP, RS232 and RS485 serial links.
