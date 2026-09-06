@@ -4,4 +4,5 @@ _site
 .jekyll-metadata
 vendor
 *.bak
-.vs
+/.vs
+/.claude/skills/career-planning
