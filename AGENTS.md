@@ -415,9 +415,9 @@ Theme release notes: <https://github.com/mmistakes/minimal-mistakes/releases>.
 
 Reusable agent instructions live in `.claude/skills/`, one `SKILL.md` per skill. A
 skill-aware tool (e.g. Claude Code) auto-loads each one from its `description`. Tools
-without skill support should treat the two baseline skills below as always-on house rules.
-This list names the mandatory skills and the one editing rule; it is not a full catalogue,
-and each skill's own `description` remains the authoritative trigger.
+without skill support should treat the baseline skills below as house rules. This list
+names the mandatory skills and the editing rule; it is not a full catalogue, and each
+skill's own `description` remains the authoritative trigger.
 
 - **`agent-response-style` (baseline for all interaction).** Professional, factual,
   neutral tone with calibrated, peer-review-style challenge: compare alternatives, surface
@@ -425,8 +425,14 @@ and each skill's own `description` remains the authoritative trigger.
 - **`humanizer` (mandatory for prose).** Run it on every blog post and every user-facing
   message to strip AI-writing tells (significance inflation, filler, em dashes, rule of
   three, sycophancy, ...). It is a vendored third-party skill: **never edit it**, so it can
-  be re-synced from upstream. Its "no em dashes" rule governs published prose; the em-dash
-  tolerance in `skill-maintenance` applies only to skill `.md` files.
+  be re-synced from upstream. Its "no em dashes" rule governs published prose and skill
+  documentation.
+- **`boileau` (mandatory for French prose when available).** Run it whenever creating,
+  translating, rewriting or reviewing French text, including skill references and
+  user-facing messages. Preserve the language used by the surrounding document. Do not
+  replace French with English or remove accents to satisfy an ASCII preference. For French
+  wording and typography, `boileau` takes precedence over English-specific guidance in
+  `humanizer`. It is vendored: **never edit it** locally.
 - **`skill-maintenance` (when editing skills).** Conventions for files under
   `.claude/skills/**`. Read it before creating or changing any skill.
 

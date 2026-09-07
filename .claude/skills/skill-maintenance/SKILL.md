@@ -23,18 +23,22 @@ The conventions below are repo-local extensions and reinforcements of that guide
 Wrap markdown at **100 characters**. In rendered Markdown, single newlines fold into spaces, so
 wrapping does not affect the output, but it makes side-by-side diffs and review readable.
 
-**ASCII only.** No emoji, no symbolic icons (warning signs, check marks, decorative arrows,
-prohibition signs, etc.), no emoticons. Plain ASCII keeps `git diff` and GitHub's diff/blame views
-readable and copy-pasteable, and stays consistent with the repo's `.editorconfig` (UTF-8 encoding,
-but ASCII content avoids review surprises). For emphasis use **bold**, headings, or a leading word
-like **NEVER**.
+**Preserve the document language.** Follow the language established by the skill and its nearby
+references. Do not switch a French document to English to satisfy a character-set preference.
+French prose must use UTF-8 with its normal accents and punctuation. Never strip diacritics to make
+French text ASCII. English prose should stay ASCII when practical.
 
-**No em dashes or en dashes.** Em dashes (`—`) and en dashes (`–`) are non-ASCII, so the
-ASCII-only rule above already bans them. This line restates it because they slip in through
-copy-paste and autocorrect. Do not use `--` or `-` as a substitute; restructure instead:
-a period (new sentence), a comma (a tight aside), a colon (an explanation), or parentheses (a true
-aside). This keeps skill markdown consistent with the `humanizer` skill, which bans em dashes in
-all published prose.
+When creating, translating, rewriting or reviewing French prose, read and apply the `boileau` skill
+if it is available. `boileau` governs French wording and typography. If it is unavailable, keep the
+document in French and perform the same checks manually rather than falling back to English.
+
+No emoji, symbolic icons (warning signs, check marks, decorative arrows, prohibition signs, etc.)
+or emoticons. For emphasis use **bold**, headings, or a leading word like **NEVER**.
+
+**No em dashes or en dashes.** Do not use `--` or `-` as a substitute; restructure instead: a
+period (new sentence), a comma (a tight aside), a colon (an explanation), or parentheses (a true
+aside). This applies in every language and keeps skill markdown consistent with `humanizer` and
+`boileau`.
 
 ## Frontmatter
 
@@ -169,11 +173,10 @@ Highlights worth re-stating:
 ## Third-party / upstream skills
 
 Some skills are vendored from an external source and tracked verbatim so they can be re-synced from
-upstream. **`humanizer`** is one of these: leave its file untouched, including its frontmatter,
-which carries upstream keys (`version`, `license`, `compatibility`, `allowed-tools`) that these
-conventions would otherwise strip. Editing it locally would create merge friction the next time it
-is pulled from upstream. If it genuinely needs a change, push the change upstream or fork it under a
-new name rather than diverging the vendored copy in place.
+upstream. **`humanizer`** and **`boileau`** are examples: leave their files untouched, including
+frontmatter keys that these conventions would otherwise strip. Editing them locally would create
+merge friction the next time they are pulled from upstream. If either genuinely needs a change,
+push it upstream or fork it under a new name rather than diverging the vendored copy in place.
 
 ## Validating a skill change
 
