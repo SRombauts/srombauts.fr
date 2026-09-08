@@ -7,7 +7,7 @@ toc_label: "Sommaire"
 toc_sticky: true
 ---
 
-*Ceci n'est pas un CV résumé conforme aux attentes des entreprises, mais une version exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne ; pour me contacter, voir la page [About](/about/).*
+*Ceci n'est pas un CV résumé, mais une version plus exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne.*
 
 **Sébastien Rombauts** — Ingénieur logiciel expérimenté
 
@@ -15,35 +15,18 @@ toc_sticky: true
 
 ## Compétences
 
-* **Langages** : C++, Python, Java, C, C#, SQL, Javascript, HTML5/CSS, Bash, Batch (Go).
-* **Bibliothèques** : Boost, Protocol Buffer, SQLite3, jsoncpp, TinyXml (Assimp, TensorFlow).
-* **Outils** : Unreal Profiler, Perforce, Jenkins/Gitlab CI, CMake, Git, valgrind, SVN.
-* **Méthodes** : Agile/SCRUM, TDD, Intégration Continue, Design Patterns, UML.
-* **IDE** : Visual Studio & Visual Assist, Eclipse, Android Studio.
-* **Langues** : Anglais courant et technique, bases d'Espagnol et d'Allemand.
+* **Langages** : C++, Python, C#, SQL, Bash/Batch/PowerShell.
+* **Moteurs** : Unity, Unreal Engine.
+* **Systèmes** : Linux.
+* **Bibliothèques & API** : SQLite3, jsoncpp, TinyXml, SDL3, googletest, doctest, OpenGL.
+* **Outils** : Unreal Profiler, Unity Version Control (UVCS, anciennement Plastic SCM), Perforce, Jenkins/GitLab CI, CMake, Git, Valgrind.
+* **Méthodes** : Agile/SCRUM, TDD, DevOps, CI/CD, Design Patterns, UML.
+* **IDEs/Agents** : Visual Studio, Rider, Visual Studio Code, Cursor, Claude Code, Codex.
+* **Langues** : anglais courant et technique, conversations simples en allemand et en espagnol.
 
-## Compétences techniques — période embarqué / temps réel (≈ 2001 à 2009)
-
-*Reprises de mes CV de 2008 et 2013. Conservées ici comme trace : ces compétences bas niveau, électronique et temps réel ne figurent plus dans le bloc ci-dessus, mais restent mobilisables.*
-
-* **Langages** : C, C++, Assembleur, VHDL, Java, PHP, SQL, VBA.
-* **Logiciels & outils** : Visual Studio (C, C++, MFC) ; Platform Builder et eMbedded Visual C++ pour Windows CE 5 ; développement de drivers Windows XP avec le DDK et le débogueur Visual SoftICE ; chaîne de développement FPGA d'Altera (Quartus II, SOPC Builder, ModelSim) et Code Composer (expérience de Xilinx) ; outils GNU (Cygwin, binutils, gcc, Makefile, gdbtk) ; serveurs et clients CVS.
-* **Temps réel** : architecture des processeurs, gestion d'interruptions, couches basses, séquenceurs temps réel, objets de synchronisation et drivers temps réels.
-* **Architecture processeur** : conception et simulation d'un processeur RISC simplifié, définition de son jeu d'instructions et implémentation de son microcode, dans le cadre du projet de fin d'études.
-* **Systèmes** : Windows CE 5.0, Windows XP-NT, Linux.
-* **Matériels** : PC, CPLD et FPGA, DSP TI TMS320F240, processeurs RISC embarqués sans OS.
-* **Réseaux & protocoles** : SPI, I2C, CAN, TCP/IP, UDP/IP, séries RS232 et RS485.
-* **Méthodes & normes** : Scrum, Merise, SART/SADT.
+Voir les [compétences complémentaires](#competences-complementaires) en fin de page.
 
 ## Expérience
-
-### Unity, Paris, France — Senior Software Engineer, plugin Unreal Engine (équipe Integration / Ecosystem)
-
-*Février 2022 à décembre 2024*
-
-* Recruté comme propriétaire et développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
-* Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
-* En parallèle, travail « full stack » sur l'écosystème : backend C# et frontend ASP.NET de plasticscm.com sur Azure, ainsi que d'autres plugins de l'écosystème. Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessous).
 
 ### Unity, Paris, France — Senior Software Engineer, package éditeur Unity (équipe VCS Tech)
 
@@ -51,7 +34,7 @@ toc_sticky: true
 
 * Ma première contribution a été livrée dans la version 2.0.5 (juin 2023). À mesure que l'équipe s'est élargie pour prendre aussi en charge le package de l'éditeur Unity et les applications de bureau, le package Unity Version Control pour l'éditeur Unity (C#) est devenu ma priorité, le plugin Unreal est passé en maintenance, et je n'ai contribué que ponctuellement aux applications de bureau et à Gluon.
 
-**Package Unity Version Control (éditeur Unity, C#)**
+**Package Unity Version Control (Unity Editor, C#)**
 
 * Responsable de la planification et de l'exécution des publications sur de nombreuses versions (de la 2.5.0 à la 2.12.x), en coordonnant la validation de l'équipe et en alignant les sorties sur les jalons de l'éditeur Unity, notamment pour être prêt à temps pour Unity 6.1 à la GDC 2025 et Unity 6.3 à l'Unite 2025.
 * Conception et réalisation d'une fonctionnalité « créer une revue de code depuis le plugin » pour faciliter l'adoption des workflows par branches, incluant une boîte de dialogue de confirmation réutilisable et le travail d'UI multiplateforme (macOS) associé.
@@ -84,6 +67,22 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Partage à grande échelle : coaching de coéquipiers, Unity Talks internes et démos en direct pour diffuser la pratique à toute l'équipe, plutôt que de garder ces acquis pour moi.
 * Montée en niveau de toute l'équipe : transformation de mes fichiers SKILL (instructions pour agents IA) en skills génériques et performants, publiés sur le dépôt de l'équipe, pour que chacun parte d'une base commune au lieu de réinventer la roue dans son propre environnement local. J'ai rédigé la grande majorité de ces fichiers.
 
+### Unity, Paris, France — Senior Software Engineer, plugin Unreal Engine (équipe Integration / Ecosystem)
+
+*Février 2022 à décembre 2024*
+
+**Plugin Unity Version Control (Unreal Engine, C++)**
+
+* Recruté comme développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
+* Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
+
+Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
+
+**Backend et DevOps (C#, SQL)**
+
+* En parallèle, travail « full stack » sur l'écosystème : backend C# et frontend ASP.NET de plasticscm.com sur Azure, suivi des logs et des performances avec Datadog, ainsi que d'autres plugins de l'écosystème.
+* DevOps s'appuyant sur la solution interne historique de Plastic SCM (HAL, en C#), intégrée à Jira et Slack.
+
 ### Darewise Entertainment, Paris (75019) — Senior Software Engineer, Tools & Tech
 
 *Avril 2018 à février 2022*
@@ -106,7 +105,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 * Mentorat de programmeurs juniors, assistance aux tech designers, artists et animateurs.
 * Dev (avec stagiaires) du système de build : pipelines Jenkins, scripts Python, Commandlets.
-* Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (Github).
+* Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (GitHub).
 * Intégration et maintenance du plugin SpatialOS GDK pour Unreal, contributions d'améliorations en collaboration avec les équipes techniques d'Improbable.
 * Dev C++ du jeu (tech) : game instance, managers, config, PlayFab online services.
 * Analyse de crash, profiling & optimisations, problématiques réseau / réplication.
@@ -114,7 +113,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Développement d'APIs Blueprint & Python pour les tech designers & tech artists.
 * Développement d'un serveur web intégré au client du jeu pour l'outiller (UI & API REST).
 
-### Projets Open Source, Github — Développement bibliothèques et logiciels
+### Projets Open Source, GitHub — Développement bibliothèques et logiciels
 
 *2009 à mars 2018*
 
@@ -133,7 +132,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Migration des postes de développement de Windows vers Ubuntu, resté notre environnement de travail principal pendant plusieurs années. Mise en place de machines virtuelles et de serveurs Linux pour des outils internes.
 * Mise en place du framework C++, des couches d'abstraction de l'OS, des bibliothèques C/C++ et du build-système CMake, avec des portages sur Windows CE, Linux, Android et OpenAT.
 * Contribution à la migration des calculateurs embarqués de Windows CE vers Linux, puis développement et maintenance pendant plusieurs années d'applications sans interface graphique exécutées sur ces calculateurs.
-* Applications Android, service de VoIP en Protocol Buffer sur TCP/IP, serveur de maintenance Web embarquée, séquenceur de traitements asynchrones.
+* Applications Android, service de VoIP en Protocol Buffers sur TCP/IP, serveur web de maintenance embarqué, séquenceur de traitements asynchrones.
 * Développement et déploiement d'un service de rapports de plantage, d'abord sur Android puis sous Linux.
 * Conception et développement du moteur de scénarios de tests automatiques pour Jenkins puis GitLab CI.
 * Déploiement et maintenance de Jenkins pour l'équipe de R&D embarquée, puis adaptation des processus d'intégration continue aux besoins d'autres équipes.
@@ -167,7 +166,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 **EURILOGIC, équipe Embedded, Chatenay Malabry (92) — Développements logiciels embarqués**
 *Septembre 2004 à avril 2006*
 
-* Développements embarqués au sein d'une équipe projets de 10 personnes :
+* Développements embarqués au sein d'une équipe projet de 10 personnes :
   * Portage de 4 BSP STPC depuis Windows CE 4.20 vers Windows CE 5.00.
   * Réalisation d'un démonstrateur et d'un document de formation de Windows CE 5.00 sur carte Freescale ADS i.MX21 ARM9.
   * Conception et développement d'une application embarquée sur carte Digi connect ARM7 réalisant une interface Ethernet/Série intelligente et multi-protocoles (Modbus, TCP/IP, UDP/IP) entre réseau local et compteurs de particules dans l'air en salles blanches.
@@ -207,6 +206,12 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
   * Spécification puis conception d'une application de filtrage vidéo et de réduction d'image en temps réel, pour affichage sur une visu d'avion de combat.
   * Développement et simulation électronique détaillée.
   * Rapport sur le travail réalisé et évaluation des possibilités démontrées au cours de l'étude, en particulier l'intégration aisée de processeur(s).
+
+### ISEP, Paris — Projet d'option de fin d'études
+
+*Fin 2002 à janvier 2003*
+
+**Architecture processeur** : conception et simulation d'un processeur RISC simplifié, définition de son jeu d'instructions et implémentation de son microcode.
 
 ### ISEP, Paris — Coupe de France de Robotique (E=M6) : Électronique et Informatique appliquée à la robotique
 
@@ -250,10 +255,28 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Classes préparatoires aux grandes écoles scientifiques au Lycée Pothier d'Orléans (45000), 1998 à 2000.
 * Baccalauréat S en 1998 (mention bien).
 
-## Centres d'intérêts
+## Compétences complémentaires {#competences-complementaires}
 
-* Développements open-sources (Github : C++, Unreal Engine, Machine Learning, VR).
+*Acquises au fil de mon parcours, notamment en développement embarqué, en électronique et en temps réel.*
+
+* **Langages** : C, assembleur, VHDL, Java, PHP, JavaScript, HTML5, VBA.
+* **Temps réel** : architecture des processeurs, gestion d'interruptions, couches basses, séquenceurs temps réel, objets de synchronisation et drivers temps réel.
+* **Matériels** : CPLD et FPGA, DSP TI TMS320F240, processeurs RISC embarqués sans OS.
+* **Réseaux & protocoles** : SPI, I2C, CAN, TCP/IP, UDP/IP, liaisons série RS232 et RS485.
+
+### Environnements et outils utilisés par le passé
+
+*Conservés pour documenter les environnements de mes précédents projets.*
+
+* **Bibliothèques** : Boost, Protocol Buffers, Assimp, TensorFlow.
+* **Systèmes** : Windows CE 5.0, Windows XP et Windows NT.
+* **Logiciels & outils** : Eclipse, Android Studio ; Platform Builder et eMbedded Visual C++ pour Windows CE 5 ; développement de drivers Windows XP avec le DDK et le débogueur Visual SoftICE ; chaîne de développement FPGA d'Altera (Quartus II, SOPC Builder, ModelSim) et Code Composer (expérience de Xilinx) ; outils GNU (Cygwin, binutils, gcc, Makefile, gdbtk) ; serveurs et clients CVS et SVN.
+* **Méthodes & normes** : Merise, SART/SADT.
+
+## Centres d'intérêt
+
+* Développements open source (GitHub : C++, Unreal Engine, Machine Learning, VR).
 * Travail du bois : plusieurs pièces en chêne réalisées à la main, dont un meuble de piano, des maillets et une planche à découper en bois de bout, de la conception aux assemblages jusqu'à la finition. J'aime passer ce temps loin des écrans, tout en mettant en œuvre la même planification et la même précision qu'en ingénierie.
 * Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Recettes publiées sous forme de [site Jekyll en Pages GitHub](https://srombauts.github.io/recettes-sans-gluten/).
-* Jeux vidéo, lecture SF, pilotage de drone, jogging, randonnée, voyages.
-</content>
+* Lecture SF, cf. [liste de lecture de ce blog](https://srombauts.eu/lectures-sf/).
+* Jeux vidéo, pilotage de drone, jogging, randonnée, voyages.

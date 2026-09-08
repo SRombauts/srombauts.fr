@@ -7,7 +7,7 @@ toc_label: "Contents"
 toc_sticky: true
 ---
 
-*This is not a concise, company-ready CV but an exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version; to reach me, see the [About](/about/) page.*
+*This is not a concise CV but a more exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version.*
 
 **Sébastien Rombauts** — Senior Software Engineer
 
@@ -15,35 +15,18 @@ toc_sticky: true
 
 ## Skills
 
-* **Languages**: C++, Python, Java, C, C#, SQL, Javascript, HTML5/CSS, Bash, Batch (Go).
-* **Libraries**: Boost, Protocol Buffer, SQLite3, jsoncpp, TinyXml (Assimp, TensorFlow).
-* **Tools**: Unreal Profiler, Perforce, Jenkins/Gitlab CI, CMake, Git, valgrind, SVN.
-* **Methods**: Agile/SCRUM, TDD, Continuous Integration, Design Patterns, UML.
-* **IDEs**: Visual Studio & Visual Assist, Eclipse, Android Studio.
-* **Languages (spoken)**: fluent and technical English, basics of Spanish and German.
+* **Languages**: C++, Python, C#, SQL, Bash/Batch/PowerShell.
+* **Engines**: Unity, Unreal Engine.
+* **Operating systems**: Linux.
+* **Libraries & APIs**: SQLite3, jsoncpp, TinyXml, SDL3, googletest, doctest, OpenGL.
+* **Tools**: Unreal Profiler, Unity Version Control (UVCS, formerly Plastic SCM), Perforce, Jenkins/GitLab CI, CMake, Git, Valgrind.
+* **Methods**: Agile/SCRUM, TDD, DevOps, CI/CD, Design Patterns, UML.
+* **IDEs/Agents**: Visual Studio, Rider, Visual Studio Code, Cursor, Claude Code, Codex.
+* **Languages (spoken)**: fluent and technical English, basic conversations in German and Spanish.
 
-## Technical skills — embedded / real-time period (≈ 2001 to 2009)
-
-*Taken from my 2008 and 2013 CVs. Kept here as a record: these low-level, electronics and real-time skills no longer appear in the block above, but remain readily usable.*
-
-* **Languages**: C, C++, Assembly, VHDL, Java, PHP, SQL, VBA.
-* **Software & tools**: Visual Studio (C, C++, MFC); Platform Builder and eMbedded Visual C++ for Windows CE 5; Windows XP driver development with the DDK and the Visual SoftICE debugger; Altera FPGA toolchain (Quartus II, SOPC Builder, ModelSim) and Code Composer (some Xilinx experience); GNU tools (Cygwin, binutils, gcc, Makefile, gdbtk); CVS servers and clients.
-* **Real-time**: processor architecture, interrupt handling, low-level layers, real-time sequencers, synchronization objects and real-time drivers.
-* **Processor architecture**: designed and simulated a simplified RISC processor, defined its instruction set, and implemented its microcode as part of my final-year project.
-* **Operating systems**: Windows CE 5.0, Windows XP-NT, Linux.
-* **Hardware**: PC, CPLD and FPGA, TI TMS320F240 DSP, embedded RISC processors with no OS.
-* **Networks & protocols**: SPI, I2C, CAN, TCP/IP, UDP/IP, RS232 and RS485 serial links.
-* **Methods & standards**: Scrum, Merise, SART/SADT.
+See the [additional skills](#additional-skills) at the end of the page.
 
 ## Experience
-
-### Unity, Paris, France — Senior Software Engineer, Unreal Engine plugin (Integration / Ecosystem team)
-
-*February 2022 to December 2024*
-
-* Hired as the owner and original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
-* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
-* On the side, worked across the wider ecosystem as a "full stack" developer: the plasticscm.com C# backend and ASP.NET frontend on Azure, plus other ecosystem plugins. The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (below).
 
 ### Unity, Paris, France — Senior Software Engineer, Unity Editor package (VCS Tech team)
 
@@ -84,6 +67,22 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Sharing broadly: coached teammates and gave internal Unity Talks and live demos to spread the practice across the team, rather than keeping the gains to myself.
 * Raising the whole team's baseline: refined my SKILL files (AI agent instructions) into generic, performant skills and published them on the team repository, so everyone works from a shared toolkit instead of re-inventing the wheel in their own local setup. I authored the large majority of those files.
 
+### Unity, Paris, France — Senior Software Engineer, Unreal Engine plugin (Integration / Ecosystem team)
+
+*February 2022 to December 2024*
+
+**Unity Version Control plugin (Unreal Engine, C++)**
+
+* Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
+* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
+
+The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
+
+**Backend and DevOps (C#, SQL)**
+
+* On the side, worked across the wider ecosystem as a "full stack" developer: the plasticscm.com C# backend and ASP.NET frontend on Azure, log and performance monitoring with Datadog, plus other ecosystem plugins.
+* DevOps using Plastic SCM's existing in-house solution (HAL, written in C#), integrated with Jira and Slack.
+
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
 
 *April 2018 to February 2022*
@@ -106,7 +105,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 * Mentoring of junior programmers, support to tech designers, artists and animators.
 * Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
-* Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (Github).
+* Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
 * Integration and maintenance of the SpatialOS GDK plugin for Unreal, contributing improvements in collaboration with Improbable's technical teams.
 * C++ game (tech) development: game instance, managers, config, PlayFab online services.
 * Crash analysis, profiling & optimization, networking / replication issues.
@@ -114,7 +113,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Development of Blueprint & Python APIs for tech designers & tech artists.
 * Development of a web server embedded in the game client to provide tooling (UI & REST API).
 
-### Open Source projects, Github — Library and software development
+### Open Source projects, GitHub — Library and software development
 
 *2009 to March 2018*
 
@@ -133,7 +132,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Migrated the development workstations from Windows to Ubuntu, which remained our main working environment for several years. Set up Linux virtual machines and servers for internal tools.
 * Built the C++ framework, OS abstraction layers, C/C++ libraries, and CMake build system, with ports to Windows CE, Linux, Android, and OpenAT.
 * Contributed to the migration of the embedded computers from Windows CE to Linux, then spent several years developing and maintaining headless applications running on them.
-* Android applications, a VoIP service over Protocol Buffer on TCP/IP, an embedded web maintenance server, an asynchronous task sequencer.
+* Android applications, a VoIP service over Protocol Buffers on TCP/IP, an embedded web maintenance server, an asynchronous task sequencer.
 * Developed and deployed a crash-reporting service, first on Android and later on Linux.
 * Designed and developed the automated test scenario engine for Jenkins and later GitLab CI.
 * Deployed and maintained Jenkins for the Embedded R&D team, then adapted its continuous-integration processes for other teams.
@@ -208,6 +207,12 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
   * Development and detailed electronic simulation.
   * Report on the work carried out and evaluation of the possibilities demonstrated during the study, in particular the easy integration of processor(s).
 
+### ISEP, Paris — Final-year project
+
+*End of 2002 to January 2003*
+
+**Processor architecture**: designed and simulated a simplified RISC processor, defined its instruction set, and implemented its microcode.
+
 ### ISEP, Paris — French national robotics cup (Coupe de France de Robotique, E=M6): electronics and computing applied to robotics
 
 *2000 to 2003 (three entries)*
@@ -250,10 +255,28 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Preparatory classes for the French "grandes écoles" (CPGE, science track) at Lycée Pothier in Orléans (45000), 1998 to 2000.
 * French Scientific Baccalauréat in 1998 (with honours).
 
+## Additional skills
+
+*Acquired throughout my career, particularly in embedded software, electronics and real-time systems.*
+
+* **Languages**: C, Assembly, VHDL, Java, PHP, JavaScript, HTML5, VBA.
+* **Real-time**: processor architecture, interrupt handling, low-level layers, real-time sequencers, synchronization objects and real-time drivers.
+* **Hardware**: CPLD and FPGA, TI TMS320F240 DSP, embedded RISC processors with no OS.
+* **Networks & protocols**: SPI, I2C, CAN, TCP/IP, UDP/IP, RS232 and RS485 serial links.
+
+### Environments and tools used in past projects
+
+*Kept as a record of the environments used in my previous projects.*
+
+* **Libraries**: Boost, Protocol Buffers, Assimp, TensorFlow.
+* **Operating systems**: Windows CE 5.0, Windows XP and Windows NT.
+* **Software & tools**: Eclipse, Android Studio; Platform Builder and eMbedded Visual C++ for Windows CE 5; Windows XP driver development with the DDK and the Visual SoftICE debugger; Altera FPGA toolchain (Quartus II, SOPC Builder, ModelSim) and Code Composer (some Xilinx experience); GNU tools (Cygwin, binutils, gcc, Makefile, gdbtk); CVS and SVN servers and clients.
+* **Methods & standards**: Merise, SART/SADT.
+
 ## Interests
 
-* Open-source development (Github: C++, Unreal Engine, Machine Learning, VR).
+* Open-source development (GitHub: C++, Unreal Engine, Machine Learning, VR).
 * Woodworking: hand-built oak pieces, including a piano stand, mallets and an end-grain cutting board, taken from design and joinery to finishing. I enjoy spending this time away from a screen, while exercising the same planning and precision as engineering work.
-* Gluten-free bread baking: I enjoy taking care of my sourdough levain, making custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as its own [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
-* Video games, science-fiction reading, drone piloting, jogging, hiking, travel.
-</content>
+* Gluten-free bread baking: I enjoy taking care of my sourdough levain, making custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as a dedicated [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
+* Reading science fiction; see the [reading list on this blog](https://srombauts.eu/lectures-sf/).
+* Video games, drone piloting, jogging, hiking, travel.
