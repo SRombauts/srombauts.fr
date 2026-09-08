@@ -422,17 +422,19 @@ skill's own `description` remains the authoritative trigger.
 - **`agent-response-style` (baseline for all interaction).** Professional, factual,
   neutral tone with calibrated, peer-review-style challenge: compare alternatives, surface
   trade-offs and failure modes, do not merely validate. Applies to every task.
-- **`humanizer` (mandatory for prose).** Run it on every blog post and every user-facing
-  message to strip AI-writing tells (significance inflation, filler, em dashes, rule of
-  three, sycophancy, ...). It is a vendored third-party skill: **never edit it**, so it can
-  be re-synced from upstream. Its "no em dashes" rule governs published prose and skill
-  documentation.
-- **`boileau` (mandatory for French prose when available).** Run it whenever creating,
-  translating, rewriting or reviewing French text, including skill references and
-  user-facing messages. Preserve the language used by the surrounding document. Do not
-  replace French with English or remove accents to satisfy an ASCII preference. For French
-  wording and typography, `boileau` takes precedence over English-specific guidance in
-  `humanizer`. It is vendored: **never edit it** locally.
+- **`humanizer` (mandatory only for public project prose).** Run it only when creating or
+  modifying prose in a project file whose content is intended to be publicly visible, such
+  as a blog post, site page or public README. Do not run it for user-facing messages,
+  question answering, code or prose reviews, internal instructions, comments or commit
+  messages. It is a vendored third-party skill: **never edit it**, so it can be re-synced
+  from upstream. Its "no em dashes" rule governs the public prose on which it is run.
+- **`boileau` (mandatory only for public French project prose when available).** Run it
+  only when creating or modifying French prose in a project file whose content is intended
+  to be publicly visible. Do not run it merely because the conversation is in French, or
+  when answering questions or reviewing modifications. Preserve the language used by the
+  surrounding document. Do not replace French with English or remove accents to satisfy an
+  ASCII preference. For French wording and typography, `boileau` takes precedence over
+  English-specific guidance in `humanizer`. It is vendored: **never edit it** locally.
 - **`skill-maintenance` (when editing skills).** Conventions for files under
   `.claude/skills/**`. Read it before creating or changing any skill.
 
