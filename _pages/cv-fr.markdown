@@ -115,11 +115,14 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 * Formation et encadrement en équipe de 2 à 5 personnes (Agile SCRUM).
 * Conception, développement dirigés par les tests (TDD) du SAEIV (transports en commun).
-* Mise en place du framework C++ et des couches d'abstraction de l'OS, des bibliothèques C/C++, portages (WinCE, Linux, Android, OpenAT), du build-système CMake.
+* Migration des postes de développement de Windows vers Ubuntu, resté notre environnement de travail principal pendant plusieurs années. Mise en place de machines virtuelles et de serveurs Linux pour des outils internes.
+* Mise en place du framework C++, des couches d'abstraction de l'OS, des bibliothèques C/C++ et du build-système CMake, avec des portages sur Windows CE, Linux, Android et OpenAT.
+* Contribution à la migration des calculateurs embarqués de Windows CE vers Linux, puis développement et maintenance pendant plusieurs années d'applications sans interface graphique exécutées sur ces calculateurs.
 * Applications Android, service de VoIP en Protocol Buffer sur TCP/IP, serveur de maintenance Web embarquée, séquenceur de traitements asynchrones.
-* Conception/dev du moteur de scénarios de tests automatiques pour Jenkins puis Gitlab CI.
-* Mise en place du workflow de développement Git, Gitlab, Jenkins et Doc de référence.
-* Mise en place des outils de l'intranet : portail custom, Mediawiki, Mantis.
+* Développement et déploiement d'un service de rapports de plantage, d'abord sur Android puis sous Linux.
+* Conception et développement du moteur de scénarios de tests automatiques pour Jenkins puis GitLab CI.
+* Déploiement de Git dans l'entreprise, puis de GitLab CI sur l'infrastructure virtualisée gérée par l'IT. Mise en place du workflow de développement et de sa documentation de référence.
+* Administration d'une partie de l'intranet : wiki, outils de mesure d'audience et, plus ponctuellement, Mantis après avoir contribué à son déploiement initial.
 
 ### ENGIE INEO Systrans, Achères (78) — Responsable drivers et logiciels bas niveau
 

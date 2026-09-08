@@ -115,11 +115,14 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 * Training and team leadership of 2 to 5 people (Agile SCRUM).
 * Test-driven design and development (TDD) of the SAEIV public-transport operations and passenger-information system.
-* Set-up of the C++ framework and of the OS abstraction layers, of the C/C++ libraries, ports (WinCE, Linux, Android, OpenAT), and of the CMake build system.
+* Migrated the development workstations from Windows to Ubuntu, which remained our main working environment for several years. Set up Linux virtual machines and servers for internal tools.
+* Built the C++ framework, OS abstraction layers, C/C++ libraries, and CMake build system, with ports to Windows CE, Linux, Android, and OpenAT.
+* Contributed to the migration of the embedded computers from Windows CE to Linux, then spent several years developing and maintaining headless applications running on them.
 * Android applications, a VoIP service over Protocol Buffer on TCP/IP, an embedded web maintenance server, an asynchronous task sequencer.
-* Design/development of the automated test scenario engine for Jenkins then Gitlab CI.
-* Set-up of the Git, Gitlab, Jenkins development workflow and reference documentation.
-* Set-up of the intranet tools: custom portal, Mediawiki, Mantis.
+* Developed and deployed a crash-reporting service, first on Android and later on Linux.
+* Designed and developed the automated test scenario engine for Jenkins and later GitLab CI.
+* Rolled out Git across the company, then deployed GitLab CI on the virtualized infrastructure managed by IT. Established the development workflow and wrote its reference documentation.
+* Administered part of the intranet, including the wiki and analytics tools, with occasional maintenance of Mantis after contributing to its initial deployment.
 
 ### ENGIE INEO Systrans, Achères (78), France — Drivers and low-level software lead
 
