@@ -89,6 +89,21 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 *April 2018 to February 2022*
 
 * MMO "Project-C" in closed pre-alpha, within a team of 6 programmers.
+
+**Initial SpatialOS phase**
+
+* Initially ran our Unreal Engine dedicated game servers on the SpatialOS cloud platform.
+
+**DevOps and LiveOps phase**
+
+* Built and maintained a Jenkins pipeline integrated with Perforce that automatically compiled and uploaded the Linux game server and its debug symbols to the cloud on a regular schedule.
+* Managed branch-based deployments across development and QA environments from the main branch, then staging and live environments from the release branch.
+* Monitored the SpatialOS platform, cloud deployments, and game servers as part of LiveOps.
+* Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
+* Built a batch analytics pipeline that ran every six hours as a Python job in Google Cloud.
+
+**Engineering and tools throughout the project**
+
 * Mentoring of junior programmers, support to tech designers, artists and animators.
 * Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
 * Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (Github).

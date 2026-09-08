@@ -88,7 +88,22 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 *Avril 2018 à février 2022*
 
-* MMO « Project-C » en pre-alpha fermée, au sein d'une équipe de 6 programmeurs.
+* MMO « Project-C » en pré-alpha fermée, au sein d'une équipe de 6 programmeurs.
+
+**Phase initiale sur SpatialOS**
+
+* Exploitation initiale de nos serveurs de jeu dédiés Unreal Engine sur la plateforme cloud SpatialOS.
+
+**Phase DevOps et LiveOps**
+
+* Construction et maintenance d'un pipeline Jenkins intégré à Perforce, qui compilait et envoyait automatiquement à intervalles réguliers le serveur de jeu Linux et ses symboles de débogage dans le cloud.
+* Gestion des déploiements par branches : environnements de développement et de QA depuis la branche principale, puis environnements de staging et live depuis la branche de release.
+* Surveillance de la plateforme SpatialOS, des déploiements cloud et des serveurs de jeu dans le cadre du LiveOps.
+* Intégration et exploitation d'une chaîne de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
+* Construction d'un pipeline de traitement des données analytiques par lots, exécuté toutes les six heures par un script Python dans Google Cloud.
+
+**Ingénierie et outils pendant tout le projet**
+
 * Mentorat de programmeurs juniors, assistance aux tech designers, artists et animateurs.
 * Dev (avec stagiaires) du système de build : pipelines Jenkins, scripts Python, Commandlets.
 * Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (Github).
