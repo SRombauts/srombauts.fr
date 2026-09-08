@@ -121,6 +121,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Android applications, a VoIP service over Protocol Buffer on TCP/IP, an embedded web maintenance server, an asynchronous task sequencer.
 * Developed and deployed a crash-reporting service, first on Android and later on Linux.
 * Designed and developed the automated test scenario engine for Jenkins and later GitLab CI.
+* Deployed and maintained Jenkins for the Embedded R&D team, then adapted its continuous-integration processes for other teams.
 * Rolled out Git across the company, then deployed GitLab CI on the virtualized infrastructure managed by IT. Established the development workflow and wrote its reference documentation.
 * Administered part of the intranet, including the wiki and analytics tools, with occasional maintenance of Mantis after contributing to its initial deployment.
 

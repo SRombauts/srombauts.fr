@@ -121,6 +121,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Applications Android, service de VoIP en Protocol Buffer sur TCP/IP, serveur de maintenance Web embarquée, séquenceur de traitements asynchrones.
 * Développement et déploiement d'un service de rapports de plantage, d'abord sur Android puis sous Linux.
 * Conception et développement du moteur de scénarios de tests automatiques pour Jenkins puis GitLab CI.
+* Déploiement et maintenance de Jenkins pour l'équipe de R&D embarquée, puis adaptation des processus d'intégration continue aux besoins d'autres équipes.
 * Déploiement de Git dans l'entreprise, puis de GitLab CI sur l'infrastructure virtualisée gérée par l'IT. Mise en place du workflow de développement et de sa documentation de référence.
 * Administration d'une partie de l'intranet : wiki, outils de mesure d'audience et, plus ponctuellement, Mantis après avoir contribué à son déploiement initial.
 
