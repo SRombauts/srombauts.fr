@@ -28,17 +28,16 @@ references. Do not switch a French document to English to satisfy a character-se
 French prose must use UTF-8 with its normal accents and punctuation. Never strip diacritics to make
 French text ASCII. English prose should stay ASCII when practical.
 
-When creating, translating, rewriting or reviewing French prose, read and apply the `boileau` skill
-if it is available. `boileau` governs French wording and typography. If it is unavailable, keep the
-document in French and perform the same checks manually rather than falling back to English.
+Skill files are internal instructions, not human-facing project prose. Do not apply `humanizer` or
+`boileau` when creating, translating, rewriting or reviewing them. Keep French instructions clear,
+idiomatic and correctly accented without loading either writing skill.
 
 No emoji, symbolic icons (warning signs, check marks, decorative arrows, prohibition signs, etc.)
 or emoticons. For emphasis use **bold**, headings, or a leading word like **NEVER**.
 
 **No em dashes or en dashes.** Do not use `--` or `-` as a substitute; restructure instead: a
 period (new sentence), a comma (a tight aside), a colon (an explanation), or parentheses (a true
-aside). This applies in every language and keeps skill markdown consistent with `humanizer` and
-`boileau`.
+aside). This applies in every language.
 
 ## Frontmatter
 
