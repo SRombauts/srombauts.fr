@@ -277,6 +277,6 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 * Open-source development (GitHub: C++, Unreal Engine, Machine Learning, VR).
 * Woodworking: hand-built oak pieces, including a piano stand, mallets and an end-grain cutting board, taken from design and joinery to finishing. I enjoy spending this time away from a screen, while exercising the same planning and precision as engineering work.
-* Gluten-free bread baking: I enjoy taking care of my sourdough levain, making custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. Recipes published as a dedicated [Jekyll site on GitHub Pages](https://srombauts.github.io/recettes-sans-gluten/).
+* Gluten-free bread baking: I enjoy taking care of my sourdough levain, making custom flour and starch blends, calculating hydration, nutrition and cost-per-kg figures. See [my gluten-free recipes](https://srombauts.github.io/recettes-sans-gluten/).
 * Reading science fiction; see the [reading list on this blog](https://srombauts.eu/lectures-sf/).
 * Video games, drone piloting, jogging, hiking, travel.

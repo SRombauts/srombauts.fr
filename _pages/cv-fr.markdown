@@ -277,6 +277,6 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 * Développements open source (GitHub : C++, Unreal Engine, Machine Learning, VR).
 * Travail du bois : plusieurs pièces en chêne réalisées à la main, dont un meuble de piano, des maillets et une planche à découper en bois de bout, de la conception aux assemblages jusqu'à la finition. J'aime passer ce temps loin des écrans, tout en mettant en œuvre la même planification et la même précision qu'en ingénierie.
-* Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Recettes publiées sous forme de [site Jekyll en Pages GitHub](https://srombauts.github.io/recettes-sans-gluten/).
+* Boulangerie sans gluten : j'aime préparer mon pain au levain, faire mes propres mélanges de farines et fécules, calculer hydratation, nutrition et coût au kilo. Retrouvez [mes recettes sans gluten](https://srombauts.github.io/recettes-sans-gluten/).
 * Lecture SF, cf. [liste de lecture de ce blog](https://srombauts.eu/lectures-sf/).
 * Jeux vidéo, pilotage de drone, jogging, randonnée, voyages.

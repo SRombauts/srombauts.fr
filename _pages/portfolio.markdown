@@ -43,6 +43,10 @@ My long-running [SQLiteC++][SQLiteCpp] library carries [a similar set of project
 
 * [pong-sdl3-cpp][pong] ([roadmap][pongroadmap]): a Pong clone in modern C++ with SDL3 and CMake, built from scratch without a game engine. Work in progress: the window, game loop, playfield, paddles and keyboard input are in place; ball physics, scoring and the menus are still on the roadmap. It also doubles as the AI-assisted methodology sandbox described above.
 
+## Personal projects
+
+* [Gluten-free recipes](https://srombauts.github.io/recettes-sans-gluten/): my personal recipe collection, published in French with Jekyll and GitHub Pages.
+
 ## Other experiments
 
 Smaller things I have played with over the years, some of which may get a fuller write-up later:
