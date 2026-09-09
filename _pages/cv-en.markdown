@@ -121,6 +121,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Plastic SCM plugin since Unreal Engine 4.11, being integrated for UE4.24.
 * Tutorials and prototypes with Unreal Engine (ArchViz, games, multiplayer, C++ and Blueprints).
 * Pac Man C++ / SDL, CodinGame multiplayer challenge "The Great Escape".
+* [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017): a TensorFlow experiment with a character-level LSTM language model in Python, in a [fork of Sherjil Ozair's project](https://github.com/sherjilozair/char-rnn-tensorflow) to which I added seven commits on training metrics, documentation and the English corpus of Tolstoy's *War and Peace*. The project was inspired by the Torch-based [char-rnn](https://github.com/karpathy/char-rnn), and my work followed my reading of Andrej Karpathy's article ["The Unreasonable Effectiveness of Recurrent Neural Networks"](https://karpathy.github.io/2015/05/21/rnn-effectiveness/).
 * C++ wrapper library for SQLite3, C++ Logger, C++98-compatible shared_ptr, C++ embedded web server with Boost Asio, OpenGL then Vulkan tutorials.
 
 ### ENGIE INEO Systrans, Achères (78), France — Embedded application software development
