@@ -67,12 +67,14 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 **Éditeur Unity (C#)**
 
 * Une centaine de pull requests fusionnées dans l'éditeur Unity, en plus de contributions à des dépôts internes associés.
-* Ajout du support de Perforce Cloud, et réduction du coût des suites de tests automatisés du contrôle de version et de la fusion YAML de l'éditeur.
+* Réduction du coût des suites de tests automatisés du module Version Control et de l'outil de fusion YAML de l'éditeur.
 
 **Maintenance du plugin Unreal Engine (C++)**
 
 * Maintien du plugin à jour avec le moteur : compatibilité et correctifs pour Unreal Engine 5.5 et 5.6, avec des publications livrées dans la semaine suivant chaque sortie du moteur.
-* Correction de graves problèmes de performance dans le traitement des grandes listes de fichiers et de problèmes d'authentification multi-comptes, et refonte de l'UX de l'assistant de création de workspace (sélection par menu déroulant des organisations et projets unifiés).
+* Correction de graves problèmes de performance dans le traitement des grandes listes de fichiers.
+* Diagnostic et correction de problèmes subtiles d'authentification multi-comptes (requierant des évolutions de l'outil de CLI).
+* Refonte de l'UX de l'assistant de création de workspace (sélection par menu déroulant des organisations et projets unifiés).
 * Migration de la distribution du plugin de l'Unreal Marketplace vers Fab, et livraison de la vue « Changesets ».
 
 **Perforce et travaux transverses**
@@ -185,11 +187,11 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 *Mai 2009 à avril 2018*
 
 * Formation et encadrement en équipe de 2 à 5 personnes (Agile SCRUM).
-* Conception, développement dirigés par les tests (TDD) du SAEIV (transports en commun).
+* Conception, développement dirigés par les tests (TDD) de l'interface du SAEIV (transports en commun).
 * Migration des postes de développement de Windows vers Ubuntu, resté notre environnement de travail principal pendant plusieurs années. Mise en place de machines virtuelles et de serveurs Linux pour des outils internes.
 * Mise en place du framework C++, des couches d'abstraction de l'OS, des bibliothèques C/C++ et du build-système CMake, avec des portages sur Windows CE, Linux, Android et OpenAT.
 * Contribution à la migration des calculateurs embarqués de Windows CE vers Linux, puis développement et maintenance pendant plusieurs années d'applications sans interface graphique exécutées sur ces calculateurs.
-* Applications Android, service de VoIP en Protocol Buffers sur TCP/IP, serveur web de maintenance embarqué, séquenceur de traitements asynchrones.
+* Applications Android, avec service de VoIP en Protocol Buffers sur TCP/IP, serveur web de maintenance embarqué, séquenceur de traitements asynchrones.
 * Développement et déploiement d'un service de rapports de plantage, d'abord sur Android puis sous Linux.
 * Conception et développement du moteur de scénarios de tests automatiques pour Jenkins puis GitLab CI.
 * Déploiement et maintenance de Jenkins pour l'équipe de R&D embarquée, puis adaptation des processus d'intégration continue aux besoins d'autres équipes.

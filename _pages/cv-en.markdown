@@ -67,12 +67,14 @@ See the [additional skills](#additional-skills) at the end of the page.
 **Unity Editor (C#)**
 
 * Around 100 merged pull requests to the Unity Editor, plus contributions to related internal repositories.
-* Added Perforce Cloud support, and reduced the overhead of the Editor's version-control and YAML-merge automated test suites.
+* Reduced the cost of running automated test suites for the Editor's Version Control module and YAML merge tool.
 
 **Unreal Engine plugin maintenance (C++)**
 
 * Kept the plugin current with the engine: compatibility and fixes for Unreal Engine 5.5 and 5.6, with new releases shipped within a week of each engine launch.
-* Fixed severe performance issues in large file-list handling and authentication problems across multiple accounts, and reworked the Create Workspace wizard UX (dropdown selection of unified organizations and projects).
+* Fixed severe performance issues in large file-list handling.
+* Diagnosed and fixed subtle authentication problems across multiple accounts that required changes to the command-line tool.
+* Reworked the Create Workspace wizard UX (dropdown selection of unified organizations and projects).
 * Moved the plugin's distribution from the Unreal Marketplace to Fab, and shipped the "Changesets" view.
 
 **Perforce and cross-cutting work**
@@ -185,11 +187,11 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 *May 2009 to April 2018*
 
 * Training and team leadership of 2 to 5 people (Agile SCRUM).
-* Test-driven design and development (TDD) of the SAEIV public-transport operations and passenger-information system.
+* Test-driven design and development (TDD) of the interface for the SAEIV public-transport operations and passenger-information system.
 * Migrated the development workstations from Windows to Ubuntu, which remained our main working environment for several years. Set up Linux virtual machines and servers for internal tools.
 * Built the C++ framework, OS abstraction layers, C/C++ libraries, and CMake build system, with ports to Windows CE, Linux, Android, and OpenAT.
 * Contributed to the migration of the embedded computers from Windows CE to Linux, then spent several years developing and maintaining headless applications running on them.
-* Android applications, a VoIP service over Protocol Buffers on TCP/IP, an embedded web maintenance server, an asynchronous task sequencer.
+* Android applications with a VoIP service over Protocol Buffers on TCP/IP, an embedded web maintenance server and an asynchronous task sequencer.
 * Developed and deployed a crash-reporting service, first on Android and later on Linux.
 * Designed and developed the automated test scenario engine for Jenkins and later GitLab CI.
 * Deployed and maintained Jenkins for the Embedded R&D team, then adapted its continuous-integration processes for other teams.
