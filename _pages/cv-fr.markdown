@@ -21,8 +21,9 @@ Admis au programme **Cloud & DevOps Engineer de La Capsule**, en complément de 
 ## Compétences
 
 * **Systèmes** : Linux, macOS, Windows ; expérience des systèmes embarqués et des interactions matériel/logiciel.
-* **Automatisation, build et CI/CD** : Jenkins, GitLab CI, CMake, scripts Python et shell, déploiements de serveurs Linux par environnement et par branche.
-* **Cloud et exploitation (LiveOps)** : SpatialOS, Google Cloud Platform (GCP), Multiplay, serveurs physiques (bare metal) et cloud ; backend sur Azure ; pipeline analytique Python et BigQuery.
+* **Automatisation, build et CI/CD** : Jenkins, GitLab CI, CMake, scripts Python et shell ; Yamato CI, PackageWorks et HAL chez Unity ; déploiements par environnement, branche et région.
+* **Cloud et exploitation (LiveOps)** : SpatialOS, Google Cloud Platform (GCP), Multiplay, serveurs physiques (bare metal) et cloud ; déploiements du backend web Plastic SCM en Europe, aux États-Unis et en Asie.
+* **Données et services** : accès SQL et interventions ponctuelles de déploiement, d'administration et de surveillance sur PostgreSQL ; pipeline analytique Python et BigQuery ; intégration de services backend et de paiement.
 * **Observabilité et diagnostic** : suivi des logs et des performances avec Datadog, rapports de plantage, profilage et analyse de problèmes réseau et de réplication.
 * **Langages** : C++, Python, C#, SQL, Bash/Batch/PowerShell.
 * **Transmission** : documentation des procédures, mentorat, formation et support technique aux équipes.
@@ -51,7 +52,17 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 * Responsable de la planification et de l'exécution des publications sur de nombreuses versions (de la 2.5.0 à la 2.12.x), en coordonnant la validation de l'équipe et en alignant les sorties sur les jalons de l'éditeur Unity, notamment pour être prêt à temps pour Unity 6.1 à la GDC 2025 et Unity 6.3 à l'Unite 2025.
 * Conception et réalisation d'une fonctionnalité « créer une revue de code depuis le plugin » pour faciliter l'adoption des workflows par branches, incluant une boîte de dialogue de confirmation réutilisable et le travail d'UI multiplateforme (macOS) associé.
 * Validation des workflows de fusion de branches, de « shelve & switch » et de la vue des « shelves », et investigation de problèmes de performance et de plantages difficiles à reproduire remontés par le support client.
-* Modernisation de la CI et du pipeline de publication du package pour suivre l'outillage de la Release Management Unity et des règles de validation de package plus strictes : vérifications de compatibilité de l'API publique, mises à jour automatisées des dépendances, et un workflow documenté de couverture de code.
+
+**Build, CI/CD et publications**
+
+* Mise à jour des configurations Yamato CI et du pipeline PackageWorks pour les publications du package Unity Version Control : adaptation aux exigences de release, vérification de compatibilité de l'API publique et mises à jour automatisées des dépendances.
+* Intégration d'outils de mesure de couverture de code, documentation du workflow et correction de tests et d'avertissements pour satisfaire les contrôles de publication.
+* Extension ponctuelle de HAL, l'outil CI/CD historique de Plastic SCM en C# intégré à Jira et Slack, pour tester le package Unity sur des images Bokken, utilisées par les machines virtuelles de build multiplateforme de Unity.
+* Participation au cycle de publication hebdomadaire : sélection d'une release stable, validation manuelle partagée dans l'équipe, puis publication automatisée des installeurs et des notes de version après accord collectif.
+
+**Analytics produit**
+
+* Ajout d'événements Amplitude dans le package Unity et le code client partagé, et création de quelques graphiques de suivi.
 
 **Éditeur Unity (C#)**
 
@@ -92,9 +103,10 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 **Backend cloud, déploiements multi-région et DevOps (C#, SQL)**
 
-* En parallèle, travail « full stack » sur l'écosystème : backend C# et frontend ASP.NET de plasticscm.com sur Azure, suivi des logs et des performances avec Datadog, ainsi que d'autres plugins de l'écosystème.
-* Participation aux déploiements multi-région du backend Plastic SCM et du frontend plasticscm.com, avant l'intégration partielle de ce site à unity.com.
-* DevOps s'appuyant sur la solution interne historique de Plastic SCM (HAL, en C#), intégrée à Jira et Slack.
+* Évolutions ciblées du backend C# et du frontend ASP.NET de plasticscm.com. Le backend gérait la création de comptes, l'authentification SSO des clients Plastic SCM (application de bureau, CLI, package Unity et serveurs), la facturation, les paiements Stripe et certaines API.
+* Modifications incluant des mises à jour de version du schéma de la base de données ; suivi des problèmes de performance avec Datadog, sur une instrumentation mise en place par un collègue de la squad.
+* Participation aux déploiements multi-région du backend web et du frontend en Europe, aux États-Unis et en Asie, avant l'intégration partielle de plasticscm.com à unity.com.
+* Environnement cloud principalement sur GCP, avec un historique AWS, des configurations d'Infrastructure as Code en Terraform et des microservices sur Kubernetes dont je n'assurais pas l'administration. L'environnement comprenait aussi Prometheus/Grafana pour le monitoring des clusters et BigQuery/Looker pour l'analytics.
 
 ### Darewise Entertainment, Paris (75019) — Senior Software Engineer, Tools & Tech
 
@@ -119,13 +131,15 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Surveillance de la plateforme SpatialOS, des déploiements cloud et des serveurs de jeu dans le cadre du LiveOps.
 * Intégration et exploitation d'une chaîne de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
 * Formation à l'analytics sur GCP et BigQuery, puis participation à la mise en place du pipeline analytique : traitement par lots toutes les six heures par un script Python dans Google Cloud.
+* Interventions ponctuelles sur PostgreSQL, la base du serveur de jeu : accès SQL dans la couche technique du jeu, déploiement, administration, surveillance et ajustements de configuration lors de problèmes de disponibilité ou de performance.
+* Services utilisés dans l'environnement du projet : GCP Compute, S3, PostgreSQL et BigQuery.
 
 **Ingénierie et outils pendant tout le projet**
 
 * Mentorat de programmeurs juniors, assistance aux tech designers, artists et animateurs.
 * Dev (avec stagiaires) du système de build : pipelines Jenkins, scripts Python, Commandlets.
 * Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (GitHub).
-* Dev C++ du jeu (tech) : game instance, managers, config, PlayFab online services.
+* Dev C++ de la couche technique du jeu : game instance, managers, configuration ; intégration du Backend as a Service PlayFab et d'un service de paiement.
 * Analyse de crash, profiling & optimisations, problématiques réseau / réplication.
 * Développement de barres d'outils & extensions de menus dans l'éditeur Unreal.
 * Développement d'APIs Blueprint & Python pour les tech designers & tech artists.

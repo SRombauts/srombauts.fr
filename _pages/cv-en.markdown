@@ -21,8 +21,9 @@ Admitted to **La Capsule's Cloud & DevOps Engineer programme** to build on my pr
 ## Skills
 
 * **Operating systems**: Linux, macOS, Windows; experience with embedded systems and hardware/software interactions.
-* **Automation, build and CI/CD**: Jenkins, GitLab CI, CMake, Python and shell scripts, Linux server deployments by environment and branch.
-* **Cloud and operations (LiveOps)**: SpatialOS, Google Cloud Platform (GCP), Multiplay, bare metal and cloud servers; backend on Azure; Python and BigQuery analytics pipeline.
+* **Automation, build and CI/CD**: Jenkins, GitLab CI, CMake, Python and shell scripts; Yamato CI, PackageWorks and HAL at Unity; deployments by environment, branch and region.
+* **Cloud and operations (LiveOps)**: SpatialOS, Google Cloud Platform (GCP), Multiplay, bare metal and cloud servers; Plastic SCM web backend deployments in Europe, the United States and Asia.
+* **Data and services**: SQL access and occasional PostgreSQL deployment, administration and monitoring; Python and BigQuery analytics pipeline; backend and payment service integration.
 * **Observability and diagnostics**: log and performance monitoring with Datadog, crash reporting, profiling and investigation of networking and replication issues.
 * **Languages**: C++, Python, C#, SQL, Bash/Batch/PowerShell.
 * **Knowledge sharing**: procedure documentation, mentoring, training and technical support for teams.
@@ -51,7 +52,17 @@ See the [additional skills](#additional-skills) at the end of the page.
 * Owned release planning and execution across many versions (from 2.5.0 to 2.12.x), coordinating team validation and aligning releases with Unity Editor milestones, including shipping in time for Unity 6.1 at GDC 2025 and Unity 6.3 at Unite 2025.
 * Designed and built a "create a code review from the plugin" feature to make branch-based workflows easier to adopt, including a reusable confirmation dialog and the related cross-platform (macOS) UI work.
 * Validated the branch-merge, shelve-and-switch and shelve-view workflows, and investigated hard-to-reproduce performance and crash reports raised through customer support.
-* Modernized the package CI and release pipeline to keep up with the Unity Release Management tooling and stricter package-validation rules: public-API compatibility checks, automated dependency updates, and a documented code-coverage workflow.
+
+**Build, CI/CD and releases**
+
+* Updated Yamato CI configurations and the PackageWorks pipeline for Unity Version Control package releases: adapting to release requirements, checking public API compatibility and automating dependency updates.
+* Integrated code coverage tools, documented the workflow and fixed tests and warnings to meet release checks.
+* Made a targeted extension to HAL, Plastic SCM's historical C# CI/CD tool integrated with Jira and Slack, to test the Unity package on Bokken images used by Unity's multiplatform build virtual machines.
+* Participated in the weekly release cycle: selecting a stable release, sharing manual validation across the team, then automatically publishing installers and release notes after collective approval.
+
+**Product analytics**
+
+* Added Amplitude events to the Unity package and shared client code, and created a few tracking charts.
 
 **Unity Editor (C#)**
 
@@ -92,9 +103,10 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 **Cloud backend, multi-region deployments and DevOps (C#, SQL)**
 
-* On the side, worked across the wider ecosystem as a "full stack" developer: the plasticscm.com C# backend and ASP.NET frontend on Azure, log and performance monitoring with Datadog, plus other ecosystem plugins.
-* Contributed to multi-region deployments of the Plastic SCM backend and plasticscm.com frontend, before the website was partly integrated into unity.com.
-* DevOps using Plastic SCM's existing in-house solution (HAL, written in C#), integrated with Jira and Slack.
+* Made targeted changes to the plasticscm.com C# backend and ASP.NET frontend. The backend handled account creation, SSO authentication for Plastic SCM clients (desktop application, CLI, Unity package and servers), billing, Stripe payments and some APIs.
+* Changes included database schema version updates; investigated performance issues with Datadog, using instrumentation set up by a squad colleague.
+* Contributed to multi-region deployments of the web backend and frontend in Europe, the United States and Asia, before plasticscm.com was partly integrated into unity.com.
+* Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included Prometheus/Grafana for cluster monitoring and BigQuery/Looker for analytics.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
 
@@ -119,13 +131,15 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Monitored the SpatialOS platform, cloud deployments, and game servers as part of LiveOps.
 * Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
 * Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
+* Occasional work on PostgreSQL, the game server database: SQL access in the game's technical layer, deployment, administration, monitoring and configuration adjustments when investigating availability or performance issues.
+* Services used in the project environment: GCP Compute, S3, PostgreSQL and BigQuery.
 
 **Engineering and tools throughout the project**
 
 * Mentoring of junior programmers, support to tech designers, artists and animators.
 * Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
 * Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
-* C++ game (tech) development: game instance, managers, config, PlayFab online services.
+* C++ development of the game's technical layer: game instance, managers and configuration; integration of PlayFab Backend as a Service and a payment service.
 * Crash analysis, profiling & optimization, networking / replication issues.
 * Development of toolbars & menu extensions in the Unreal editor.
 * Development of Blueprint & Python APIs for tech designers & tech artists.
