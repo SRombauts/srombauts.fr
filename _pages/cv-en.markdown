@@ -90,9 +90,10 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
-**Backend and DevOps (C#, SQL)**
+**Cloud backend, multi-region deployments and DevOps (C#, SQL)**
 
 * On the side, worked across the wider ecosystem as a "full stack" developer: the plasticscm.com C# backend and ASP.NET frontend on Azure, log and performance monitoring with Datadog, plus other ecosystem plugins.
+* Contributed to multi-region deployments of the Plastic SCM backend and plasticscm.com frontend, before the website was partly integrated into unity.com.
 * DevOps using Plastic SCM's existing in-house solution (HAL, written in C#), integrated with Jira and Slack.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
@@ -266,7 +267,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 ### La Capsule · Cloud & DevOps Engineer {#cloud-devops-training}
 
-*Admission confirmed in September 2026, admission certificate received. Upcoming training: 400 hours over 10 weeks, full time.*
+*Admission confirmed on September 14, 2026. Planned session: October 12 to December 18, 2026, 400 hours over 10 weeks, full time.*
 
 [Official Cloud & DevOps Engineer programme, La Capsule](https://www.lacapsule.academy/program/devops-full-time). Preparation for the French professional qualification "Administrateur système DevOps" (level 6).
 
