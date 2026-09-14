@@ -42,7 +42,7 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 
 ### Unity, Paris, France — Senior Software Engineer, package éditeur Unity (équipe VCS Tech)
 
-*Juin 2024 à aujourd'hui*
+*Juillet 2024 à juillet 2026*
 
 *Environnement de travail chez Unity : MacBook pour dévelopement sous Windows, macOS et Linux.*
 
@@ -94,7 +94,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 ### Unity, Paris, France — Senior Software Engineer, plugin Unreal Engine (équipe Integration / Ecosystem)
 
-*Février 2022 à décembre 2024*
+*Février 2022 à juillet 2024*
 
 **Backend cloud, déploiements multi-région et DevOps (C#, SQL)**
 

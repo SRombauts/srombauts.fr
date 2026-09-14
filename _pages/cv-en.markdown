@@ -42,7 +42,7 @@ See the [additional skills](#additional-skills) at the end of the page.
 
 ### Unity, Paris, France — Senior Software Engineer, Unity Editor package (VCS Tech team)
 
-*June 2024 to present*
+*July 2024 to July 2026*
 
 *Working environment at Unity: MacBook for development on Windows, macOS and Linux.*
 
@@ -94,7 +94,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 ### Unity, Paris, France — Senior Software Engineer, Unreal Engine plugin (Integration / Ecosystem team)
 
-*February 2022 to December 2024*
+*February 2022 to July 2024*
 
 **Cloud backend, multi-region deployments and DevOps (C#, SQL)**
 
