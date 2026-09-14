@@ -154,30 +154,35 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Development of Blueprint & Python APIs for tech designers & tech artists.
 * Development of a web server embedded in the game client to provide tooling (UI & REST API).
 * Developed the game's C++ technical layer: network infrastructure, managers and configuration; integrated PlayFab for authentication and server discovery.
+* Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
+* Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
+* Integrated the Xsolla payment service.
 
 **Contributions across the Darewise period (2018 to 2022)**
 
-* Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
-* Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
 * Occasional work on PostgreSQL, the game server database: SQL access in the game's technical layer, deployment, administration, monitoring and configuration adjustments when investigating availability or performance issues.
 * Services used in the project environment: GCP Compute, S3, PostgreSQL and BigQuery.
-* Integrated the Xsolla payment service.
 
-### Open Source projects, GitHub — Library and software development
+### Open source projects, GitHub · Library and software development
 
-*May 2009 to present*
+*May 2009 to present; personal projects alongside my employment.*
 
-* Git plugin for Unreal Engine 4.1, integrated officially since UE4.7; Epic Games invited me to join the Unreal Engine team at GDC 2016 in San Francisco.
-* Plastic SCM plugin since Unreal Engine 4.11, integrated for UE4.24.
-* Tutorials and prototypes with Unreal Engine (ArchViz, games, multiplayer, C++ and Blueprints).
 * Pac Man C++ / SDL, CodinGame multiplayer challenge "The Great Escape".
 * [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017): a TensorFlow experiment with a character-level LSTM language model in Python. I had discovered [char-rnn](https://github.com/karpathy/char-rnn) and Andrej Karpathy's article ["The Unreasonable Effectiveness of Recurrent Neural Networks"](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) through OpenAI's publication ["Unsupervised sentiment neuron"](https://openai.com/index/unsupervised-sentiment-neuron/).
 * [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), a C++ wrapper library for SQLite3.
 * C++ Logger, C++98-compatible shared_ptr, C++ embedded web server with Boost Asio, OpenGL then Vulkan tutorials.
 
+### Freelance · Unreal Engine 4 plugin development (open source)
+
+*March 2014 to February 2022*
+
+* Git plugin for Unreal Engine 4.1, integrated officially since UE4.7; Epic Games invited me to join the Unreal Engine team at GDC 2016 in San Francisco.
+* Plastic SCM plugin since Unreal Engine 4.11, integrated for UE4.24.
+* Tutorials and prototypes with Unreal Engine (ArchViz, games, multiplayer, C++ and Blueprints).
+
 ### ENGIE INEO Systrans, Achères (78), France — Embedded application software development
 
-*2009 to March 2018*
+*May 2009 to April 2018*
 
 * Training and team leadership of 2 to 5 people (Agile SCRUM).
 * Test-driven design and development (TDD) of the SAEIV public-transport operations and passenger-information system.
@@ -193,7 +198,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 ### ENGIE INEO Systrans, Achères (78), France — Drivers and low-level software lead
 
-*May 2006 to 2009*
+*May 2006 to May 2009*
 
 * Lead of low-level development within an R&D team of 4 people, on the project to renew the embedded hardware range:
   * Design and development of the orchestration software for our embedded applications.

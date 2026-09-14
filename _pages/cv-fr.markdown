@@ -154,30 +154,35 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Développement d'APIs Blueprint & Python pour les tech designers & tech artists.
 * Développement d'un serveur web intégré au client du jeu pour l'outiller (UI & API REST).
 * Développement C++ de la couche technique du jeu : infrastructure réseau, managers et configuration ; intégration de PlayFab pour l'authentification et la découverte des serveurs.
+* Intégration et exploitation d'un outil de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
+* Formation à l'analytics sur GCP et BigQuery, puis participation à la mise en place du pipeline analytique : traitement par lots toutes les six heures par un script Python dans Google Cloud.
+* Intégration du service de paiement Xsolla.
 
 **Contributions sur la période Darewise (2018 à 2022)**
 
-* Intégration et exploitation d'une chaîne de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
-* Formation à l'analytics sur GCP et BigQuery, puis participation à la mise en place du pipeline analytique : traitement par lots toutes les six heures par un script Python dans Google Cloud.
 * Interventions ponctuelles sur PostgreSQL, la base du serveur de jeu : accès SQL dans la couche technique du jeu, déploiement, administration, surveillance et ajustements de configuration lors de problèmes de disponibilité ou de performance.
 * Services utilisés dans l'environnement du projet : GCP Compute, S3, PostgreSQL et BigQuery.
-* Intégration du service de paiement Xsolla.
 
-### Projets Open Source, GitHub — Développement bibliothèques et logiciels
+### Projets open source, GitHub · Développement de bibliothèques et logiciels
 
-*Mai 2009 à aujourd'hui*
+*Mai 2009 à aujourd'hui ; activité personnelle menée en parallèle de mes emplois.*
 
-* Plugin Git pour Unreal Engine 4.1, intégré officiellement depuis UE4.7 ; Epic Games m'a invité à rejoindre l'équipe Unreal Engine à la GDC 2016 à San Francisco.
-* Plugin Plastic SCM depuis Unreal Engine 4.11, intégré pour UE4.24.
-* Tutoriels et prototypes avec Unreal Engine (ArchViz, jeux, multi, C++ et Blueprints).
 * Pac Man C++ / SDL, challenge multi CodinGame « The Great Escape ».
 * [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017) : expérimentation de TensorFlow sur un modèle de langage LSTM caractère par caractère en Python. J'avais découvert [char-rnn](https://github.com/karpathy/char-rnn) et l'article d'Andrej Karpathy [« The Unreasonable Effectiveness of Recurrent Neural Networks »](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) par la publication d'OpenAI [« Unsupervised sentiment neuron »](https://openai.com/index/unsupervised-sentiment-neuron/).
 * [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), bibliothèque C++ autour de SQLite3.
 * Logger C++, shared_ptr compatible C++98, serveur web embarqué en C++ avec Boost Asio, tutoriels OpenGL puis Vulkan.
 
+### Freelance · Développement de plugins Unreal Engine 4 (open source)
+
+*Mars 2014 à février 2022*
+
+* Plugin Git pour Unreal Engine 4.1, intégré officiellement depuis UE4.7 ; Epic Games m'a invité à rejoindre l'équipe Unreal Engine à la GDC 2016 à San Francisco.
+* Plugin Plastic SCM depuis Unreal Engine 4.11, intégré pour UE4.24.
+* Tutoriels et prototypes avec Unreal Engine (ArchViz, jeux, multi, C++ et Blueprints).
+
 ### ENGIE INEO Systrans, Achères (78) — Développement logiciels applicatifs embarqués
 
-*2009 à mars 2018*
+*Mai 2009 à avril 2018*
 
 * Formation et encadrement en équipe de 2 à 5 personnes (Agile SCRUM).
 * Conception, développement dirigés par les tests (TDD) du SAEIV (transports en commun).
@@ -193,7 +198,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 ### ENGIE INEO Systrans, Achères (78) — Responsable drivers et logiciels bas niveau
 
-*Mai 2006 à 2009*
+*Mai 2006 à mai 2009*
 
 * Responsable des développements bas niveau au sein d'une équipe R&D de 4 personnes, sur le projet de renouvellement de la gamme de matériel embarqué :
   * Conception et développement du logiciel d'orchestration de nos applications embarquées.
