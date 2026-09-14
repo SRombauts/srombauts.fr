@@ -22,6 +22,7 @@ Admis au programme **Cloud & DevOps Engineer de La Capsule**, en complément de 
 
 * **Systèmes** : Linux, macOS, Windows ; expérience des systèmes embarqués et des interactions matériel/logiciel.
 * **Automatisation, build et CI/CD** : Jenkins, GitLab CI, CMake, scripts Python et shell ; Yamato CI, PackageWorks et HAL chez Unity ; déploiements par environnement, branche et région.
+* **Infrastructure as Code (IaC)** : contributions secondaires et revues de PR sur les configurations Terraform de l'infrastructure chez Unity.
 * **Cloud et exploitation (LiveOps)** : SpatialOS, Google Cloud Platform (GCP), Multiplay, serveurs physiques (bare metal) et cloud ; déploiements du backend web Plastic SCM en Europe, aux États-Unis et en Asie.
 * **Données et services** : accès SQL et interventions ponctuelles de déploiement, d'administration et de surveillance sur PostgreSQL ; pipeline analytique Python et BigQuery ; intégration de services backend et de paiement.
 * **Observabilité et diagnostic** : suivi des logs et des performances avec Datadog, rapports de plantage, profilage et analyse de problèmes réseau et de réplication.
@@ -98,6 +99,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 * Recruté comme développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
 * Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
+* Ajout d'événements de suivi pour le plugin Unreal Engine 5 et création de graphiques avec Prometheus/Grafana.
 
 Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
 
@@ -106,6 +108,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Évolutions ciblées du backend C# et du frontend ASP.NET de plasticscm.com. Le backend gérait la création de comptes, l'authentification SSO des clients Plastic SCM (application de bureau, CLI, package Unity et serveurs), la facturation, les paiements Stripe et certaines API.
 * Modifications incluant des mises à jour de version du schéma de la base de données ; suivi des problèmes de performance avec Datadog, sur une instrumentation mise en place par un collègue de la squad.
 * Participation aux déploiements multi-région du backend web et du frontend en Europe, aux États-Unis et en Asie, avant l'intégration partielle de plasticscm.com à unity.com.
+* Contribution secondaire aux évolutions de l'infrastructure : revue et approbation de PR Terraform, ainsi que modifications ponctuelles des configurations d'Infrastructure as Code.
 * Environnement cloud principalement sur GCP, avec un historique AWS, des configurations d'Infrastructure as Code en Terraform et des microservices sur Kubernetes dont je n'assurais pas l'administration. L'environnement comprenait aussi Prometheus/Grafana pour le monitoring des clusters et BigQuery/Looker pour l'analytics.
 
 ### Darewise Entertainment, Paris (75019) — Senior Software Engineer, Tools & Tech
@@ -139,7 +142,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Mentorat de programmeurs juniors, assistance aux tech designers, artists et animateurs.
 * Dev (avec stagiaires) du système de build : pipelines Jenkins, scripts Python, Commandlets.
 * Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (GitHub).
-* Dev C++ de la couche technique du jeu : game instance, managers, configuration ; intégration du Backend as a Service PlayFab et d'un service de paiement.
+* Dev C++ de la couche technique du jeu : game instance, managers, configuration ; intégration du Backend as a Service PlayFab et du service de paiement Xsolla.
 * Analyse de crash, profiling & optimisations, problématiques réseau / réplication.
 * Développement de barres d'outils & extensions de menus dans l'éditeur Unreal.
 * Développement d'APIs Blueprint & Python pour les tech designers & tech artists.

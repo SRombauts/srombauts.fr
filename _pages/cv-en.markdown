@@ -22,6 +22,7 @@ Admitted to **La Capsule's Cloud & DevOps Engineer programme** to build on my pr
 
 * **Operating systems**: Linux, macOS, Windows; experience with embedded systems and hardware/software interactions.
 * **Automation, build and CI/CD**: Jenkins, GitLab CI, CMake, Python and shell scripts; Yamato CI, PackageWorks and HAL at Unity; deployments by environment, branch and region.
+* **Infrastructure as Code (IaC)**: secondary contributions and PR reviews on Terraform infrastructure configurations at Unity.
 * **Cloud and operations (LiveOps)**: SpatialOS, Google Cloud Platform (GCP), Multiplay, bare metal and cloud servers; Plastic SCM web backend deployments in Europe, the United States and Asia.
 * **Data and services**: SQL access and occasional PostgreSQL deployment, administration and monitoring; Python and BigQuery analytics pipeline; backend and payment service integration.
 * **Observability and diagnostics**: log and performance monitoring with Datadog, crash reporting, profiling and investigation of networking and replication issues.
@@ -98,6 +99,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 * Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
 * Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
+* Added tracking events for the Unreal Engine 5 plugin and created charts with Prometheus/Grafana.
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
@@ -106,6 +108,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Made targeted changes to the plasticscm.com C# backend and ASP.NET frontend. The backend handled account creation, SSO authentication for Plastic SCM clients (desktop application, CLI, Unity package and servers), billing, Stripe payments and some APIs.
 * Changes included database schema version updates; investigated performance issues with Datadog, using instrumentation set up by a squad colleague.
 * Contributed to multi-region deployments of the web backend and frontend in Europe, the United States and Asia, before plasticscm.com was partly integrated into unity.com.
+* Contributed to infrastructure changes in a supporting role: reviewing and approving Terraform PRs, with occasional changes to Infrastructure as Code configurations.
 * Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included Prometheus/Grafana for cluster monitoring and BigQuery/Looker for analytics.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
@@ -139,7 +142,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Mentoring of junior programmers, support to tech designers, artists and animators.
 * Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
 * Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
-* C++ development of the game's technical layer: game instance, managers and configuration; integration of PlayFab Backend as a Service and a payment service.
+* C++ development of the game's technical layer: game instance, managers and configuration; integration of PlayFab Backend as a Service and the Xsolla payment service.
 * Crash analysis, profiling & optimization, networking / replication issues.
 * Development of toolbars & menu extensions in the Unreal editor.
 * Development of Blueprint & Python APIs for tech designers & tech artists.
