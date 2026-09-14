@@ -63,7 +63,7 @@ See the [additional skills](#additional-skills) at the end of the page.
 
 **Product analytics**
 
-* Added Amplitude events to the Unity package and shared client code, and created a few tracking charts.
+* Added Amplitude events to the Unity package and shared client code, and created dashboards and tracking charts in Amplitude.
 
 **Unity Editor (C#)**
 
@@ -99,7 +99,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 * Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
 * Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
-* Added tracking events for the Unreal Engine 5 plugin and created charts with Prometheus/Grafana.
+* Added tracking events for the Unreal Engine 5 plugin in the Prometheus/Grafana environment, and created dashboards and charts in Grafana.
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
@@ -108,7 +108,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Made targeted changes to the plasticscm.com C# backend and ASP.NET frontend. The backend handled account creation, SSO authentication for Plastic SCM clients (desktop application, CLI, Unity package and servers), billing, Stripe payments and some APIs.
 * Changes included database schema version updates; investigated performance issues with Datadog, using instrumentation set up by a squad colleague.
 * Contributed to multi-region deployments of the web backend and frontend in Europe, the United States and Asia, before plasticscm.com was partly integrated into unity.com.
-* Contributed to infrastructure changes in a supporting role: reviewing and approving Terraform PRs, with occasional changes to Infrastructure as Code configurations.
+* Contributed to infrastructure changes in a supporting role: editing and reviewing Terraform configuration files in a Git repository, with automated deployments after PR merges.
 * Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included Prometheus/Grafana for cluster monitoring and BigQuery/Looker for analytics.
 
 ### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech

@@ -63,7 +63,7 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 
 **Analytics produit**
 
-* Ajout d'événements Amplitude dans le package Unity et le code client partagé, et création de quelques graphiques de suivi.
+* Ajout d'événements Amplitude dans le package Unity et le code client partagé, et création de tableaux de bord et de graphiques de suivi dans Amplitude.
 
 **Éditeur Unity (C#)**
 
@@ -99,7 +99,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 * Recruté comme développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
 * Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
-* Ajout d'événements de suivi pour le plugin Unreal Engine 5 et création de graphiques avec Prometheus/Grafana.
+* Ajout d'événements de suivi pour le plugin Unreal Engine 5 dans l'environnement Prometheus/Grafana, et création de tableaux de bord et de graphiques dans Grafana.
 
 Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
 
@@ -108,7 +108,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Évolutions ciblées du backend C# et du frontend ASP.NET de plasticscm.com. Le backend gérait la création de comptes, l'authentification SSO des clients Plastic SCM (application de bureau, CLI, package Unity et serveurs), la facturation, les paiements Stripe et certaines API.
 * Modifications incluant des mises à jour de version du schéma de la base de données ; suivi des problèmes de performance avec Datadog, sur une instrumentation mise en place par un collègue de la squad.
 * Participation aux déploiements multi-région du backend web et du frontend en Europe, aux États-Unis et en Asie, avant l'intégration partielle de plasticscm.com à unity.com.
-* Contribution secondaire aux évolutions de l'infrastructure : revue et approbation de PR Terraform, ainsi que modifications ponctuelles des configurations d'Infrastructure as Code.
+* Contribution secondaire aux évolutions de l'infrastructure : modification et revue des fichiers de configuration Terraform dans un dépôt Git, avec déploiements automatisés après fusion des PR.
 * Environnement cloud principalement sur GCP, avec un historique AWS, des configurations d'Infrastructure as Code en Terraform et des microservices sur Kubernetes dont je n'assurais pas l'administration. L'environnement comprenait aussi Prometheus/Grafana pour le monitoring des clusters et BigQuery/Looker pour l'analytics.
 
 ### Darewise Entertainment, Paris (75019) — Senior Software Engineer, Tools & Tech
