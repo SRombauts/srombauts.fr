@@ -20,12 +20,12 @@ Admitted to **La Capsule's Cloud & DevOps Engineer programme** to build on my pr
 
 ## Skills
 
-* **Operating systems**: Linux, macOS, Windows; experience with embedded systems and hardware/software interactions.
 * **Automation, build and CI/CD**: Jenkins, GitLab CI, CMake, Python and shell scripts; Yamato CI, PackageWorks and HAL at Unity; deployments by environment, branch and region.
-* **Infrastructure as Code (IaC)**: secondary contributions and PR reviews on Terraform infrastructure configurations at Unity.
+* **Operating systems**: Linux, macOS, Windows; experience with embedded systems and hardware/software interactions.
 * **Cloud and operations (LiveOps)**: SpatialOS, Google Cloud Platform (GCP), Multiplay, bare metal and cloud servers; Plastic SCM web backend deployments in Europe, the United States and Asia.
+* **Infrastructure as Code (IaC)**: secondary contributions and PR reviews on Terraform infrastructure configurations at Unity.
+* **Observability and diagnostics**: log and performance monitoring with Datadog, dashboards and charts created in Grafana, crash reporting, profiling and investigation of networking and replication issues.
 * **Data and services**: SQL access and occasional PostgreSQL deployment, administration and monitoring; Python and BigQuery analytics pipeline; backend and payment service integration.
-* **Observability and diagnostics**: log and performance monitoring with Datadog, crash reporting, profiling and investigation of networking and replication issues.
 * **Languages**: C++, Python, C#, SQL, Bash/Batch/PowerShell.
 * **Knowledge sharing**: procedure documentation, mentoring, training and technical support for teams.
 * **Currently learning**: Kubernetes through practical self-study at home.
@@ -42,17 +42,9 @@ See the [additional skills](#additional-skills) at the end of the page.
 
 ### Unity, Paris, France — Senior Software Engineer, Unity Editor package (VCS Tech team)
 
-*June 2023 to present*
+*June 2024 to present*
 
-*Working environment at Unity: MacBook running macOS, with development and validation on macOS, Linux and Windows.*
-
-* My first contribution shipped in release 2.0.5 (June 2023). As the team broadened to also own the Unity Editor package and the desktop applications, the Unity Version Control package for the Unity Editor (C#) became my main focus, the Unreal plugin moved into maintenance, and I contributed to the desktop and Gluon applications only occasionally.
-
-**Unity Version Control package (Unity Editor, C#)**
-
-* Owned release planning and execution across many versions (from 2.5.0 to 2.12.x), coordinating team validation and aligning releases with Unity Editor milestones, including shipping in time for Unity 6.1 at GDC 2025 and Unity 6.3 at Unite 2025.
-* Designed and built a "create a code review from the plugin" feature to make branch-based workflows easier to adopt, including a reusable confirmation dialog and the related cross-platform (macOS) UI work.
-* Validated the branch-merge, shelve-and-switch and shelve-view workflows, and investigated hard-to-reproduce performance and crash reports raised through customer support.
+*Working environment at Unity: MacBook for development on Windows, macOS and Linux.*
 
 **Build, CI/CD and releases**
 
@@ -60,6 +52,13 @@ See the [additional skills](#additional-skills) at the end of the page.
 * Integrated code coverage tools, documented the workflow and fixed tests and warnings to meet release checks.
 * Made a targeted extension to HAL, Plastic SCM's historical C# CI/CD tool integrated with Jira and Slack, to test the Unity package on Bokken images used by Unity's multiplatform build virtual machines.
 * Participated in the weekly release cycle: selecting a stable release, sharing manual validation across the team, then automatically publishing installers and release notes after collective approval.
+
+**Unity Version Control package (Unity Editor, C#)**
+
+* My first contribution shipped in release 2.0.5 (June 2023). As the team broadened to also own the Unity Editor package and the desktop applications, the Unity Version Control package for the Unity Editor (C#) became my main focus, the Unreal plugin moved into maintenance, and I contributed to the desktop and Gluon applications only occasionally.
+* Owned release planning and execution across many versions (from 2.5.0 to 2.12.x), coordinating team validation and aligning releases with Unity Editor milestones, including shipping in time for Unity 6.1 at GDC 2025 and Unity 6.3 at Unite 2025.
+* Designed and built a "create a code review from the plugin" feature to make branch-based workflows easier to adopt, including a reusable confirmation dialog and the related cross-platform (macOS) UI work.
+* Validated the branch-merge, shelve-and-switch and shelve-view workflows, and investigated hard-to-reproduce performance and crash reports raised through customer support.
 
 **Product analytics**
 
@@ -95,14 +94,6 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 *February 2022 to December 2024*
 
-**Unity Version Control plugin (Unreal Engine, C++)**
-
-* Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
-* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
-* Added tracking events for the Unreal Engine 5 plugin in the Prometheus/Grafana environment, and created dashboards and charts in Grafana.
-
-The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
-
 **Cloud backend, multi-region deployments and DevOps (C#, SQL)**
 
 * Made targeted changes to the plasticscm.com C# backend and ASP.NET frontend. The backend handled account creation, SSO authentication for Plastic SCM clients (desktop application, CLI, Unity package and servers), billing, Stripe payments and some APIs.
@@ -111,53 +102,78 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Contributed to infrastructure changes in a supporting role: editing and reviewing Terraform configuration files in a Git repository, with automated deployments after PR merges.
 * Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included Prometheus/Grafana for cluster monitoring and BigQuery/Looker for analytics.
 
-### Darewise Entertainment, Paris (75019), France — Senior Software Engineer, Tools & Tech
+**Unity Version Control plugin (Unreal Engine, C++)**
 
-*April 2018 to February 2022*
+* Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
+* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
+* Added tracking events for the Unreal Engine 5 plugin in the Prometheus/Grafana environment, and created dashboards and charts in Grafana.
 
-* MMO "Project-C" in closed pre-alpha, within a team of 6 programmers.
+The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
-**Initial SpatialOS phase**
+### Darewise Entertainment, Paris, France · Lead Tech and Tools Programmer
 
-* Initially ran our Unreal Engine dedicated game servers on the SpatialOS cloud platform.
-* Integrated and maintained the SpatialOS GDK for Unreal, contributing improvements in collaboration with Improbable's technical teams.
+*February 2020 to February 2022*
+
+*MMO "Life Beyond", initially "Project-C"; Tech, Tools and Backend team.*
+
+**Build, deployments and backend**
+
+* Managed the tools programmer, build engineer and backend team; designed improvements to the Jenkins/Perforce pipeline and migrated scripts to Python using our internal library.
+* Managed branch-based deployments across development and QA environments from the main branch, then staging and live environments from the release branch.
+* Contributed fixes and improvements to the C# matchmaking backend on GCP, with PlayFab.
 
 **Migration to GCP and Multiplay**
 
 * Contributed to the migration from SpatialOS to Unreal Engine's native networking and cloud infrastructure on Google Cloud Platform (GCP).
 * Contributed to Unreal server deployment with Multiplay: orchestration on bare metal servers, supplemented by cloud resources to handle increased demand.
 
-**DevOps and LiveOps phase**
+**Engineering and knowledge sharing**
 
-* Built and maintained a Jenkins pipeline integrated with Perforce that automatically compiled and uploaded the Linux game server and its debug symbols to the cloud on a regular schedule.
-* Managed branch-based deployments across development and QA environments from the main branch, then staging and live environments from the release branch.
-* Monitored the SpatialOS platform, cloud deployments, and game servers as part of LiveOps.
+* Maintained our Unreal Engine 4.26 fork, backported fixes, improved the Perforce plugin and contributed upstream with Epic Games (GitHub). Coordinated with UDN.
+* Mentored programmers, tech artists and tech designers; developed Blueprint and Python APIs for their tools.
+* Investigated crashes, profiled and optimized code, and diagnosed networking and replication issues.
+
+### Darewise Entertainment, Paris, France · Senior Software Engineer, Tools & Tech
+
+*April 2018 to February 2020*
+
+*Initial phase of "Life Beyond" ("Project-C") on SpatialOS, within a team of 6 programmers.*
+
+**Linux servers, build and operations**
+
+* Initially ran our Unreal Engine dedicated game servers on the SpatialOS cloud platform.
+* Integrated and maintained the SpatialOS GDK for Unreal, contributing improvements in collaboration with Improbable's technical teams.
+* Developed the build system with an intern: Jenkins pipelines integrated with Perforce and Python scripts, automatically compiling and uploading the Linux game server and its debug symbols to the cloud.
+* Monitored game servers and deployments on SpatialOS as part of LiveOps.
+
+**Engineering and tools**
+
+* Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
+* Mentoring of junior programmers, support to tech designers, artists and animators.
+* Development of toolbars & menu extensions in the Unreal editor.
+* Development of Blueprint & Python APIs for tech designers & tech artists.
+* Development of a web server embedded in the game client to provide tooling (UI & REST API).
+* Developed the game's C++ technical layer: network infrastructure, managers and configuration; integrated PlayFab for authentication and server discovery.
+
+**Contributions across the Darewise period (2018 to 2022)**
+
 * Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
 * Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
 * Occasional work on PostgreSQL, the game server database: SQL access in the game's technical layer, deployment, administration, monitoring and configuration adjustments when investigating availability or performance issues.
 * Services used in the project environment: GCP Compute, S3, PostgreSQL and BigQuery.
-
-**Engineering and tools throughout the project**
-
-* Mentoring of junior programmers, support to tech designers, artists and animators.
-* Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
-* Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
-* C++ development of the game's technical layer: game instance, managers and configuration; integration of PlayFab Backend as a Service and the Xsolla payment service.
-* Crash analysis, profiling & optimization, networking / replication issues.
-* Development of toolbars & menu extensions in the Unreal editor.
-* Development of Blueprint & Python APIs for tech designers & tech artists.
-* Development of a web server embedded in the game client to provide tooling (UI & REST API).
+* Integrated the Xsolla payment service.
 
 ### Open Source projects, GitHub — Library and software development
 
-*2009 to March 2018*
+*May 2009 to present*
 
 * Git plugin for Unreal Engine 4.1, integrated officially since UE4.7; Epic Games invited me to join the Unreal Engine team at GDC 2016 in San Francisco.
-* Plastic SCM plugin since Unreal Engine 4.11, being integrated for UE4.24.
+* Plastic SCM plugin since Unreal Engine 4.11, integrated for UE4.24.
 * Tutorials and prototypes with Unreal Engine (ArchViz, games, multiplayer, C++ and Blueprints).
 * Pac Man C++ / SDL, CodinGame multiplayer challenge "The Great Escape".
-* [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017): a TensorFlow experiment with a character-level LSTM language model in Python. I had discovered [char-rnn](https://github.com/karpathy/char-rnn) and Andrej Karpathy's article ["The Unreasonable Effectiveness of Recurrent Neural Networks"](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) through OpenAI's April 6, 2017 publication ["Unsupervised sentiment neuron"](https://openai.com/index/unsupervised-sentiment-neuron/). It showed that an LSTM trained to predict the next character in 82 million Amazon reviews had learned a representation of sentiment without labels, an approach OpenAI later extended with its [first GPT](https://openai.com/index/language-unsupervised/) in 2018. Two weeks later, I added seven commits to a [fork of Sherjil Ozair's project](https://github.com/sherjilozair/char-rnn-tensorflow), covering training metrics, documentation and the English corpus of Tolstoy's *War and Peace*.
-* C++ wrapper library for SQLite3, C++ Logger, C++98-compatible shared_ptr, C++ embedded web server with Boost Asio, OpenGL then Vulkan tutorials.
+* [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017): a TensorFlow experiment with a character-level LSTM language model in Python. I had discovered [char-rnn](https://github.com/karpathy/char-rnn) and Andrej Karpathy's article ["The Unreasonable Effectiveness of Recurrent Neural Networks"](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) through OpenAI's publication ["Unsupervised sentiment neuron"](https://openai.com/index/unsupervised-sentiment-neuron/).
+* [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), a C++ wrapper library for SQLite3.
+* C++ Logger, C++98-compatible shared_ptr, C++ embedded web server with Boost Asio, OpenGL then Vulkan tutorials.
 
 ### ENGIE INEO Systrans, Achères (78), France — Embedded application software development
 
