@@ -284,7 +284,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 ### La Capsule · Cloud & DevOps Engineer {#cloud-devops-training}
 
-*Admission confirmed on September 14, 2026. Planned session: October 12 to December 18, 2026, 400 hours over 10 weeks, full time.*
+*Admission confirmed, session from October 12 to December 18, 2026, 400 hours over 10 weeks, full time.*
 
 [Official Cloud & DevOps Engineer programme, La Capsule](https://www.lacapsule.academy/program/devops-full-time). Preparation for the French professional qualification "Administrateur système DevOps" (level 6).
 
@@ -298,9 +298,10 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * **Cloud and data**: deployment on AWS and Linode, Python programming, PostgreSQL installation and administration.
 * **Practical project**: deploying an infrastructure with multiple services, security, data storage and monitoring.
 
-### Docker and Kubernetes self-study (2026)
+### Self-study
 
-Practical work at home, started in recent weeks in preparation for DevOps/SRE responsibilities.
+- Docker and Kubernetes practice over the past few days in preparation for DevOps/SRE responsibilities.
+- Started learning Rust last year; planning to resume in the coming weeks.
 
 ### ISEP, Paris — Engineering degree (Real-Time Systems Architecture)
 
