@@ -422,7 +422,7 @@ skill's own `description` remains the authoritative trigger.
 - **`agent-response-style` (baseline for all interaction).** Professional, factual,
   neutral tone with calibrated, peer-review-style challenge: compare alternatives, surface
   trade-offs and failure modes, do not merely validate. Applies to every task.
-- **`humanizer` (mandatory only for human-facing project prose).** Run it when creating or
+- **`humanizer` (mandatory only for human-facing English project prose).** Run it when creating or
   modifying prose intended for human readers, such as a blog post, site page, public README or
   Git commit message. Do not run it for question answering, code or prose reviews, internal
   instructions, skill files or code comments. It is a vendored third-party skill: **never edit
@@ -433,9 +433,13 @@ skill's own `description` remains the authoritative trigger.
   commit message. Do not run it merely because the conversation is in French, or when answering
   questions, reviewing modifications, or editing internal instructions or skill files. Preserve
   the language used by the surrounding document. Do not replace French with English or remove
-  accents to satisfy an ASCII preference. For French wording and typography, `boileau` takes
-  precedence over English-specific guidance in `humanizer`. It is vendored: **never edit it**
-  locally.
+  accents to satisfy an ASCII preference. It is vendored: **never edit it** locally.
+- **Choose the writing skill by the deliverable's language, not the conversation's language.**
+  Use `boileau` alone for French and `humanizer` alone for English; do not run both on the same
+  passage. For bilingual prose, apply each skill to its corresponding passages. These rules also cover
+  drafted messages intended to be sent to another person, even when delivered only in chat.
+  When reporting skill usage, distinguish consulting a skill from applying its procedure.
+  Do not claim full application after a truncated read; retrieve the missing instructions first.
 - **`skill-maintenance` (when editing skills).** Conventions for files under
   `.claude/skills/**`. Read it before creating or changing any skill.
 
