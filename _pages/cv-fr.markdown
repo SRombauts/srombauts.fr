@@ -9,15 +9,25 @@ toc_sticky: true
 
 *Ceci n'est pas un CV résumé, mais une version plus exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne.*
 
-**Sébastien Rombauts** — Ingénieur logiciel expérimenté
+**Sébastien Rombauts** · Ingénieur logiciel senior, systèmes et automatisation
 
-[sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [github.com/SRombauts](https://github.com/SRombauts)
+[sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog et portfolio](https://srombauts.eu/)
+
+Ingénieur logiciel, diplômé de l'ISEP en 2003, j'ai travaillé sur les systèmes embarqués, les outils de développement et l'exploitation de serveurs de jeu Linux dans le Cloud. Mon expérience comprend l'automatisation des builds et des déploiements (CI/CD), le diagnostic de crashs et de performances serveurs, ainsi que la documentation et la transmission aux équipes.
+
+Je développe aujourd'hui ma pratique de l'infrastructure cloud et de Kubernetes pour évoluer vers des responsabilités DevOps/SRE.
+Admis au programme **Cloud & DevOps Engineer de La Capsule**, en complément de mon expérience professionnelle ; [programme et apprentissage en cours](#formation-cloud-devops).
 
 ## Compétences
 
+* **Systèmes** : Linux, macOS, Windows ; expérience des systèmes embarqués et des interactions matériel/logiciel.
+* **Automatisation, build et CI/CD** : Jenkins, GitLab CI, CMake, scripts Python et shell, déploiements de serveurs Linux par environnement et par branche.
+* **Cloud et exploitation (LiveOps)** : SpatialOS, Google Cloud Platform (GCP), Multiplay, serveurs physiques (bare metal) et cloud ; backend sur Azure ; pipeline analytique Python et BigQuery.
+* **Observabilité et diagnostic** : suivi des logs et des performances avec Datadog, rapports de plantage, profilage et analyse de problèmes réseau et de réplication.
 * **Langages** : C++, Python, C#, SQL, Bash/Batch/PowerShell.
+* **Transmission** : documentation des procédures, mentorat, formation et support technique aux équipes.
+* **En cours d'acquisition** : Kubernetes, en autoformation pratique à domicile.
 * **Moteurs** : Unity, Unreal Engine.
-* **Systèmes** : Linux.
 * **Bibliothèques & API** : SQLite3, jsoncpp, TinyXml, SDL3, googletest, doctest, OpenGL.
 * **Outils** : Unreal Profiler, Unity Version Control (UVCS, anciennement Plastic SCM), Perforce, Jenkins/GitLab CI, CMake, Git, Valgrind.
 * **Méthodes** : Agile/SCRUM, TDD, DevOps, CI/CD, Design Patterns, UML.
@@ -31,6 +41,8 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 ### Unity, Paris, France — Senior Software Engineer, package éditeur Unity (équipe VCS Tech)
 
 *Juin 2023 à aujourd'hui*
+
+*Environnement de travail chez Unity : MacBook sous macOS, avec développement et validation sur macOS, Linux et Windows.*
 
 * Ma première contribution a été livrée dans la version 2.0.5 (juin 2023). À mesure que l'équipe s'est élargie pour prendre aussi en charge le package de l'éditeur Unity et les applications de bureau, le package Unity Version Control pour l'éditeur Unity (C#) est devenu ma priorité, le plugin Unreal est passé en maintenance, et je n'ai contribué que ponctuellement aux applications de bureau et à Gluon.
 
@@ -92,6 +104,12 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 **Phase initiale sur SpatialOS**
 
 * Exploitation initiale de nos serveurs de jeu dédiés Unreal Engine sur la plateforme cloud SpatialOS.
+* Intégration et maintenance du SpatialOS GDK pour Unreal, avec des contributions d'améliorations en collaboration avec les équipes techniques d'Improbable.
+
+**Migration vers GCP et Multiplay**
+
+* Participation à la migration de SpatialOS vers le réseau natif d'Unreal Engine et une infrastructure cloud sur Google Cloud Platform (GCP).
+* Participation au déploiement des serveurs Unreal avec Multiplay : orchestration sur serveurs physiques (bare metal), complétée par des ressources cloud pour absorber la montée en charge.
 
 **Phase DevOps et LiveOps**
 
@@ -99,14 +117,13 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Gestion des déploiements par branches : environnements de développement et de QA depuis la branche principale, puis environnements de staging et live depuis la branche de release.
 * Surveillance de la plateforme SpatialOS, des déploiements cloud et des serveurs de jeu dans le cadre du LiveOps.
 * Intégration et exploitation d'une chaîne de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
-* Construction d'un pipeline de traitement des données analytiques par lots, exécuté toutes les six heures par un script Python dans Google Cloud.
+* Formation à l'analytics sur GCP et BigQuery, puis participation à la mise en place du pipeline analytique : traitement par lots toutes les six heures par un script Python dans Google Cloud.
 
 **Ingénierie et outils pendant tout le projet**
 
 * Mentorat de programmeurs juniors, assistance aux tech designers, artists et animateurs.
 * Dev (avec stagiaires) du système de build : pipelines Jenkins, scripts Python, Commandlets.
 * Maintenance de notre fork d'Unreal Engine 4.22, backport de correctifs, intégration de plugins. Coordination avec UDN. Contributions amont avec Epic Games (GitHub).
-* Intégration et maintenance du plugin SpatialOS GDK pour Unreal, contributions d'améliorations en collaboration avec les équipes techniques d'Improbable.
 * Dev C++ du jeu (tech) : game instance, managers, config, PlayFab online services.
 * Analyse de crash, profiling & optimisations, problématiques réseau / réplication.
 * Développement de barres d'outils & extensions de menus dans l'éditeur Unreal.
@@ -246,6 +263,26 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
   * Rédaction de la documentation associée.
 
 ## Formation
+
+### La Capsule · Cloud & DevOps Engineer {#formation-cloud-devops}
+
+*Admission confirmée en septembre 2026, attestation reçue. Formation à venir, 400 heures sur 10 semaines à temps plein.*
+
+[Programme officiel Cloud & DevOps Engineer, La Capsule](https://www.lacapsule.academy/program/devops-full-time). Préparation au titre professionnel « Administrateur système DevOps » (niveau 6).
+
+**Programme prévu :**
+
+* **Linux, systèmes et réseaux** : administration, SSH, scripts shell et sécurité des infrastructures.
+* **Docker et Kubernetes (K8s)** : conteneurisation, administration de clusters, orchestration de services sur plusieurs serveurs, haute disponibilité et scalabilité.
+* **Infrastructure as Code (IaC)** : Terraform et Ansible, création et configuration automatisées des serveurs.
+* **Observabilité et monitoring** : Prometheus, Grafana, tableaux de bord et alertes pour surveiller les services en production.
+* **CI/CD et fiabilité** : automatisation des mises en production, environnements de déploiement, tests de montée en charge ; Git, GitLab et SonarQube.
+* **Cloud et données** : déploiement sur AWS et Linode, programmation Python, installation et administration de PostgreSQL.
+* **Projet pratique** : déploiement d'une infrastructure de plusieurs services, sécurisation, stockage de données et supervision.
+
+### Autoformation Docker et Kubernetes (2026)
+
+Pratique à domicile commencée ces dernières semaines, en préparation de responsabilités DevOps/SRE.
 
 ### ISEP, Paris — Ingénieur (Architecture des Systèmes Temps Réels)
 

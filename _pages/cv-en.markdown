@@ -9,15 +9,25 @@ toc_sticky: true
 
 *This is not a concise CV but a more exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version.*
 
-**Sébastien Rombauts** — Senior Software Engineer
+**Sébastien Rombauts** · Senior Software Engineer, systems and automation
 
-[sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [github.com/SRombauts](https://github.com/SRombauts)
+[sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog and portfolio](https://srombauts.eu/)
+
+A software engineer with an engineering degree from ISEP (2003), I have worked on embedded systems, developer tools and the operation of Linux game servers in the cloud. My experience includes build and deployment automation (CI/CD), crash investigation and server performance analysis, as well as documentation and knowledge sharing with teams.
+
+I am developing my cloud infrastructure and Kubernetes practice to move into DevOps/SRE responsibilities.
+Admitted to **La Capsule's Cloud & DevOps Engineer programme** to build on my professional experience; see [the programme and current learning](#cloud-devops-training).
 
 ## Skills
 
+* **Operating systems**: Linux, macOS, Windows; experience with embedded systems and hardware/software interactions.
+* **Automation, build and CI/CD**: Jenkins, GitLab CI, CMake, Python and shell scripts, Linux server deployments by environment and branch.
+* **Cloud and operations (LiveOps)**: SpatialOS, Google Cloud Platform (GCP), Multiplay, bare metal and cloud servers; backend on Azure; Python and BigQuery analytics pipeline.
+* **Observability and diagnostics**: log and performance monitoring with Datadog, crash reporting, profiling and investigation of networking and replication issues.
 * **Languages**: C++, Python, C#, SQL, Bash/Batch/PowerShell.
+* **Knowledge sharing**: procedure documentation, mentoring, training and technical support for teams.
+* **Currently learning**: Kubernetes through practical self-study at home.
 * **Engines**: Unity, Unreal Engine.
-* **Operating systems**: Linux.
 * **Libraries & APIs**: SQLite3, jsoncpp, TinyXml, SDL3, googletest, doctest, OpenGL.
 * **Tools**: Unreal Profiler, Unity Version Control (UVCS, formerly Plastic SCM), Perforce, Jenkins/GitLab CI, CMake, Git, Valgrind.
 * **Methods**: Agile/SCRUM, TDD, DevOps, CI/CD, Design Patterns, UML.
@@ -31,6 +41,8 @@ See the [additional skills](#additional-skills) at the end of the page.
 ### Unity, Paris, France — Senior Software Engineer, Unity Editor package (VCS Tech team)
 
 *June 2023 to present*
+
+*Working environment at Unity: MacBook running macOS, with development and validation on macOS, Linux and Windows.*
 
 * My first contribution shipped in release 2.0.5 (June 2023). As the team broadened to also own the Unity Editor package and the desktop applications, the Unity Version Control package for the Unity Editor (C#) became my main focus, the Unreal plugin moved into maintenance, and I contributed to the desktop and Gluon applications only occasionally.
 
@@ -92,6 +104,12 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 **Initial SpatialOS phase**
 
 * Initially ran our Unreal Engine dedicated game servers on the SpatialOS cloud platform.
+* Integrated and maintained the SpatialOS GDK for Unreal, contributing improvements in collaboration with Improbable's technical teams.
+
+**Migration to GCP and Multiplay**
+
+* Contributed to the migration from SpatialOS to Unreal Engine's native networking and cloud infrastructure on Google Cloud Platform (GCP).
+* Contributed to Unreal server deployment with Multiplay: orchestration on bare metal servers, supplemented by cloud resources to handle increased demand.
 
 **DevOps and LiveOps phase**
 
@@ -99,14 +117,13 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Managed branch-based deployments across development and QA environments from the main branch, then staging and live environments from the release branch.
 * Monitored the SpatialOS platform, cloud deployments, and game servers as part of LiveOps.
 * Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
-* Built a batch analytics pipeline that ran every six hours as a Python job in Google Cloud.
+* Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
 
 **Engineering and tools throughout the project**
 
 * Mentoring of junior programmers, support to tech designers, artists and animators.
 * Build system development (with interns): Jenkins pipelines, Python scripts, Commandlets.
 * Maintenance of our Unreal Engine 4.22 fork, backporting fixes, integrating plugins. Coordination with UDN. Upstream contributions with Epic Games (GitHub).
-* Integration and maintenance of the SpatialOS GDK plugin for Unreal, contributing improvements in collaboration with Improbable's technical teams.
 * C++ game (tech) development: game instance, managers, config, PlayFab online services.
 * Crash analysis, profiling & optimization, networking / replication issues.
 * Development of toolbars & menu extensions in the Unreal editor.
@@ -246,6 +263,26 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
   * Writing of the associated documentation.
 
 ## Education
+
+### La Capsule · Cloud & DevOps Engineer {#cloud-devops-training}
+
+*Admission confirmed in September 2026, admission certificate received. Upcoming training: 400 hours over 10 weeks, full time.*
+
+[Official Cloud & DevOps Engineer programme, La Capsule](https://www.lacapsule.academy/program/devops-full-time). Preparation for the French professional qualification "Administrateur système DevOps" (level 6).
+
+**Planned curriculum:**
+
+* **Linux, systems and networking**: administration, SSH, shell scripting and infrastructure security.
+* **Docker and Kubernetes (K8s)**: containerization, cluster administration, service orchestration across multiple servers, high availability and scalability.
+* **Infrastructure as Code (IaC)**: Terraform and Ansible, automated server provisioning and configuration.
+* **Observability and monitoring**: Prometheus, Grafana, dashboards and alerts for production services.
+* **CI/CD and reliability**: automated production deployments, deployment environments and load testing; Git, GitLab and SonarQube.
+* **Cloud and data**: deployment on AWS and Linode, Python programming, PostgreSQL installation and administration.
+* **Practical project**: deploying an infrastructure with multiple services, security, data storage and monitoring.
+
+### Docker and Kubernetes self-study (2026)
+
+Practical work at home, started in recent weeks in preparation for DevOps/SRE responsibilities.
 
 ### ISEP, Paris — Engineering degree (Real-Time Systems Architecture)
 
