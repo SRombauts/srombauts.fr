@@ -9,7 +9,7 @@ toc_sticky: true
 
 *Ceci n'est pas un CV résumé, mais une version plus exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne.*
 
-**Sébastien Rombauts** · Ingénieur logiciel senior, systèmes, outils et automatisation
+**Sébastien Rombauts** · Ingénieur logiciel senior, systèmes, outils et DevOps
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog et portfolio](https://srombauts.eu/)
 

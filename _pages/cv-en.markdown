@@ -9,7 +9,7 @@ toc_sticky: true
 
 *This is not a concise CV but a more exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version.*
 
-**Sébastien Rombauts** · Senior Software Engineer, systems, tools and automation
+**Sébastien Rombauts** · Senior Software Engineer, systems, tools and DevOps
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog and portfolio](https://srombauts.eu/)
 
