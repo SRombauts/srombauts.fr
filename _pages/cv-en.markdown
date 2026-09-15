@@ -9,13 +9,13 @@ toc_sticky: true
 
 *This is not a concise CV but a more exhaustive reference version. My personal contact details (postal address and phone number) are intentionally omitted from the online version.*
 
-**Sébastien Rombauts** · Senior Software Engineer, systems and automation
+**Sébastien Rombauts** · Senior Software Engineer, systems, tools and automation
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog and portfolio](https://srombauts.eu/)
 
 A software engineer with an engineering degree from ISEP (2003), I have worked on embedded systems, developer tools and the operation of Linux game servers in the cloud. My experience includes build and deployment automation (CI/CD), crash investigation and server performance analysis, as well as documentation and knowledge sharing with teams.
 
-I am developing my cloud infrastructure and Kubernetes practice to move into DevOps/SRE responsibilities.
+I am developing my cloud infrastructure and Kubernetes practice alongside my experience in systems development, tools and automation.
 Admitted to **La Capsule's Cloud & DevOps Engineer programme** to build on my professional experience; see [the programme and current learning](#cloud-devops-training).
 
 ## Skills
@@ -44,13 +44,11 @@ See the [additional skills](#additional-skills) at the end of the page.
 
 *July 2024 to July 2026*
 
-*Working environment at Unity: MacBook for development on Windows, macOS and Linux.*
-
 **Build, CI/CD and releases**
 
 * Updated Yamato CI configurations and the PackageWorks pipeline for Unity Version Control package releases: adapting to release requirements, checking public API compatibility and automating dependency updates.
 * Integrated code coverage tools, documented the workflow and fixed tests and warnings to meet release checks.
-* Made a targeted extension to HAL, Plastic SCM's historical C# CI/CD tool integrated with Jira and Slack, to test the Unity package on Bokken images used by Unity's multiplatform build virtual machines.
+* Made a targeted extension to HAL, Plastic SCM's historical C# CI/CD tool integrated with Jira and Slack, to test the Unity package on Bokken build virtual machines running Windows, macOS and Linux.
 * Participated in the weekly release cycle: selecting a stable release, sharing manual validation across the team, then automatically publishing installers and release notes after collective approval.
 
 **Unity Version Control package (Unity Editor, C#)**
@@ -107,7 +105,7 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 **Unity Version Control plugin (Unreal Engine, C++)**
 
 * Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
-* Owned the plugin end to end: feature development, customer support, and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs and keeping it current with each engine release through to version 1.12.0 in December 2024.
+* Owned the plugin end to end: feature development, customer support and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs. After joining the VCS Tech team in July 2024, I continued maintaining it in parallel, including the 1.12.x releases published in 2024 and 2025.
 * Added tracking events for the Unreal Engine 5 plugin in the Prometheus/Grafana environment, and created dashboards and charts in Grafana.
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
@@ -126,7 +124,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 **Migration to GCP and Multiplay**
 
-* Contributed to the migration from SpatialOS to Unreal Engine's native networking and cloud infrastructure on Google Cloud Platform (GCP).
+* Led the migration from SpatialOS to Unreal Engine's native networking and cloud infrastructure on Google Cloud Platform (GCP).
 * Contributed to Unreal server deployment with Multiplay: orchestration on bare metal servers, supplemented by cloud resources to handle increased demand.
 
 **Engineering and knowledge sharing**
@@ -157,7 +155,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Development of a web server embedded in the game client to provide tooling (UI & REST API).
 * Developed the game's C++ technical layer: network infrastructure, managers and configuration; integrated PlayFab for authentication and server discovery.
 * Integrated and operated a crash-reporting stack based on Unreal Crash Reporter and an open-source backend.
-* Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: batch processing every six hours with a Python script in Google Cloud.
+* Trained in GCP and BigQuery analytics and contributed to the analytics pipeline: ingestion from S3 object storage and batch processing every six hours with a Python script in Google Cloud.
 * Integrated the Xsolla payment service.
 
 **Contributions across the Darewise period (2018 to 2022)**
@@ -171,7 +169,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 * Pac Man C++ / SDL, CodinGame multiplayer challenge "The Great Escape".
 * [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017): a TensorFlow experiment with a character-level LSTM language model in Python. I had discovered [char-rnn](https://github.com/karpathy/char-rnn) and Andrej Karpathy's article ["The Unreasonable Effectiveness of Recurrent Neural Networks"](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) through OpenAI's publication ["Unsupervised sentiment neuron"](https://openai.com/index/unsupervised-sentiment-neuron/).
-* [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), a C++ wrapper library for SQLite3.
+* Creator of [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), a C++ wrapper library for SQLite3, with about 2,800 GitHub stars in September 2026.
 * C++ Logger, C++98-compatible shared_ptr, C++ embedded web server with Boost Asio, OpenGL then Vulkan tutorials.
 
 ### Freelance · Unreal Engine 4 plugin development (open source)
@@ -205,7 +203,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Lead of low-level development within an R&D team of 4 people, on the project to renew the embedded hardware range:
   * Design and development of the orchestration software for our embedded applications.
   * Writing of the validation plans for the two main computing boards (ARM9 and x86), in coordination with the electronics design office and the embedded architecture department.
-  * Building of Windows CE 5.0 kernels from the BSPs provided by the two manufacturers Cirix and Intel, and integration of additional drivers.
+  * Building Windows CE 5.0 kernels from BSPs supplied by the manufacturers and integrating additional drivers.
   * Development/adaptation of a few missing I/O drivers.
   * Design, development and coordination of the low-level embedded hardware-supervision software, providing maintenance services to the various applications of our products.
 
@@ -323,8 +321,8 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 ### Self-study
 
-- Docker and Kubernetes practice over the past few days in preparation for DevOps/SRE responsibilities.
-- Started learning Rust last year; planning to resume in the coming weeks.
+- Recent Docker and Kubernetes practice at home.
+- Started Rust tutorials in 2025, with a planned return to the subject.
 
 ### ISEP, Paris — Engineering degree (Real-Time Systems Architecture)
 

@@ -9,13 +9,13 @@ toc_sticky: true
 
 *Ceci n'est pas un CV résumé, mais une version plus exhaustive conservée comme référence. Mes coordonnées personnelles (adresse postale et téléphone) sont volontairement omises de la version en ligne.*
 
-**Sébastien Rombauts** · Ingénieur logiciel senior, systèmes et automatisation
+**Sébastien Rombauts** · Ingénieur logiciel senior, systèmes, outils et automatisation
 
 [sebastien.rombauts@gmail.com](mailto:sebastien.rombauts@gmail.com) · [LinkedIn](https://www.linkedin.com/in/srombauts/) · [GitHub](https://github.com/SRombauts) · [Blog et portfolio](https://srombauts.eu/)
 
 Ingénieur logiciel, diplômé de l'ISEP en 2003, j'ai travaillé sur les systèmes embarqués, les outils de développement et l'exploitation de serveurs de jeu Linux dans le Cloud. Mon expérience comprend l'automatisation des builds et des déploiements (CI/CD), le diagnostic de crashs et de performances serveurs, ainsi que la documentation et la transmission aux équipes.
 
-Je développe aujourd'hui ma pratique de l'infrastructure cloud et de Kubernetes pour évoluer vers des responsabilités DevOps/SRE.
+Je développe actuellement ma pratique de l'infrastructure cloud et de Kubernetes, en complément de mon expérience en développement système, outils et automatisation.
 Admis au programme **Cloud & DevOps Engineer de La Capsule**, en complément de mon expérience professionnelle ; [programme et apprentissage en cours](#formation-cloud-devops).
 
 ## Compétences
@@ -44,13 +44,11 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 
 *Juillet 2024 à juillet 2026*
 
-*Environnement de travail chez Unity : MacBook pour dévelopement sous Windows, macOS et Linux.*
-
 **Build, CI/CD et publications**
 
 * Mise à jour des configurations Yamato CI et du pipeline PackageWorks pour les publications du package Unity Version Control : adaptation aux exigences de release, vérification de compatibilité de l'API publique et mises à jour automatisées des dépendances.
 * Intégration d'outils de mesure de couverture de code, documentation du workflow et correction de tests et d'avertissements pour satisfaire les contrôles de publication.
-* Extension ponctuelle de HAL, l'outil CI/CD historique de Plastic SCM en C# intégré à Jira et Slack, pour tester le package Unity sur des images Bokken, utilisées par les machines virtuelles de build multiplateforme de Unity.
+* Extension ponctuelle de HAL, l'outil CI/CD historique de Plastic SCM en C# intégré à Jira et Slack, pour tester le package Unity sur les machines virtuelles Bokken de build Windows, macOS et Linux.
 * Participation au cycle de publication hebdomadaire : sélection d'une release stable, validation manuelle partagée dans l'équipe, puis publication automatisée des installeurs et des notes de version après accord collectif.
 
 **Package Unity Version Control (Unity Editor, C#)**
@@ -73,14 +71,14 @@ Voir les [compétences complémentaires](#competences-complementaires) en fin de
 
 * Maintien du plugin à jour avec le moteur : compatibilité et correctifs pour Unreal Engine 5.5 et 5.6, avec des publications livrées dans la semaine suivant chaque sortie du moteur.
 * Correction de graves problèmes de performance dans le traitement des grandes listes de fichiers.
-* Diagnostic et correction de problèmes subtiles d'authentification multi-comptes (requierant des évolutions de l'outil de CLI).
+* Diagnostic et correction de problèmes subtils d'authentification multi-comptes, requérant des évolutions du client en ligne de commande.
 * Refonte de l'UX de l'assistant de création de workspace (sélection par menu déroulant des organisations et projets unifiés).
 * Migration de la distribution du plugin de l'Unreal Marketplace vers Fab, et livraison de la vue « Changesets ».
 
 **Perforce et travaux transverses**
 
 * Maintenance du plugin Perforce et de l'intégration du contrôle de version dans l'éditeur Unity : mises à jour de la CI et de l'infrastructure, support de Perforce Cloud, support de macOS ARM64 (« Apple Silicon ») et des chemins longs sous Windows.
-* Extension du client en ligne de commande `cm` (support des organisations unifiées, nouvelles options de vérification de connexion) et ajout de son premier smoke test multi-serveurs.
+* Extension du client en ligne de commande `cm` (support des organisations unifiées, nouvelles options de vérification de connexion) et ajout de son premier test de bon fonctionnement multi-serveurs.
 * Étude d'une nouvelle architecture envisagée pour le package Perforce et documentation des compromis.
 * Mentorat et pratiques d'équipe : introduction d'un workflow de couverture de code dans l'équipe, promotion d'une culture QA renforcée en complément des revues de code et des tests unitaires, refonte de la roadmap du package, et dogfooding de Unity Version Control lors du HackWeek 2024.
 
@@ -107,7 +105,7 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 **Plugin Unity Version Control (Unreal Engine, C++)**
 
 * Recruté comme développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
-* Propriétaire du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5 et en le maintenant à jour à chaque sortie du moteur, jusqu'à la version 1.12.0 en décembre 2024.
+* Responsable du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5. Après mon passage dans l'équipe VCS Tech en juillet 2024, j'en ai poursuivi la maintenance en parallèle, notamment pour les versions 1.12.x publiées en 2024 et 2025.
 * Ajout d'événements de suivi pour le plugin Unreal Engine 5 dans l'environnement Prometheus/Grafana, et création de tableaux de bord et de graphiques dans Grafana.
 
 Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
@@ -126,7 +124,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 **Migration vers GCP et Multiplay**
 
-* Participation à la migration de SpatialOS vers le réseau natif d'Unreal Engine et une infrastructure cloud sur Google Cloud Platform (GCP).
+* Prise en charge de la migration de SpatialOS vers le réseau natif d'Unreal Engine et une infrastructure cloud sur Google Cloud Platform (GCP).
 * Participation au déploiement des serveurs Unreal avec Multiplay : orchestration sur serveurs physiques (bare metal), complétée par des ressources cloud pour absorber la montée en charge.
 
 **Ingénierie et transmission**
@@ -156,8 +154,8 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Développement d'APIs Blueprint & Python pour les tech designers & tech artists.
 * Développement d'un serveur web intégré au client du jeu pour l'outiller (UI & API REST).
 * Développement C++ de la couche technique du jeu : infrastructure réseau, managers et configuration ; intégration de PlayFab pour l'authentification et la découverte des serveurs.
-* Intégration et exploitation d'un outil de rapports de plantage fondée sur Unreal Crash Reporter et un backend open source.
-* Formation à l'analytics sur GCP et BigQuery, puis participation à la mise en place du pipeline analytique : traitement par lots toutes les six heures par un script Python dans Google Cloud.
+* Intégration et exploitation d'un outil de rapports de plantage fondé sur Unreal Crash Reporter et un backend open source.
+* Formation à l'analyse de données sur GCP et BigQuery, puis participation au pipeline analytique : ingestion depuis le stockage objet S3 et traitements par lots toutes les six heures au moyen d'un script Python dans Google Cloud.
 * Intégration du service de paiement Xsolla.
 
 **Contributions sur la période Darewise (2018 à 2022)**
@@ -171,7 +169,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 * Pac Man C++ / SDL, challenge multi CodinGame « The Great Escape ».
 * [char-rnn-tensorflow](https://github.com/SRombauts/char-rnn-tensorflow) (2017) : expérimentation de TensorFlow sur un modèle de langage LSTM caractère par caractère en Python. J'avais découvert [char-rnn](https://github.com/karpathy/char-rnn) et l'article d'Andrej Karpathy [« The Unreasonable Effectiveness of Recurrent Neural Networks »](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) par la publication d'OpenAI [« Unsupervised sentiment neuron »](https://openai.com/index/unsupervised-sentiment-neuron/).
-* [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), bibliothèque C++ autour de SQLite3.
+* Créateur de [SQLiteCpp](https://github.com/SRombauts/SQLiteCpp), bibliothèque C++ autour de SQLite3, avec environ 2 800 étoiles sur GitHub en septembre 2026.
 * Logger C++, shared_ptr compatible C++98, serveur web embarqué en C++ avec Boost Asio, tutoriels OpenGL puis Vulkan.
 
 ### Freelance · Développement de plugins Unreal Engine 4 (open source)
@@ -205,7 +203,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Responsable des développements bas niveau au sein d'une équipe R&D de 4 personnes, sur le projet de renouvellement de la gamme de matériel embarqué :
   * Conception et développement du logiciel d'orchestration de nos applications embarquées.
   * Rédaction des plans de validation des deux cartes calculatrices principales (ARM9 et x86), en coordination avec le bureau d'études électroniques et le service d'architecture embarqué.
-  * Réalisation de noyaux Windows CE 5.0 à partir des BSP fournis par les deux constructeurs Cirix et Intel, et intégration de drivers supplémentaires.
+  * Réalisation de noyaux Windows CE 5.0 à partir des BSP fournis par les constructeurs, et intégration de drivers supplémentaires.
   * Développement/adaptation de quelques drivers d'E/S manquants.
   * Conception, développement et coordination du logiciel embarqué bas niveau de supervision du hardware, fournissant des services de maintenance aux différentes applications de nos produits.
 
@@ -323,8 +321,8 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 ### Autoformation
 
-- Docker et Kubernetes ces derniers jours en préparation de responsabilités DevOps/SRE.
-- Apprentissage de Rust commencé l'année dernière, reprise prévue dans les prochaines semaines.
+- Pratique récente de Docker et Kubernetes à domicile.
+- Initiation à Rust par des tutoriels commencés en 2025, avec reprise prévue.
 
 ### ISEP, Paris — Ingénieur (Architecture des Systèmes Temps Réels)
 
