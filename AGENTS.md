@@ -417,11 +417,19 @@ Reusable agent instructions live in `.claude/skills/`, one `SKILL.md` per skill.
 skill-aware tool (e.g. Claude Code) auto-loads each one from its `description`. Tools
 without skill support should treat the baseline skills below as house rules. This list
 names the mandatory skills and the editing rule; it is not a full catalogue, and each
-skill's own `description` remains the authoritative trigger.
+skill's own `description` defines its topic triggers. The baseline loading requirements below
+apply to every discussion, even when local skills are absent from an agent's skill catalogue.
 
 - **`agent-response-style` (baseline for all interaction).** Professional, factual,
   neutral tone with calibrated, peer-review-style challenge: compare alternatives, surface
   trade-offs and failure modes, do not merely validate. Applies to every task.
+- **`career-planning` (baseline for every discussion in this project).** Read
+  [`.claude/skills/career-planning/SKILL.md`](.claude/skills/career-planning/SKILL.md)
+  at the start of every discussion, regardless of topic, including technical work, general
+  questions and messages without an action request. Do not wait for a career-related keyword or
+  explicit skill invocation. If already loaded in the active context, do not reload it.
+  Read only the references relevant to the current request; do not redirect unrelated work
+  into career advice.
 - **`humanizer` (mandatory only for human-facing English project prose).** Run it when creating or
   modifying prose intended for human readers, such as a blog post, site page, public README or
   Git commit message. Do not run it for question answering, code or prose reviews, internal
