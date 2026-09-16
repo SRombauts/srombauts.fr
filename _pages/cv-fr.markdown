@@ -110,6 +110,8 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 
 Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
 
+* Collaboration régulière avec l'équipe IT du bureau de Suresnes jusqu'à sa fermeture ; formation aux procédures d'intervention en cas d'alarme incendie dans la salle des serveurs.
+
 ### Darewise Entertainment, Paris (75019) · Lead Tech and Tools Programmer
 
 *Février 2020 à février 2022*
@@ -162,6 +164,12 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 
 * Interventions ponctuelles sur PostgreSQL, la base du serveur de jeu : accès SQL dans la couche technique du jeu, déploiement, administration, surveillance et ajustements de configuration lors de problèmes de disponibilité ou de performance.
 * Services utilisés dans l'environnement du projet : GCP Compute, S3, PostgreSQL et BigQuery.
+
+**Infrastructure interne et centre de données**
+
+* Sélection, achat et installation d'un commutateur Gigabit Ethernet pour le réseau des locaux.
+* Participation, avec un prestataire spécialisé, à la sélection, à l'achat et à l'installation d'une baie et d'un serveur lame, commandés ensemble. Équipé de plusieurs processeurs, de disques configurés en RAID et d'un hyperviseur, le serveur exécutait des machines virtuelles utilisées principalement pour Perforce, puis pour des outils IT et l'administration des postes Windows.
+* Plusieurs déplacements au centre de données de Nanterre pour intervenir sur cette infrastructure.
 
 ### Projets open source, GitHub · Développement de bibliothèques et logiciels
 

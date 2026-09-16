@@ -110,6 +110,8 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
+* Collaborated regularly with the IT team at Unity's Suresnes office until it closed, and was trained in the response procedures for a fire alarm in the office server room.
+
 ### Darewise Entertainment, Paris, France · Lead Tech and Tools Programmer
 
 *February 2020 to February 2022*
@@ -162,6 +164,12 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 
 * Occasional work on PostgreSQL, the game server database: SQL access in the game's technical layer, deployment, administration, monitoring and configuration adjustments when investigating availability or performance issues.
 * Services used in the project environment: GCP Compute, S3, PostgreSQL and BigQuery.
+
+**Internal infrastructure and data centre work**
+
+* Selected, purchased and installed a Gigabit Ethernet switch for the office network.
+* Worked with a specialist provider to select, purchase and install a rack and blade server that were ordered together. Equipped with multiple CPUs, disks configured as a RAID array and a hypervisor, the server ran virtual machines used mainly for Perforce, then for IT tools and Windows workstation administration.
+* Made several on-site visits to the Nanterre data centre to work on this infrastructure.
 
 ### Open source projects, GitHub · Library and software development
 
