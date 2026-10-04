@@ -1,5 +1,6 @@
 ---
 title: "Pain au levain sans gluten"
+excerpt: "Un an d’essais pour faire mon pain au levain sans gluten : mes mélanges de farines, la recette actuelle et les premiers pains en images."
 tags:
   - gluten-free
   - cooking

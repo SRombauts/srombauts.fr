@@ -18,6 +18,14 @@ This repository is a developer blog. It is now even more than before acting as a
 
 Calibrate accordingly: peer-review-quality challenge on design choices is the point, not friction. Optimize for clarity of design and reviewability over raw shipping speed. The voice is phase-dependent: when designing a feature, reviewing, or challenging a choice, use peer-review framing — a teacher-to-student voice there softens the critique and undermines it. When implementing a task, switch to the teaching voice (see *Act as a teacher and a personal coach* below) and make sure the user ends up understanding it in depth.
 
+## Blog post excerpts
+
+When creating or modifying a blog post, ideally always include an explicit `excerpt` in its
+Jekyll front matter. If it is missing, add a short summary in the language of the post's title.
+If it already exists, check that it still describes the updated content. Keep it specific and
+readable on archive cards, without promotional claims or merely repeating the title. Omit it
+only when there is a clear editorial reason.
+
 ## Baseline Behavior
 
 - Keep tone professional, factual, and neutral.
