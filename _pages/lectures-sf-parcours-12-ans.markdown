@@ -34,6 +34,8 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - [x] **Hunger Games** · Suzanne Collins (3 tomes + préquelle) · Katniss se porte volontaire pour mourir à la place de sa sœur dans l'arène télévisée du Capitole. Violent mais jamais complaisant ; pour un lecteur solide, c'est le bon âge.
 - [x] **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit à seize ans la faction qui correspond à sa personnalité ; Tris est divergente, donc dangereuse, donc traquée. L'engrenage parfait pour enchaîner les tomes.
 - [ ] **Seul sur Mars** · Andy Weir · Abandonné pour mort sur Mars, Mark Watney fait pousser des pommes de terre dans ses propres déjections et « science » sa survie jour après jour. L'humour et la débrouille scientifique ; attention, ça donne des envies de potager.
+- [ ] **Le Labyrinthe (L'Épreuve)** · James Dashner · Thomas se réveille sans souvenirs au milieu d'un groupe d'adolescents, enfermé derrière les murs d'un labyrinthe qui change chaque nuit. Entraide, pièges et fuite ; pour prolonger Hunger Games et Divergente. La survie reste violente, avec des morts parmi les jeunes personnages.
+- [ ] **Legend** · Marie Lu · June, prodige de l'armée, traque Day, jeune fugitif accusé d'avoir tué son frère ; leur rencontre met à l'épreuve ce qu'ils croient savoir de leur pays. Une dystopie où l'enquête et la rébellion avancent avec l'histoire d'amour.
 
 ## Phase 4 · Les classiques qui n'ont pas vieilli
 
@@ -64,6 +66,7 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - [ ] **Le Seigneur des anneaux** · J.R.R. Tolkien (3 tomes) · Frodon doit porter l'Anneau Unique jusqu'au feu qui l'a forgé, pendant que le monde entier part en guerre. La matrice de toute la fantasy moderne ; quand Bilbo est digéré.
 - [ ] **À la croisée des mondes** · Philip Pullman (3 tomes) · Lyra et son dæmon poursuivent la Poussière à travers les univers, contre une Église qui mutile les enfants. Le grand vertige ; la fantasy la plus subversive du rayon jeunesse.
 - [ ] **La Passe-miroir** · Christelle Dabos (4 tomes) · Ophélie, liseuse d'objets maladroite, est fiancée de force au glacial Thorn sur l'arche du Pôle, entre illusions et complots de famille. Le phénomène français, parfait à cet âge.
+- [ ] **Gardiens des Cités perdues** · Shannon Messenger · Sophie, douze ans et télépathe, découvre qu'elle est une elfe et rejoint un monde dont elle ignore les règles comme sa propre origine. École, pouvoirs et secrets, avec des amitiés et des sentiments qui évoluent au fil des tomes ; un long cycle à se prêter, en commençant par le premier volume.
 - [ ] **Terremer** · Ursula K. Le Guin (6 tomes) · Ged, gamin doué et orgueilleux, lâche une ombre sur le monde et passera sa vie à la rattraper. La magie des vrais noms ; la fantasy la plus sage.
 - [ ] **L'Histoire sans fin** · Michael Ende · Bastien lit un livre volé dans un grenier et bascule dans le Pays Fantastique, rongé par le Néant à mesure que les hommes cessent de rêver. Bien plus vaste que le film, qui n'en couvre que la moitié.
 - [ ] **Coraline** · Neil Gaiman · Derrière une porte condamnée, Coraline découvre des parents « améliorés » aux yeux en boutons, qui veulent la garder pour toujours. Court et délicieusement effrayant ; se lit en une soirée.
@@ -74,7 +77,22 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 
 - [x] **Caraval** · Stephanie Garber (trilogie) · Deux sœurs s'échappent de leur île tyrannique pour Caraval, un jeu magique où rien n'est vrai, surtout pas l'amour. Féerique et tourbillonnant.
 
-## Phase 8 · Dans un an ou deux (à garder pour 13-14 ans)
+*Quelques idées venues du [parcours de sa sœur](/lectures-sf/parcours-13-ans/), pour comparer leurs impressions. Caraval est déjà lu ; Hurle et Cinder font une place à l'amour, avec assez de magie, d'humour ou d'aventure pour donner envie d'abord par l'histoire. La Passe-miroir, déjà proposée dans la phase fantasy, est une autre lecture commune possible.*
+
+- [ ] **Le Château de Hurle** · Diana Wynne Jones · Sophie, changée en vieille dame par une sorcière, s'installe dans le château ambulant du magicien Hurle et fait la connaissance de son démon du feu. Sortilèges, disputes et humour ; la romance se découvre au fil de l'aventure. Le film de Miyazaki offre ensuite de quoi comparer les deux versions.
+- [ ] **Chroniques lunaires (Cinder)** · Marissa Meyer · Une mécanicienne cyborg vit sous la coupe de sa belle-mère dans une Nouvelle-Pékin ravagée par une épidémie ; sa rencontre avec le prince l'entraîne dans un conflit avec la reine de la Lune. Contes revisités, robots et complots : une passerelle entre SF et romance.
+- [ ] **Il était une fois un cœur brisé** · Stephanie Garber (trilogie) · Pour empêcher le mariage du garçon qu'elle aime, Évangéline passe un marché avec Jacks, le Prince de Cœur ; les faveurs d'une Fatalité ont un prix. Malédictions et pactes amoureux dans l'univers de Caraval ; à lire après ce cycle pour retrouver ses liens avec Jacks.
+
+*Il était une fois un cœur brisé accorde davantage de place à la romance : une option s'il a envie de retrouver Caraval, après Hurle ou Cinder.*
+
+## Phase 8 · Suspense et SF venus du parcours de sa sœur
+
+*Elle peut déjà lui parler d'Inheritance Games ; Illuminae serait une découverte commune. Phobos, proposé plus haut, est aussi déjà lu de son côté. Chacun garde ses propres cases de lecture.*
+
+- [ ] **Inheritance Games** · Jennifer Lynn Barnes · Avery hérite d'un milliardaire qu'elle n'a jamais rencontré et doit vivre dans son manoir avec ses petits-fils déshérités. Codes, passages secrets et rivalités familiales ; pour entrer par les énigmes et discuter ensemble des suspects.
+- [ ] **Illuminae** · Amie Kaufman & Jay Kristoff (trilogie) · Après l'attaque de leur planète, Kady et Ezra fuient dans une flotte où se propagent un virus et les décisions inquiétantes d'une IA. Dossiers, messages et rapports racontent la catastrophe ; action et informatique côtoient l'histoire d'un couple séparé. Plus violent et angoissant que Cinder, à choisir selon l'envie du moment.
+
+## Phase 9 · Dans un an ou deux (à garder pour 13-14 ans)
 
 - [ ] **Dune** · Frank Herbert · Sur Arrakis, seule source de l'épice, Paul Atreides devient malgré lui le messie des Fremen ; écologie, religion et pouvoir en un seul monde. Le monument ; mieux vaut l'aborder avec un peu de maturité pour tout savourer.
 - [ ] **1984** · George Orwell · Winston Smith réécrit l'Histoire au ministère de la Vérité et rêve de trahir Big Brother. La dystopie absolue ; plus percutante vers 14 ans.

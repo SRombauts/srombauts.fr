@@ -35,6 +35,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - [x] **Le Prince cruel** · Holly Black (trilogie) · Jude, mortelle élevée à la cour des fae, veut sa place parmi ceux qui la méprisent, à commencer par le prince Cardan. Le « enemies-to-lovers » de référence, malin et vénéneux ; le carton absolu chez les lectrices de cet âge.
 - [ ] **Chroniques lunaires (Cinder)** · Marissa Meyer (5 tomes) · Cendrillon est une cyborg mécanicienne dans une Nouvelle-Pékin menacée par la peste et par la reine de la Lune ; chaque tome réinvente un conte en SF, avec une romance à chaque fois. Addictif et très bien fait.
 - [x] **Caraval** · Stephanie Garber (trilogie) · Deux sœurs s'échappent de leur île tyrannique pour Caraval, un jeu magique où rien n'est vrai, surtout pas l'amour. Féerique et tourbillonnant.
+- [ ] **Il était une fois un cœur brisé** · Stephanie Garber (trilogie) · Pour empêcher le mariage du garçon qu'elle aime, Évangéline passe un marché avec Jacks, le Prince de Cœur ; les faveurs d'une Fatalité ont un prix. Malédictions et pactes amoureux dans l'univers de Caraval ; à lire après ce cycle pour retrouver ses liens avec Jacks.
 - [ ] **Une braise sous la cendre** · Sabaa Tahir (4 tomes) · Dans un empire inspiré de Rome, une esclave devenue espionne rencontre le soldat d'élite qui rêve de déserter. Romance et rébellion, intense.
 - [ ] **Red Queen** · Victoria Aveyard (4 tomes) · Chez les Argents au sang d'argent et aux pouvoirs, les Rouges servent ; Mare, voleuse rouge, manifeste un pouvoir impossible en pleine cour et devient un mensonge d'État. Princes, trahisons et arène ; le grand frisson post-Divergente.
 - [ ] **Six of Crows** · Leigh Bardugo (2 tomes) · Six parias montent le braquage impossible d'une forteresse-prison, et trois histoires d'amour avancent en sous-texte, dont Kaz et Inej, culte. L'étape « qualité d'écriture » au-dessus.
@@ -49,6 +50,7 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 
 - [x] **La Sélection** · Kiera Cass (5 tomes) · Dans l'Illéa d'après-guerre, 35 prétendantes tirées au sort concourent devant les caméras pour épouser le prince Maxon ; America y entre à contrecœur, le cœur déjà pris. Le Bachelor royal en dystopie de castes ; romance d'abord, monde ensuite.
 - [x] **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit sa faction à seize ans ; Tris, divergente donc traquée, rencontre Quatre, son instructeur. Dystopie et histoire d'amour à parts égales.
+- [ ] **Legend** · Marie Lu · June, prodige de l'armée, traque Day, jeune fugitif accusé d'avoir tué son frère ; leur rencontre met à l'épreuve ce qu'ils croient savoir de leur pays. Une dystopie où l'enquête et la rébellion avancent avec l'histoire d'amour.
 - [ ] **Entre chiens et loups** · Malorie Blackman (intégrale) · Dans un monde où les Noirs dominent et où les Blancs sont relégués, Sephy et Callum s'aiment depuis l'enfance, contre tout. Roméo et Juliette en dystopie ; l'histoire d'amour qui fait réfléchir, parfaite à 13 ans.
 - [x] **The Book of Ivy** · Amy Engel (2 tomes) · Mariée de force au fils du président, Ivy doit l'assassiner pour venger sa famille ; encore faudrait-il qu'il soit détestable. Dystopie et dilemme amoureux, très plébiscité sur Babelio.
 - [ ] **Illuminae** · Amie Kaufman & Jay Kristoff (trilogie) · Kady et Ezra viennent de rompre quand leur planète est attaquée ; entre flotte en déroute, virus mutant et IA folle, ils n'ont plus qu'eux. Raconté en dossiers, chats et rapports déclassifiés ; spectaculaire et original.
@@ -61,7 +63,24 @@ excerpt: "De la romantasy vers la SF : un parcours pour une lectrice de 13 ans q
 - [x] **Secrets et Préjugés** · Anne Barton · Annabelle, couturière à Londres, fait chanter de riches clients pour aider sa famille ; le duc de Huntford la démasque et exige qu'elle habille ses sœurs en échange de son silence. Une romance historique entre deux milieux sociaux, hors SF et fantasy.
 - [x] **Powerless** · Lauren Roberts · Dans le royaume d'Ilya, les habitants sans pouvoir sont bannis ; Paedyn cache sa condition en se faisant passer pour médium, jusqu'à ce qu'elle sauve le prince Kai et se retrouve dans les Épreuves de la Purge. Compétition meurtrière et amour interdit ; à la croisée de Hunger Games et de la romantasy.
 
-## Phase 6 · Un peu plus tard (15-16 ans, mais autant les avoir en tête)
+## Phase 6 · Aventure et dystopie à partager avec son frère
+
+*Ces livres viennent du [parcours de son frère](/lectures-sf/parcours-12-ans/). L'aventure donne le départ ; leurs discussions peuvent ensuite porter sur les choix des personnages, les secrets du monde ou les règles du jeu. Ils peuvent découvrir le même livre ensemble ou se le prêter une fois terminé.*
+
+- [ ] **Le Labyrinthe (L'Épreuve)** · James Dashner · Thomas se réveille sans souvenirs au milieu d'un groupe d'adolescents, enfermé derrière les murs d'un labyrinthe qui change chaque nuit. Entraide, pièges et fuite ; pour prolonger Hunger Games et Divergente. La survie reste violente, avec des morts parmi les jeunes personnages.
+- [ ] **Le Passeur** · Lois Lowry · Jonas reçoit les souvenirs que sa communauté a effacés pour vivre sans douleur ni conflit ; il découvre aussi ce que cette tranquillité coûte aux habitants. Court, avec des décisions qui donnent matière à discussion après Hunger Games et Divergente.
+- [ ] **La Stratégie Ender** · Orson Scott Card · Ender, enfant recruté pour une guerre spatiale, apprend à commander dans une école où les adultes manipulent les élèves. Compétition, amitiés et responsabilité ; pour comparer leurs réactions à la manière dont on traite les enfants. Violence et pression psychologique, malgré le jeune âge des personnages.
+- [ ] **Ready Player One** · Ernest Cline · Wade cherche les indices laissés par le créateur de l'OASIS, un monde virtuel où la victoire vaut une fortune. Jeux vidéo, énigmes et course contre une entreprise prête à tout ; une histoire d'amour accompagne la chasse au trésor. Les références aux années 80 peuvent aussi lancer des échanges avec les parents.
+
+## Phase 7 · Fantasy d'aventure à découvrir à deux
+
+*Pour retrouver des mondes à explorer entre deux romances. La Passe-miroir, Ellana et Coraline figurent déjà dans les deux parcours ; ces trois cycles élargissent les lectures communes.*
+
+- [ ] **À la croisée des mondes** · Philip Pullman (trilogie) · Lyra et son dæmon cherchent des enfants disparus, puis traversent les frontières entre les mondes. Ours en armure, amitié et premiers sentiments ; l'aventure ouvre aussi des questions sur la liberté et les adultes auxquels on peut faire confiance. Certains passages sur le sort des enfants sont éprouvants.
+- [ ] **Gardiens des Cités perdues** · Shannon Messenger · Sophie, douze ans et télépathe, découvre qu'elle est une elfe et rejoint un monde dont elle ignore les règles comme sa propre origine. École, pouvoirs et secrets, avec des amitiés et des sentiments qui évoluent au fil des tomes ; un long cycle à se prêter, en commençant par le premier volume.
+- [ ] **Terremer** · Ursula K. Le Guin · Ged, apprenti sorcier trop sûr de lui, libère une ombre qu'il doit ensuite affronter. Îles, dragons et magie des vrais noms ; un rythme plus posé pour parler de l'orgueil, de la peur et de ce qu'on apprend de ses erreurs. Commencer par Le Sorcier de Terremer, sans s'engager d'emblée dans tout le cycle.
+
+## Phase 8 · Un peu plus tard (15-16 ans, mais autant les avoir en tête)
 
 - [ ] **Princess Bride** · William Goldman · Amour vrai, duels parfaits, géants et vengeances : le conte de fées qui se moque des contes de fées en les surpassant. Drôle, tendre, culte.
 - [ ] **Le Temps n'est rien** · Audrey Niffenegger · Clare aime Henry, qui voyage dans le temps malgré lui : il disparaît sans prévenir et revient à des âges différents de leur histoire. Le grand mélo SF, pour dans deux ans.
