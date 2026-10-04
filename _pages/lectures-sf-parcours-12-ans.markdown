@@ -31,8 +31,8 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - [ ] **Méto** · Yves Grevet (3 tomes) · Dans la Maison, 64 garçons obéissent à des règles absurdes ; ceux qui grandissent trop disparaissent, et Méto veut savoir où. Impossible à lâcher.
 - [ ] **U4** · collectif (4 tomes + Contagion) · Le virus U4 a tué 90 % des humains en épargnant les 15-18 ans ; quatre survivants traversent la France en ruine, chacun dans son roman. À lire dans n'importe quel ordre.
 - [ ] **Phobos** · Victor Dixen (4 tomes) · Douze prétendants partent coloniser Mars en direct à la télévision, speed-dating orbital compris ; le vice est dans les coulisses. Cliffhangers redoutables.
-- [ ] **Hunger Games** · Suzanne Collins (3 tomes + préquelle) · Katniss se porte volontaire pour mourir à la place de sa sœur dans l'arène télévisée du Capitole. Violent mais jamais complaisant ; pour un lecteur solide, c'est le bon âge.
-- [ ] **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit à seize ans la faction qui correspond à sa personnalité ; Tris est divergente, donc dangereuse, donc traquée. L'engrenage parfait pour enchaîner les tomes.
+- [x] **Hunger Games** · Suzanne Collins (3 tomes + préquelle) · Katniss se porte volontaire pour mourir à la place de sa sœur dans l'arène télévisée du Capitole. Violent mais jamais complaisant ; pour un lecteur solide, c'est le bon âge.
+- [x] **Divergente** · Veronica Roth (trilogie) · À Chicago, on choisit à seize ans la faction qui correspond à sa personnalité ; Tris est divergente, donc dangereuse, donc traquée. L'engrenage parfait pour enchaîner les tomes.
 - [ ] **Seul sur Mars** · Andy Weir · Abandonné pour mort sur Mars, Mark Watney fait pousser des pommes de terre dans ses propres déjections et « science » sa survie jour après jour. L'humour et la débrouille scientifique ; attention, ça donne des envies de potager.
 
 ## Phase 4 · Les classiques qui n'ont pas vieilli
@@ -70,7 +70,11 @@ excerpt: "De Niourk à Dune : un parcours SF et fantasy pour un bon lecteur de 1
 - [ ] **La Belgariade** · David Eddings (5 tomes) · Garion, garçon de ferme, suit son grand-père sorcier vers un destin écrit depuis sept mille ans. La quête archétypale, chaleureuse et drôle.
 - [ ] **L'Héritage (Eragon)** · Christopher Paolini et [ ] **Le Pacte des Marchombres (Ellana)** · Pierre Bottero · Un garçon de ferme trouve un œuf de dragon et devient le dernier espoir contre l'empire ; une orpheline apprend, dans la voie des Marchombres, que la liberté est un art exigeant. Deux quêtes initiatiques qui se dévorent.
 
-## Phase 7 · Dans un an ou deux (à garder pour 13-14 ans)
+## Phase 7 · Fantasy romantique et aventures à partager
+
+- [x] **Caraval** · Stephanie Garber (trilogie) · Deux sœurs s'échappent de leur île tyrannique pour Caraval, un jeu magique où rien n'est vrai, surtout pas l'amour. Féerique et tourbillonnant.
+
+## Phase 8 · Dans un an ou deux (à garder pour 13-14 ans)
 
 - [ ] **Dune** · Frank Herbert · Sur Arrakis, seule source de l'épice, Paul Atreides devient malgré lui le messie des Fremen ; écologie, religion et pouvoir en un seul monde. Le monument ; mieux vaut l'aborder avec un peu de maturité pour tout savourer.
 - [ ] **1984** · George Orwell · Winston Smith réécrit l'Histoire au ministère de la Vérité et rêve de trahir Big Brother. La dystopie absolue ; plus percutante vers 14 ans.
