@@ -100,13 +100,13 @@ Spearheaded the team's AI effort to demonstrate, teach and encourage a coordinat
 * Changes included database schema version updates; investigated performance issues with Datadog, using instrumentation set up by a squad colleague.
 * Contributed to multi-region deployments of the web backend and frontend in Europe, the United States and Asia, before plasticscm.com was partly integrated into unity.com.
 * Contributed to infrastructure changes in a supporting role: editing and reviewing Terraform configuration files in a Git repository, with automated deployments after PR merges.
-* Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included Prometheus/Grafana for cluster monitoring and BigQuery/Looker for analytics.
+* Cloud environment primarily on GCP, with historical AWS usage, Terraform Infrastructure as Code configurations and Kubernetes microservices which I did not administer. The environment also included BigQuery/Looker for analytics.
 
 **Unity Version Control plugin (Unreal Engine, C++)**
 
 * Hired as the original developer of the Unity Version Control (formerly Plastic SCM) plugin for Unreal Engine, with a mandate to modernize it and migrate it to Unreal Engine 5 (C++).
 * Owned the plugin end to end: feature development, customer support and releases, bringing it in line with the modern Unreal Engine 5 source-control APIs. After joining the VCS Tech team in July 2024, I continued maintaining it in parallel, including the 1.12.x releases published in 2024 and 2025.
-* Added tracking events for the Unreal Engine 5 plugin in the Prometheus/Grafana environment, and created dashboards and charts in Grafana.
+* Added tracking events for the Unreal Engine 5 plugin and created dashboards and charts in Grafana.
 
 The Unreal plugin stayed my primary focus throughout this period, though by mid-2023 I had also begun contributing to the Unity Editor package (above).
 
@@ -199,6 +199,7 @@ The Unreal plugin stayed my primary focus throughout this period, though by mid-
 * Contributed to the migration of the embedded computers from Windows CE to Linux, then spent several years developing and maintaining headless applications running on them.
 * Android applications with a VoIP service over Protocol Buffers on TCP/IP, an embedded web maintenance server and an asynchronous task sequencer.
 * Developed and deployed a crash-reporting service, first on Android and later on Linux.
+* Occasional use of Prometheus.
 * Designed and developed the automated test scenario engine for Jenkins and later GitLab CI.
 * Deployed and maintained Jenkins for the Embedded R&D team, then adapted its continuous-integration processes for other teams.
 * Rolled out Git across the company, then deployed GitLab CI on the virtualized infrastructure managed by IT. Established the development workflow and wrote its reference documentation.

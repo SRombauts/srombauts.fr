@@ -100,13 +100,13 @@ Pilotage de l'effort IA de l'équipe pour montrer, former et encourager une dém
 * Modifications incluant des mises à jour de version du schéma de la base de données ; suivi des problèmes de performance avec Datadog, sur une instrumentation mise en place par un collègue de la squad.
 * Participation aux déploiements multi-région du backend web et du frontend en Europe, aux États-Unis et en Asie, avant l'intégration partielle de plasticscm.com à unity.com.
 * Contribution secondaire aux évolutions de l'infrastructure : modification et revue des fichiers de configuration Terraform dans un dépôt Git, avec déploiements automatisés après fusion des PR.
-* Environnement cloud principalement sur GCP, avec un historique AWS, des configurations d'Infrastructure as Code en Terraform et des microservices sur Kubernetes dont je n'assurais pas l'administration. L'environnement comprenait aussi Prometheus/Grafana pour le monitoring des clusters et BigQuery/Looker pour l'analytics.
+* Environnement cloud principalement sur GCP, avec un historique AWS, des configurations d'Infrastructure as Code en Terraform et des microservices sur Kubernetes dont je n'assurais pas l'administration. L'environnement comprenait aussi BigQuery/Looker pour l'analytics.
 
 **Plugin Unity Version Control (Unreal Engine, C++)**
 
 * Recruté comme développeur initial du plugin Unity Version Control (anciennement Plastic SCM) pour Unreal Engine, avec pour mission de le moderniser et de le migrer vers Unreal Engine 5 (C++).
 * Responsable du plugin de bout en bout : développement des fonctionnalités, support client et publications, en l'alignant sur les API de contrôle de version modernes d'Unreal Engine 5. Après mon passage dans l'équipe VCS Tech en juillet 2024, j'en ai poursuivi la maintenance en parallèle, notamment pour les versions 1.12.x publiées en 2024 et 2025.
-* Ajout d'événements de suivi pour le plugin Unreal Engine 5 dans l'environnement Prometheus/Grafana, et création de tableaux de bord et de graphiques dans Grafana.
+* Ajout d'événements de suivi pour le plugin Unreal Engine 5 et création de tableaux de bord et de graphiques dans Grafana.
 
 Le plugin Unreal est resté ma priorité durant toute cette période, même si dès mi-2023 j'avais commencé à contribuer au package de l'éditeur Unity (ci-dessus).
 
@@ -199,6 +199,7 @@ Le plugin Unreal est resté ma priorité durant toute cette période, même si d
 * Contribution à la migration des calculateurs embarqués de Windows CE vers Linux, puis développement et maintenance pendant plusieurs années d'applications sans interface graphique exécutées sur ces calculateurs.
 * Applications Android, avec service de VoIP en Protocol Buffers sur TCP/IP, serveur web de maintenance embarqué, séquenceur de traitements asynchrones.
 * Développement et déploiement d'un service de rapports de plantage, d'abord sur Android puis sous Linux.
+* Utilisation ponctuelle de Prometheus.
 * Conception et développement du moteur de scénarios de tests automatiques pour Jenkins puis GitLab CI.
 * Déploiement et maintenance de Jenkins pour l'équipe de R&D embarquée, puis adaptation des processus d'intégration continue aux besoins d'autres équipes.
 * Déploiement de Git dans l'entreprise, puis de GitLab CI sur l'infrastructure virtualisée gérée par l'IT. Mise en place du workflow de développement et de sa documentation de référence.
